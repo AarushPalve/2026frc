@@ -1,0 +1,5065 @@
+{
+  "event": "2026orwil",
+  "extracted_at": "2026-03-28T04:10:49.166902+00:00",
+  "components": [
+    "a_points",
+    "a_fuel",
+    "tele_fuel",
+    "tower_points",
+    "total_points"
+  ],
+  "matches": [
+    {
+      "match_key": "2026orore_qm1",
+      "time": null,
+      "status": "qm",
+      "teams": [
+        {
+          "team": 2635,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 6.502720000000001,
+            "a_fuel": 6.502720000000001,
+            "tele_fuel": 38.73856000000001,
+            "tower_points": 0.0,
+            "total_points": 45.24128000000001
+          },
+          "avg_bps": 2.24,
+          "a_scoring_time": 2.903,
+          "t_scoring_time": 17.294,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 2557,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 28.447499999999998,
+            "a_fuel": 37.93,
+            "tele_fuel": 157.6875,
+            "tower_points": 0.0,
+            "total_points": 186.135
+          },
+          "avg_bps": 10.0,
+          "a_scoring_time": 3.793,
+          "t_scoring_time": 21.025,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 3669,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 2.834,
+            "a_fuel": 2.834,
+            "tele_fuel": 1.741,
+            "tower_points": 0.0,
+            "total_points": 4.575
+          },
+          "avg_bps": 1.0,
+          "a_scoring_time": 2.834,
+          "t_scoring_time": 1.741,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 2898,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 7.352888399999999,
+            "a_fuel": 9.426779999999999,
+            "tele_fuel": 12.13641,
+            "tower_points": 0.0,
+            "total_points": 19.4892984
+          },
+          "avg_bps": 5.06,
+          "a_scoring_time": 1.863,
+          "t_scoring_time": 3.075,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 10991,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0,
+            "total_points": 0.0
+          },
+          "avg_bps": 3.235,
+          "a_scoring_time": 0.0,
+          "t_scoring_time": 0.0,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 8032,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 20.166400000000003,
+            "a_fuel": 21.92,
+            "tele_fuel": 141.473,
+            "tower_points": 0.0,
+            "total_points": 161.63940000000002
+          },
+          "avg_bps": 5.0,
+          "a_scoring_time": 4.384,
+          "t_scoring_time": 30.755,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        }
+      ]
+    },
+    {
+      "match_key": "2026orore_qm10",
+      "time": null,
+      "status": "qm",
+      "teams": [
+        {
+          "team": 2550,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 21.20175,
+            "tower_points": 10.0,
+            "total_points": 31.20175
+          },
+          "avg_bps": 2.25,
+          "a_scoring_time": 0.0,
+          "t_scoring_time": 9.423,
+          "a_climb": 0.0,
+          "end_climb": 10.0
+        },
+        {
+          "team": 10444,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 2.7223765,
+            "a_fuel": 3.05885,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0,
+            "total_points": 2.7223765
+          },
+          "avg_bps": 1.31,
+          "a_scoring_time": 2.335,
+          "t_scoring_time": 0.0,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 2915,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 192.95640000000003,
+            "tower_points": 0.0,
+            "total_points": 192.95640000000003
+          },
+          "avg_bps": 5.32,
+          "a_scoring_time": 0.0,
+          "t_scoring_time": 36.27,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 5975,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 2.4779682000000003,
+            "tower_points": 0.0,
+            "total_points": 2.4779682000000003
+          },
+          "avg_bps": 0.81,
+          "a_scoring_time": 0.0,
+          "t_scoring_time": 4.566,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 2733,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.361,
+            "a_fuel": 0.361,
+            "tele_fuel": 2.736,
+            "tower_points": 0.0,
+            "total_points": 3.0970000000000004
+          },
+          "avg_bps": 1.0,
+          "a_scoring_time": 0.361,
+          "t_scoring_time": 2.736,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 2635,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 7.7168,
+            "a_fuel": 7.7168,
+            "tele_fuel": 28.237440000000003,
+            "tower_points": 0.0,
+            "total_points": 35.954240000000006
+          },
+          "avg_bps": 2.24,
+          "a_scoring_time": 3.445,
+          "t_scoring_time": 12.606,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        }
+      ]
+    },
+    {
+      "match_key": "2026orore_qm11",
+      "time": null,
+      "status": "qm",
+      "teams": [
+        {
+          "team": 997,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 6.019,
+            "a_fuel": 6.019,
+            "tele_fuel": 56.8074,
+            "tower_points": 0.0,
+            "total_points": 62.8264
+          },
+          "avg_bps": 2.6,
+          "a_scoring_time": 2.315,
+          "t_scoring_time": 21.849,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 2930,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 34.7166,
+            "tower_points": 0.0,
+            "total_points": 34.7166
+          },
+          "avg_bps": 3.24,
+          "a_scoring_time": 0.0,
+          "t_scoring_time": 10.715,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 2811,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 19.236376799999995,
+            "tower_points": 0.0,
+            "total_points": 19.236376799999995
+          },
+          "avg_bps": 2.78,
+          "a_scoring_time": 0.0,
+          "t_scoring_time": 8.046,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 6696,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 6.568128000000001,
+            "a_fuel": 7.29792,
+            "tele_fuel": 226.73347199999998,
+            "tower_points": 0.0,
+            "total_points": 233.30159999999998
+          },
+          "avg_bps": 6.72,
+          "a_scoring_time": 1.086,
+          "t_scoring_time": 37.489,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 6465,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 13.959948999999998,
+            "tower_points": 0.0,
+            "total_points": 13.959948999999998
+          },
+          "avg_bps": 4.85,
+          "a_scoring_time": 0.0,
+          "t_scoring_time": 4.054,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 4488,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 21.779667,
+            "a_fuel": 23.933699999999998,
+            "tele_fuel": 143.78364,
+            "tower_points": 0.0,
+            "total_points": 165.56330699999998
+          },
+          "avg_bps": 6.3,
+          "a_scoring_time": 3.799,
+          "t_scoring_time": 25.08,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        }
+      ]
+    },
+    {
+      "match_key": "2026orore_qm12",
+      "time": null,
+      "status": "qm",
+      "teams": [
+        {
+          "team": 1540,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 12.498449999999998,
+            "a_fuel": 12.498449999999998,
+            "tele_fuel": 162.47984999999997,
+            "tower_points": 0.0,
+            "total_points": 174.97829999999996
+          },
+          "avg_bps": 4.85,
+          "a_scoring_time": 2.577,
+          "t_scoring_time": 33.501,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 1359,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 2.33162,
+            "a_fuel": 2.33162,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0,
+            "total_points": 2.33162
+          },
+          "avg_bps": 0.73,
+          "a_scoring_time": 3.194,
+          "t_scoring_time": 0.0,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 4662,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0,
+            "total_points": 0.0
+          },
+          "avg_bps": 2.74,
+          "a_scoring_time": 0.0,
+          "t_scoring_time": 0.0,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 2557,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0,
+            "total_points": 0.0
+          },
+          "avg_bps": 10.0,
+          "a_scoring_time": 0.0,
+          "t_scoring_time": 0.0,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        }
+      ]
+    },
+    {
+      "match_key": "2026orore_qm13",
+      "time": null,
+      "status": "qm",
+      "teams": [
+        {
+          "team": 5975,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0,
+            "total_points": 0.0
+          },
+          "avg_bps": 0.81,
+          "a_scoring_time": 0.0,
+          "t_scoring_time": 0.0,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 2471,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 48.5017104,
+            "a_fuel": 55.11558,
+            "tele_fuel": 18.2647608,
+            "tower_points": 0.0,
+            "total_points": 66.7664712
+          },
+          "avg_bps": 7.41,
+          "a_scoring_time": 7.438,
+          "t_scoring_time": 2.801,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 3669,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0,
+            "total_points": 0.0
+          },
+          "avg_bps": 1.0,
+          "a_scoring_time": 0.0,
+          "t_scoring_time": 0.0,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 2635,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 3.0374400000000006,
+            "a_fuel": 3.0374400000000006,
+            "tele_fuel": 69.6528,
+            "tower_points": 0.0,
+            "total_points": 72.69024
+          },
+          "avg_bps": 2.24,
+          "a_scoring_time": 1.356,
+          "t_scoring_time": 31.095,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 3636,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 2.021,
+            "a_fuel": 2.021,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0,
+            "total_points": 2.021
+          },
+          "avg_bps": 1.0,
+          "a_scoring_time": 2.021,
+          "t_scoring_time": 0.0,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 2521,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 15.542999999999997,
+            "a_fuel": 17.662499999999998,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0,
+            "total_points": 15.542999999999997
+          },
+          "avg_bps": 9.375,
+          "a_scoring_time": 1.884,
+          "t_scoring_time": 0.0,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        }
+      ]
+    },
+    {
+      "match_key": "2026orore_qm14",
+      "time": null,
+      "status": "qm",
+      "teams": [
+        {
+          "team": 5970,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.562848,
+            "tower_points": 0.0,
+            "total_points": 0.562848
+          },
+          "avg_bps": 6.15,
+          "a_scoring_time": 0.0,
+          "t_scoring_time": 0.704,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 2811,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 82.267428,
+            "tower_points": 0.0,
+            "total_points": 82.267428
+          },
+          "avg_bps": 2.78,
+          "a_scoring_time": 0.0,
+          "t_scoring_time": 34.41,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 4488,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 24.044202000000002,
+            "a_fuel": 26.4222,
+            "tele_fuel": 113.209551,
+            "tower_points": 0.0,
+            "total_points": 137.25375300000002
+          },
+          "avg_bps": 6.3,
+          "a_scoring_time": 4.194,
+          "t_scoring_time": 19.747,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 10444,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 3.6329444000000004,
+            "a_fuel": 4.0819600000000005,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0,
+            "total_points": 3.6329444000000004
+          },
+          "avg_bps": 1.31,
+          "a_scoring_time": 3.116,
+          "t_scoring_time": 0.0,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 9567,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 1.758272,
+            "a_fuel": 5.4946,
+            "tele_fuel": 0.5830896,
+            "tower_points": 0.0,
+            "total_points": 2.3413616
+          },
+          "avg_bps": 1.655,
+          "a_scoring_time": 3.32,
+          "t_scoring_time": 1.101,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 2898,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0,
+            "total_points": 0.0
+          },
+          "avg_bps": 5.06,
+          "a_scoring_time": 0.0,
+          "t_scoring_time": 0.0,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        }
+      ]
+    },
+    {
+      "match_key": "2026orore_qm15",
+      "time": null,
+      "status": "qm",
+      "teams": [
+        {
+          "team": 10991,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 4.451359999999999,
+            "a_fuel": 4.451359999999999,
+            "tele_fuel": 27.025189999999995,
+            "tower_points": 0.0,
+            "total_points": 31.476549999999996
+          },
+          "avg_bps": 3.235,
+          "a_scoring_time": 1.376,
+          "t_scoring_time": 8.354,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 2733,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.313,
+            "a_fuel": 0.313,
+            "tele_fuel": 1.68,
+            "tower_points": 0.0,
+            "total_points": 1.9929999999999999
+          },
+          "avg_bps": 1.0,
+          "a_scoring_time": 0.313,
+          "t_scoring_time": 1.68,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 2930,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 42.67404,
+            "tower_points": 0.0,
+            "total_points": 42.67404
+          },
+          "avg_bps": 3.24,
+          "a_scoring_time": 0.0,
+          "t_scoring_time": 13.171,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 1425,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 67.96032,
+            "a_fuel": 70.792,
+            "tele_fuel": 81.04704000000001,
+            "tower_points": 0.0,
+            "total_points": 149.00736
+          },
+          "avg_bps": 8.0,
+          "a_scoring_time": 8.849,
+          "t_scoring_time": 10.553,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 1359,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 1.6797300000000002,
+            "a_fuel": 1.6797300000000002,
+            "tele_fuel": 0.0,
+            "tower_points": 10.0,
+            "total_points": 11.67973
+          },
+          "avg_bps": 0.73,
+          "a_scoring_time": 2.301,
+          "t_scoring_time": 0.0,
+          "a_climb": 0.0,
+          "end_climb": 10.0
+        }
+      ]
+    },
+    {
+      "match_key": "2026orore_qm16",
+      "time": null,
+      "status": "qm",
+      "teams": [
+        {
+          "team": 3674,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 9.828299249999999,
+            "a_fuel": 11.562705,
+            "tele_fuel": 108.29716975,
+            "tower_points": 0.0,
+            "total_points": 118.125469
+          },
+          "avg_bps": 3.905,
+          "a_scoring_time": 2.961,
+          "t_scoring_time": 32.627,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 4915,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 25.7309712,
+            "a_fuel": 28.12128,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0,
+            "total_points": 25.7309712
+          },
+          "avg_bps": 5.28,
+          "a_scoring_time": 5.326,
+          "t_scoring_time": 0.0,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 9600,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 26.800327399999997,
+            "tower_points": 0.0,
+            "total_points": 26.800327399999997
+          },
+          "avg_bps": 1.93,
+          "a_scoring_time": 0.0,
+          "t_scoring_time": 19.558,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 6831,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 1.5296774999999998,
+            "a_fuel": 2.637375,
+            "tele_fuel": 4.92362,
+            "tower_points": 0.0,
+            "total_points": 6.4532975
+          },
+          "avg_bps": 1.625,
+          "a_scoring_time": 1.623,
+          "t_scoring_time": 5.224,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 2550,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 6.8355,
+            "tower_points": 10.0,
+            "total_points": 16.8355
+          },
+          "avg_bps": 2.25,
+          "a_scoring_time": 0.0,
+          "t_scoring_time": 3.038,
+          "a_climb": 0.0,
+          "end_climb": 10.0
+        }
+      ]
+    },
+    {
+      "match_key": "2026orore_qm17",
+      "time": null,
+      "status": "qm",
+      "teams": [
+        {
+          "team": 2915,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 85.16256,
+            "tower_points": 0.0,
+            "total_points": 85.16256
+          },
+          "avg_bps": 5.32,
+          "a_scoring_time": 0.0,
+          "t_scoring_time": 16.008,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 8032,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 41.929,
+            "a_fuel": 45.575,
+            "tele_fuel": 111.02100000000002,
+            "tower_points": 0.0,
+            "total_points": 152.95000000000002
+          },
+          "avg_bps": 5.0,
+          "a_scoring_time": 9.115,
+          "t_scoring_time": 24.135,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 955,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 283.7828,
+            "tower_points": 0.0,
+            "total_points": 283.7828
+          },
+          "avg_bps": 7.0,
+          "a_scoring_time": 0.0,
+          "t_scoring_time": 47.14,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 2990,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 57.0403253,
+            "tower_points": 0.0,
+            "total_points": 57.0403253
+          },
+          "avg_bps": 4.27,
+          "a_scoring_time": 0.0,
+          "t_scoring_time": 21.899,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 997,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 11.5336,
+            "a_fuel": 11.5336,
+            "tele_fuel": 76.453,
+            "tower_points": 0.0,
+            "total_points": 87.98660000000001
+          },
+          "avg_bps": 2.6,
+          "a_scoring_time": 4.436,
+          "t_scoring_time": 29.405,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 6465,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 4.541976499999999,
+            "tower_points": 0.0,
+            "total_points": 4.541976499999999
+          },
+          "avg_bps": 4.85,
+          "a_scoring_time": 0.0,
+          "t_scoring_time": 1.319,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        }
+      ]
+    },
+    {
+      "match_key": "2026orore_qm18",
+      "time": null,
+      "status": "qm",
+      "teams": [
+        {
+          "team": 6696,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0,
+            "total_points": 0.0
+          },
+          "avg_bps": 6.72,
+          "a_scoring_time": 0.0,
+          "t_scoring_time": 0.0,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 2521,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 23.504250000000003,
+            "a_fuel": 26.709375,
+            "tele_fuel": 166.65,
+            "tower_points": 0.0,
+            "total_points": 190.15425000000002
+          },
+          "avg_bps": 9.375,
+          "a_scoring_time": 2.849,
+          "t_scoring_time": 20.2,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 5975,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 1.5087059999999999,
+            "tower_points": 0.0,
+            "total_points": 1.5087059999999999
+          },
+          "avg_bps": 0.81,
+          "a_scoring_time": 0.0,
+          "t_scoring_time": 2.78,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 1540,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0,
+            "total_points": 0.0
+          },
+          "avg_bps": 4.85,
+          "a_scoring_time": 0.0,
+          "t_scoring_time": 0.0,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        }
+      ]
+    },
+    {
+      "match_key": "2026orore_qm19",
+      "time": null,
+      "status": "qm",
+      "teams": [
+        {
+          "team": 2930,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 20.05884,
+            "tower_points": 0.0,
+            "total_points": 20.05884
+          },
+          "avg_bps": 3.24,
+          "a_scoring_time": 0.0,
+          "t_scoring_time": 6.191,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 3669,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0,
+            "total_points": 0.0
+          },
+          "avg_bps": 1.0,
+          "a_scoring_time": 0.0,
+          "t_scoring_time": 0.0,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 9567,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.6291648,
+            "a_fuel": 1.96614,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0,
+            "total_points": 0.6291648
+          },
+          "avg_bps": 1.655,
+          "a_scoring_time": 1.188,
+          "t_scoring_time": 0.0,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 10444,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 1.6182691999999999,
+            "a_fuel": 1.81828,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0,
+            "total_points": 1.6182691999999999
+          },
+          "avg_bps": 1.31,
+          "a_scoring_time": 1.388,
+          "t_scoring_time": 0.0,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 749,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 11.722601399999999,
+            "a_fuel": 17.496419999999997,
+            "tele_fuel": 73.8445257,
+            "tower_points": 0.0,
+            "total_points": 85.56712710000001
+          },
+          "avg_bps": 4.89,
+          "a_scoring_time": 3.578,
+          "t_scoring_time": 22.539,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 9430,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 11.710874249999998,
+            "a_fuel": 16.152929999999998,
+            "tele_fuel": 46.039486499999995,
+            "tower_points": 0.0,
+            "total_points": 57.75036074999999
+          },
+          "avg_bps": 4.545,
+          "a_scoring_time": 3.554,
+          "t_scoring_time": 13.972,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        }
+      ]
+    },
+    {
+      "match_key": "2026orore_qm2",
+      "time": null,
+      "status": "qm",
+      "teams": [
+        {
+          "team": 4915,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 21.2621112,
+            "a_fuel": 23.23728,
+            "tele_fuel": 117.9972288,
+            "tower_points": 0.0,
+            "total_points": 139.25934
+          },
+          "avg_bps": 5.28,
+          "a_scoring_time": 4.401,
+          "t_scoring_time": 24.424,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 4662,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 1.4713800000000001,
+            "tower_points": 0.0,
+            "total_points": 1.4713800000000001
+          },
+          "avg_bps": 2.74,
+          "a_scoring_time": 0.0,
+          "t_scoring_time": 1.074,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 6465,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 28.288352499999995,
+            "tower_points": 0.0,
+            "total_points": 28.288352499999995
+          },
+          "avg_bps": 4.85,
+          "a_scoring_time": 0.0,
+          "t_scoring_time": 8.215,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 9567,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 1.1614128000000001,
+            "a_fuel": 3.6294150000000003,
+            "tele_fuel": 0.9628128000000001,
+            "tower_points": 0.0,
+            "total_points": 2.1242256000000004
+          },
+          "avg_bps": 1.655,
+          "a_scoring_time": 2.193,
+          "t_scoring_time": 1.818,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 2521,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 51.843,
+            "a_fuel": 58.9125,
+            "tele_fuel": 65.62049999999999,
+            "tower_points": 0.0,
+            "total_points": 117.4635
+          },
+          "avg_bps": 9.375,
+          "a_scoring_time": 6.284,
+          "t_scoring_time": 7.954,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 4488,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 21.963123,
+            "a_fuel": 24.135299999999997,
+            "tele_fuel": 91.355355,
+            "tower_points": 10.0,
+            "total_points": 123.318478
+          },
+          "avg_bps": 6.3,
+          "a_scoring_time": 3.831,
+          "t_scoring_time": 15.935,
+          "a_climb": 0.0,
+          "end_climb": 10.0
+        }
+      ]
+    },
+    {
+      "match_key": "2026orore_qm20",
+      "time": null,
+      "status": "qm",
+      "teams": [
+        {
+          "team": 8032,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 25.2586,
+            "a_fuel": 27.455,
+            "tele_fuel": 67.0036,
+            "tower_points": 0.0,
+            "total_points": 92.2622
+          },
+          "avg_bps": 5.0,
+          "a_scoring_time": 5.491,
+          "t_scoring_time": 14.566,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 4915,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 117.78465600000001,
+            "tower_points": 0.0,
+            "total_points": 117.78465600000001
+          },
+          "avg_bps": 5.28,
+          "a_scoring_time": 0.0,
+          "t_scoring_time": 24.38,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 6831,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 4.7794175,
+            "tower_points": 0.0,
+            "total_points": 4.7794175
+          },
+          "avg_bps": 1.625,
+          "a_scoring_time": 0.0,
+          "t_scoring_time": 5.071,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 997,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 14.3598,
+            "a_fuel": 14.3598,
+            "tele_fuel": 2.639,
+            "tower_points": 0.0,
+            "total_points": 16.9988
+          },
+          "avg_bps": 2.6,
+          "a_scoring_time": 5.523,
+          "t_scoring_time": 1.015,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 955,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0,
+            "total_points": 0.0
+          },
+          "avg_bps": 7.0,
+          "a_scoring_time": 0.0,
+          "t_scoring_time": 0.0,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 3674,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 7.8998149999999985,
+            "a_fuel": 9.293899999999999,
+            "tele_fuel": 53.71210349999999,
+            "tower_points": 0.0,
+            "total_points": 61.61191849999999
+          },
+          "avg_bps": 3.905,
+          "a_scoring_time": 2.38,
+          "t_scoring_time": 16.182,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        }
+      ]
+    },
+    {
+      "match_key": "2026orore_qm21",
+      "time": null,
+      "status": "qm",
+      "teams": [
+        {
+          "team": 6696,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 51.63177600000001,
+            "a_fuel": 57.368640000000006,
+            "tele_fuel": 346.266144,
+            "tower_points": 0.0,
+            "total_points": 397.89792
+          },
+          "avg_bps": 6.72,
+          "a_scoring_time": 8.537,
+          "t_scoring_time": 57.253,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 2733,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0,
+            "total_points": 0.0
+          },
+          "avg_bps": 1.0,
+          "a_scoring_time": 0.0,
+          "t_scoring_time": 0.0,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 9600,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 10.82537,
+            "a_fuel": 15.247,
+            "tele_fuel": 63.5038129,
+            "tower_points": 0.0,
+            "total_points": 74.3291829
+          },
+          "avg_bps": 1.93,
+          "a_scoring_time": 7.9,
+          "t_scoring_time": 46.343,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 10991,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 3.87553,
+            "a_fuel": 3.87553,
+            "tele_fuel": 44.523305,
+            "tower_points": 0.0,
+            "total_points": 48.398835
+          },
+          "avg_bps": 3.235,
+          "a_scoring_time": 1.198,
+          "t_scoring_time": 13.763,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 2811,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 24.916917599999998,
+            "tower_points": 0.0,
+            "total_points": 24.916917599999998
+          },
+          "avg_bps": 2.78,
+          "a_scoring_time": 0.0,
+          "t_scoring_time": 10.422,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 957,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 8.308291200000001,
+            "a_fuel": 9.44124,
+            "tele_fuel": 71.0660544,
+            "tower_points": 0.0,
+            "total_points": 79.3743456
+          },
+          "avg_bps": 3.48,
+          "a_scoring_time": 2.713,
+          "t_scoring_time": 23.206,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        }
+      ]
+    },
+    {
+      "match_key": "2026orore_qm22",
+      "time": null,
+      "status": "qm",
+      "teams": [
+        {
+          "team": 1540,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 40.90489999999999,
+            "a_fuel": 40.90489999999999,
+            "tele_fuel": 234.2162,
+            "tower_points": 0.0,
+            "total_points": 275.12109999999996
+          },
+          "avg_bps": 4.85,
+          "a_scoring_time": 8.434,
+          "t_scoring_time": 48.292,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 6465,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 38.18152799999999,
+            "tower_points": 0.0,
+            "total_points": 38.18152799999999
+          },
+          "avg_bps": 4.85,
+          "a_scoring_time": 0.0,
+          "t_scoring_time": 11.088,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 5970,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0,
+            "total_points": 0.0
+          },
+          "avg_bps": 6.15,
+          "a_scoring_time": 0.0,
+          "t_scoring_time": 0.0,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 3636,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 4.2,
+            "a_fuel": 4.2,
+            "tele_fuel": 4.023,
+            "tower_points": 0.0,
+            "total_points": 8.222999999999999
+          },
+          "avg_bps": 1.0,
+          "a_scoring_time": 4.2,
+          "t_scoring_time": 4.023,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 2915,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 73.0702,
+            "tower_points": 0.0,
+            "total_points": 73.0702
+          },
+          "avg_bps": 5.32,
+          "a_scoring_time": 0.0,
+          "t_scoring_time": 13.735,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 4662,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.8617300000000001,
+            "a_fuel": 1.7234600000000002,
+            "tele_fuel": 4.94296,
+            "tower_points": 0.0,
+            "total_points": 5.804690000000001
+          },
+          "avg_bps": 2.74,
+          "a_scoring_time": 0.629,
+          "t_scoring_time": 3.608,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        }
+      ]
+    },
+    {
+      "match_key": "2026orore_qm23",
+      "time": null,
+      "status": "qm",
+      "teams": [
+        {
+          "team": 1359,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.9679800000000001,
+            "a_fuel": 0.9679800000000001,
+            "tele_fuel": 6.96712,
+            "tower_points": 10.0,
+            "total_points": 17.9351
+          },
+          "avg_bps": 0.73,
+          "a_scoring_time": 1.326,
+          "t_scoring_time": 9.544,
+          "a_climb": 0.0,
+          "end_climb": 10.0
+        },
+        {
+          "team": 2898,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 8.390896799999998,
+            "a_fuel": 10.757559999999998,
+            "tele_fuel": 58.2981828,
+            "tower_points": 0.0,
+            "total_points": 66.6890796
+          },
+          "avg_bps": 5.06,
+          "a_scoring_time": 2.126,
+          "t_scoring_time": 14.771,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 2635,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 33.22144,
+            "tower_points": 0.0,
+            "total_points": 33.22144
+          },
+          "avg_bps": 2.24,
+          "a_scoring_time": 0.0,
+          "t_scoring_time": 14.831,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 2990,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 6.8659892,
+            "a_fuel": 11.25572,
+            "tele_fuel": 78.87031599999999,
+            "tower_points": 0.0,
+            "total_points": 85.73630519999999
+          },
+          "avg_bps": 4.27,
+          "a_scoring_time": 2.636,
+          "t_scoring_time": 30.28,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 1425,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 127.08863999999998,
+            "tower_points": 0.0,
+            "total_points": 127.08863999999998
+          },
+          "avg_bps": 8.0,
+          "a_scoring_time": 0.0,
+          "t_scoring_time": 16.548,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 2550,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 4.04325,
+            "a_fuel": 4.04325,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0,
+            "total_points": 4.04325
+          },
+          "avg_bps": 2.25,
+          "a_scoring_time": 1.797,
+          "t_scoring_time": 0.0,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        }
+      ]
+    },
+    {
+      "match_key": "2026orore_qm24",
+      "time": null,
+      "status": "qm",
+      "teams": [
+        {
+          "team": 4488,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 35.349678000000004,
+            "a_fuel": 38.845800000000004,
+            "tele_fuel": 131.75007300000001,
+            "tower_points": 0.0,
+            "total_points": 167.09975100000003
+          },
+          "avg_bps": 6.3,
+          "a_scoring_time": 6.166,
+          "t_scoring_time": 22.981,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 9600,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 4.3411104,
+            "a_fuel": 6.11424,
+            "tele_fuel": 74.14693299999999,
+            "tower_points": 0.0,
+            "total_points": 78.4880434
+          },
+          "avg_bps": 1.93,
+          "a_scoring_time": 3.168,
+          "t_scoring_time": 54.11,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 9430,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 17.852987249999998,
+            "a_fuel": 24.62481,
+            "tele_fuel": 84.2629365,
+            "tower_points": 0.0,
+            "total_points": 102.11592375
+          },
+          "avg_bps": 4.545,
+          "a_scoring_time": 5.418,
+          "t_scoring_time": 25.572,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 2557,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 8.3625,
+            "a_fuel": 11.15,
+            "tele_fuel": 100.29749999999999,
+            "tower_points": 0.0,
+            "total_points": 108.65999999999998
+          },
+          "avg_bps": 10.0,
+          "a_scoring_time": 1.115,
+          "t_scoring_time": 13.373,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 10991,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 3.28676,
+            "a_fuel": 3.28676,
+            "tele_fuel": 42.566129999999994,
+            "tower_points": 0.0,
+            "total_points": 45.852889999999995
+          },
+          "avg_bps": 3.235,
+          "a_scoring_time": 1.016,
+          "t_scoring_time": 13.158,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 5975,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.3261627,
+            "tower_points": 0.0,
+            "total_points": 0.3261627
+          },
+          "avg_bps": 0.81,
+          "a_scoring_time": 0.0,
+          "t_scoring_time": 0.601,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        }
+      ]
+    },
+    {
+      "match_key": "2026orore_qm25",
+      "time": null,
+      "status": "qm",
+      "teams": [
+        {
+          "team": 5970,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0,
+            "total_points": 0.0
+          },
+          "avg_bps": 6.15,
+          "a_scoring_time": 0.0,
+          "t_scoring_time": 0.0,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 2521,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 34.006499999999996,
+            "a_fuel": 38.64375,
+            "tele_fuel": 186.62324999999998,
+            "tower_points": 0.0,
+            "total_points": 220.62974999999997
+          },
+          "avg_bps": 9.375,
+          "a_scoring_time": 4.122,
+          "t_scoring_time": 22.621,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 10444,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0,
+            "total_points": 0.0
+          },
+          "avg_bps": 1.31,
+          "a_scoring_time": 0.0,
+          "t_scoring_time": 0.0,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 955,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 44.349340000000005,
+            "a_fuel": 51.569,
+            "tele_fuel": 134.36038,
+            "tower_points": 0.0,
+            "total_points": 178.70972
+          },
+          "avg_bps": 7.0,
+          "a_scoring_time": 7.367,
+          "t_scoring_time": 22.319,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 2930,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 3.9042000000000003,
+            "a_fuel": 3.9042000000000003,
+            "tele_fuel": 2.5207200000000003,
+            "tower_points": 0.0,
+            "total_points": 6.42492
+          },
+          "avg_bps": 3.24,
+          "a_scoring_time": 1.205,
+          "t_scoring_time": 0.778,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 6465,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 3.3436384999999995,
+            "tower_points": 0.0,
+            "total_points": 3.3436384999999995
+          },
+          "avg_bps": 4.85,
+          "a_scoring_time": 0.0,
+          "t_scoring_time": 0.971,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        }
+      ]
+    },
+    {
+      "match_key": "2026orore_qm26",
+      "time": null,
+      "status": "qm",
+      "teams": [
+        {
+          "team": 3636,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 14.123,
+            "tower_points": 0.0,
+            "total_points": 14.123
+          },
+          "avg_bps": 1.0,
+          "a_scoring_time": 0.0,
+          "t_scoring_time": 14.123,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 9567,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.7695088,
+            "a_fuel": 2.404715,
+            "tele_fuel": 2.1485872000000006,
+            "tower_points": 0.0,
+            "total_points": 2.9180960000000007
+          },
+          "avg_bps": 1.655,
+          "a_scoring_time": 1.453,
+          "t_scoring_time": 4.057,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 6831,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 3.0810324999999996,
+            "a_fuel": 5.312125,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0,
+            "total_points": 3.0810324999999996
+          },
+          "avg_bps": 1.625,
+          "a_scoring_time": 3.269,
+          "t_scoring_time": 0.0,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 4662,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 1.5768700000000002,
+            "a_fuel": 3.1537400000000004,
+            "tele_fuel": 5.77729,
+            "tower_points": 0.0,
+            "total_points": 7.35416
+          },
+          "avg_bps": 2.74,
+          "a_scoring_time": 1.151,
+          "t_scoring_time": 4.217,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 2635,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 2.78208,
+            "a_fuel": 2.78208,
+            "tele_fuel": 7.822080000000001,
+            "tower_points": 0.0,
+            "total_points": 10.60416
+          },
+          "avg_bps": 2.24,
+          "a_scoring_time": 1.242,
+          "t_scoring_time": 3.492,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 6696,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 75.17664,
+            "tower_points": 0.0,
+            "total_points": 75.17664
+          },
+          "avg_bps": 6.72,
+          "a_scoring_time": 0.0,
+          "t_scoring_time": 12.43,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        }
+      ]
+    },
+    {
+      "match_key": "2026orore_qm27",
+      "time": null,
+      "status": "qm",
+      "teams": [
+        {
+          "team": 2811,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 2.9215575999999994,
+            "a_fuel": 3.3971599999999995,
+            "tele_fuel": 147.32826839999998,
+            "tower_points": 0.0,
+            "total_points": 150.24982599999998
+          },
+          "avg_bps": 2.78,
+          "a_scoring_time": 1.222,
+          "t_scoring_time": 61.623,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 2557,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 30.5625,
+            "a_fuel": 40.75,
+            "tele_fuel": 103.38,
+            "tower_points": 0.0,
+            "total_points": 133.9425
+          },
+          "avg_bps": 10.0,
+          "a_scoring_time": 4.075,
+          "t_scoring_time": 13.784,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 3674,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 24.210609499999997,
+            "a_fuel": 28.483069999999998,
+            "tele_fuel": 81.39132925,
+            "tower_points": 0.0,
+            "total_points": 105.60193874999999
+          },
+          "avg_bps": 3.905,
+          "a_scoring_time": 7.294,
+          "t_scoring_time": 24.521,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 2915,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 83.89108,
+            "tower_points": 0.0,
+            "total_points": 83.89108
+          },
+          "avg_bps": 5.32,
+          "a_scoring_time": 0.0,
+          "t_scoring_time": 15.769,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 2990,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 12.895869699999997,
+            "a_fuel": 21.140769999999996,
+            "tele_fuel": 30.102517899999995,
+            "tower_points": 0.0,
+            "total_points": 42.998387599999994
+          },
+          "avg_bps": 4.27,
+          "a_scoring_time": 4.951,
+          "t_scoring_time": 11.557,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 3669,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 3.167,
+            "a_fuel": 3.167,
+            "tele_fuel": 8.167,
+            "tower_points": 0.0,
+            "total_points": 11.334
+          },
+          "avg_bps": 1.0,
+          "a_scoring_time": 3.167,
+          "t_scoring_time": 8.167,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        }
+      ]
+    },
+    {
+      "match_key": "2026orore_qm28",
+      "time": null,
+      "status": "qm",
+      "teams": [
+        {
+          "team": 2733,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.986,
+            "tower_points": 0.0,
+            "total_points": 0.986
+          },
+          "avg_bps": 1.0,
+          "a_scoring_time": 0.0,
+          "t_scoring_time": 0.986,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 1540,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 46.68125,
+            "a_fuel": 46.68125,
+            "tele_fuel": 89.85594999999999,
+            "tower_points": 0.0,
+            "total_points": 136.53719999999998
+          },
+          "avg_bps": 4.85,
+          "a_scoring_time": 9.625,
+          "t_scoring_time": 18.527,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 2898,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0,
+            "total_points": 0.0
+          },
+          "avg_bps": 5.06,
+          "a_scoring_time": 0.0,
+          "t_scoring_time": 0.0,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 4488,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 12.595401,
+            "a_fuel": 13.8411,
+            "tele_fuel": 92.79433800000001,
+            "tower_points": 0.0,
+            "total_points": 105.389739
+          },
+          "avg_bps": 6.3,
+          "a_scoring_time": 2.197,
+          "t_scoring_time": 16.186,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 4915,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 27.189993600000005,
+            "a_fuel": 29.715840000000004,
+            "tele_fuel": 172.53181440000003,
+            "tower_points": 0.0,
+            "total_points": 199.72180800000004
+          },
+          "avg_bps": 5.28,
+          "a_scoring_time": 5.628,
+          "t_scoring_time": 35.712,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 997,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 18.465200000000003,
+            "a_fuel": 18.465200000000003,
+            "tele_fuel": 55.3774,
+            "tower_points": 0.0,
+            "total_points": 73.8426
+          },
+          "avg_bps": 2.6,
+          "a_scoring_time": 7.102,
+          "t_scoring_time": 21.299,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        }
+      ]
+    },
+    {
+      "match_key": "2026orore_qm29",
+      "time": null,
+      "status": "qm",
+      "teams": [
+        {
+          "team": 8032,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 24.163800000000002,
+            "a_fuel": 26.265,
+            "tele_fuel": 75.15020000000001,
+            "tower_points": 0.0,
+            "total_points": 99.31400000000002
+          },
+          "avg_bps": 5.0,
+          "a_scoring_time": 5.253,
+          "t_scoring_time": 16.337,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 1359,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.83731,
+            "tower_points": 10.0,
+            "total_points": 10.83731
+          },
+          "avg_bps": 0.73,
+          "a_scoring_time": 0.0,
+          "t_scoring_time": 1.147,
+          "a_climb": 0.0,
+          "end_climb": 10.0
+        },
+        {
+          "team": 2471,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 41.2049352,
+            "a_fuel": 46.82379,
+            "tele_fuel": 151.6281624,
+            "tower_points": 0.0,
+            "total_points": 192.8330976
+          },
+          "avg_bps": 7.41,
+          "a_scoring_time": 6.319,
+          "t_scoring_time": 23.253,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 957,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 15.9918528,
+            "a_fuel": 18.17256,
+            "tele_fuel": 53.6808096,
+            "tower_points": 0.0,
+            "total_points": 69.67266240000001
+          },
+          "avg_bps": 3.48,
+          "a_scoring_time": 5.222,
+          "t_scoring_time": 17.529,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 749,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 6.2741145000000005,
+            "a_fuel": 9.36435,
+            "tele_fuel": 8.128500299999999,
+            "tower_points": 0.0,
+            "total_points": 14.402614799999998
+          },
+          "avg_bps": 4.89,
+          "a_scoring_time": 1.915,
+          "t_scoring_time": 2.481,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 2550,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 3.63375,
+            "a_fuel": 3.63375,
+            "tele_fuel": 4.13775,
+            "tower_points": 10.0,
+            "total_points": 17.7715
+          },
+          "avg_bps": 2.25,
+          "a_scoring_time": 1.615,
+          "t_scoring_time": 1.839,
+          "a_climb": 0.0,
+          "end_climb": 10.0
+        }
+      ]
+    },
+    {
+      "match_key": "2026orore_qm3",
+      "time": null,
+      "status": "qm",
+      "teams": [
+        {
+          "team": 3674,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 27.188285999999998,
+            "a_fuel": 14.33916,
+            "tele_fuel": 80.38559649999999,
+            "tower_points": 15.0,
+            "total_points": 122.5738825
+          },
+          "avg_bps": 3.905,
+          "a_scoring_time": 3.672,
+          "t_scoring_time": 24.218,
+          "a_climb": 15.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 1425,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 58.30656,
+            "a_fuel": 60.736,
+            "tele_fuel": 197.82912,
+            "tower_points": 0.0,
+            "total_points": 256.13568
+          },
+          "avg_bps": 8.0,
+          "a_scoring_time": 7.592,
+          "t_scoring_time": 25.759,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 3636,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 2.279,
+            "a_fuel": 2.279,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0,
+            "total_points": 2.279
+          },
+          "avg_bps": 1.0,
+          "a_scoring_time": 2.279,
+          "t_scoring_time": 0.0,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 2733,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 1.432,
+            "a_fuel": 1.432,
+            "tele_fuel": 7.338,
+            "tower_points": 0.0,
+            "total_points": 8.77
+          },
+          "avg_bps": 1.0,
+          "a_scoring_time": 1.432,
+          "t_scoring_time": 7.338,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 2811,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 8.989407999999997,
+            "tower_points": 0.0,
+            "total_points": 8.989407999999997
+          },
+          "avg_bps": 2.78,
+          "a_scoring_time": 0.0,
+          "t_scoring_time": 3.76,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 2550,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0,
+            "total_points": 0.0
+          },
+          "avg_bps": 2.25,
+          "a_scoring_time": 0.0,
+          "t_scoring_time": 0.0,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        }
+      ]
+    },
+    {
+      "match_key": "2026orore_qm30",
+      "time": null,
+      "status": "qm",
+      "teams": [
+        {
+          "team": 2557,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 18.854999999999997,
+            "a_fuel": 25.139999999999997,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0,
+            "total_points": 18.854999999999997
+          },
+          "avg_bps": 10.0,
+          "a_scoring_time": 2.514,
+          "t_scoring_time": 0.0,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 6465,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 39.703554999999994,
+            "tower_points": 0.0,
+            "total_points": 39.703554999999994
+          },
+          "avg_bps": 4.85,
+          "a_scoring_time": 0.0,
+          "t_scoring_time": 11.53,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 9430,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 19.0985445,
+            "a_fuel": 26.34282,
+            "tele_fuel": 60.646775625000004,
+            "tower_points": 0.0,
+            "total_points": 79.745320125
+          },
+          "avg_bps": 4.545,
+          "a_scoring_time": 5.796,
+          "t_scoring_time": 18.405,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 1425,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 55.13472,
+            "a_fuel": 57.432,
+            "tele_fuel": 232.2816,
+            "tower_points": 0.0,
+            "total_points": 287.41632
+          },
+          "avg_bps": 8.0,
+          "a_scoring_time": 7.179,
+          "t_scoring_time": 30.245,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 9600,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 3.6436276999999992,
+            "a_fuel": 5.131869999999999,
+            "tele_fuel": 57.8389927,
+            "tower_points": 0.0,
+            "total_points": 61.482620399999995
+          },
+          "avg_bps": 1.93,
+          "a_scoring_time": 2.659,
+          "t_scoring_time": 42.209,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 4662,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 1.46453,
+            "a_fuel": 2.92906,
+            "tele_fuel": 1.5289200000000003,
+            "tower_points": 0.0,
+            "total_points": 2.99345
+          },
+          "avg_bps": 2.74,
+          "a_scoring_time": 1.069,
+          "t_scoring_time": 1.116,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        }
+      ]
+    },
+    {
+      "match_key": "2026orore_qm31",
+      "time": null,
+      "status": "qm",
+      "teams": [
+        {
+          "team": 2930,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 7.18308,
+            "a_fuel": 7.18308,
+            "tele_fuel": 7.989840000000001,
+            "tower_points": 0.0,
+            "total_points": 15.172920000000001
+          },
+          "avg_bps": 3.24,
+          "a_scoring_time": 2.217,
+          "t_scoring_time": 2.466,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 3674,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 24.9142905,
+            "a_fuel": 29.31093,
+            "tele_fuel": 82.13484125000001,
+            "tower_points": 0.0,
+            "total_points": 107.04913175000002
+          },
+          "avg_bps": 3.905,
+          "a_scoring_time": 7.506,
+          "t_scoring_time": 24.745,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 2990,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 6.378910299999999,
+            "a_fuel": 10.45723,
+            "tele_fuel": 5.001023999999999,
+            "tower_points": 0.0,
+            "total_points": 11.379934299999999
+          },
+          "avg_bps": 4.27,
+          "a_scoring_time": 2.449,
+          "t_scoring_time": 1.92,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 2898,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0,
+            "total_points": 0.0
+          },
+          "avg_bps": 5.06,
+          "a_scoring_time": 0.0,
+          "t_scoring_time": 0.0,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 3636,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 1.15,
+            "tower_points": 0.0,
+            "total_points": 1.15
+          },
+          "avg_bps": 1.0,
+          "a_scoring_time": 0.0,
+          "t_scoring_time": 1.15,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        }
+      ]
+    },
+    {
+      "match_key": "2026orore_qm32",
+      "time": null,
+      "status": "qm",
+      "teams": [
+        {
+          "team": 8032,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 6.3986,
+            "a_fuel": 6.955,
+            "tele_fuel": 95.3074,
+            "tower_points": 0.0,
+            "total_points": 101.706
+          },
+          "avg_bps": 5.0,
+          "a_scoring_time": 1.391,
+          "t_scoring_time": 20.719,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 2550,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 23.240250000000003,
+            "tower_points": 0.0,
+            "total_points": 23.240250000000003
+          },
+          "avg_bps": 2.25,
+          "a_scoring_time": 0.0,
+          "t_scoring_time": 10.329,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 5975,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 2.404161,
+            "tower_points": 0.0,
+            "total_points": 2.404161
+          },
+          "avg_bps": 0.81,
+          "a_scoring_time": 0.0,
+          "t_scoring_time": 4.43,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        }
+      ]
+    },
+    {
+      "match_key": "2026orore_qm33",
+      "time": null,
+      "status": "qm",
+      "teams": [
+        {
+          "team": 2521,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 18.24075,
+            "a_fuel": 20.728125,
+            "tele_fuel": 151.70925,
+            "tower_points": 0.0,
+            "total_points": 169.95
+          },
+          "avg_bps": 9.375,
+          "a_scoring_time": 2.211,
+          "t_scoring_time": 18.389,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 2471,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 33.7255776,
+            "a_fuel": 38.32452,
+            "tele_fuel": 314.7785784,
+            "tower_points": 0.0,
+            "total_points": 348.504156
+          },
+          "avg_bps": 7.41,
+          "a_scoring_time": 5.172,
+          "t_scoring_time": 48.273,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 2733,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 3.558,
+            "a_fuel": 3.558,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0,
+            "total_points": 3.558
+          },
+          "avg_bps": 1.0,
+          "a_scoring_time": 3.558,
+          "t_scoring_time": 0.0,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 2811,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 63.442268799999994,
+            "tower_points": 0.0,
+            "total_points": 63.442268799999994
+          },
+          "avg_bps": 2.78,
+          "a_scoring_time": 0.0,
+          "t_scoring_time": 26.536,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 2635,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 15.888320000000002,
+            "a_fuel": 15.888320000000002,
+            "tele_fuel": 22.66656,
+            "tower_points": 0.0,
+            "total_points": 38.554880000000004
+          },
+          "avg_bps": 2.24,
+          "a_scoring_time": 7.093,
+          "t_scoring_time": 10.119,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 4915,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 158.74840080000004,
+            "tower_points": 0.0,
+            "total_points": 158.74840080000004
+          },
+          "avg_bps": 5.28,
+          "a_scoring_time": 0.0,
+          "t_scoring_time": 32.859,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        }
+      ]
+    },
+    {
+      "match_key": "2026orore_qm34",
+      "time": null,
+      "status": "qm",
+      "teams": [
+        {
+          "team": 6831,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 4.47499,
+            "a_fuel": 7.7155000000000005,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0,
+            "total_points": 4.47499
+          },
+          "avg_bps": 1.625,
+          "a_scoring_time": 4.748,
+          "t_scoring_time": 0.0,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 10444,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0,
+            "total_points": 0.0
+          },
+          "avg_bps": 1.31,
+          "a_scoring_time": 0.0,
+          "t_scoring_time": 0.0,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 1425,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 65.21087999999999,
+            "a_fuel": 67.928,
+            "tele_fuel": 206.17728,
+            "tower_points": 0.0,
+            "total_points": 271.38815999999997
+          },
+          "avg_bps": 8.0,
+          "a_scoring_time": 8.491,
+          "t_scoring_time": 26.846,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 749,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 66.6661524,
+            "tower_points": 0.0,
+            "total_points": 66.6661524
+          },
+          "avg_bps": 4.89,
+          "a_scoring_time": 0.0,
+          "t_scoring_time": 20.348,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 6696,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 62.57865599999999,
+            "a_fuel": 69.53183999999999,
+            "tele_fuel": 429.25679999999994,
+            "tower_points": 0.0,
+            "total_points": 491.8354559999999
+          },
+          "avg_bps": 6.72,
+          "a_scoring_time": 10.347,
+          "t_scoring_time": 70.975,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 1540,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 198.70449999999997,
+            "tower_points": 0.0,
+            "total_points": 198.70449999999997
+          },
+          "avg_bps": 4.85,
+          "a_scoring_time": 0.0,
+          "t_scoring_time": 40.97,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        }
+      ]
+    },
+    {
+      "match_key": "2026orore_qm35",
+      "time": null,
+      "status": "qm",
+      "teams": [
+        {
+          "team": 957,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 29.242857599999997,
+            "a_fuel": 33.23052,
+            "tele_fuel": 25.338297599999997,
+            "tower_points": 0.0,
+            "total_points": 54.5811552
+          },
+          "avg_bps": 3.48,
+          "a_scoring_time": 9.549,
+          "t_scoring_time": 8.274,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 1359,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 1.84471,
+            "tower_points": 10.0,
+            "total_points": 11.84471
+          },
+          "avg_bps": 0.73,
+          "a_scoring_time": 0.0,
+          "t_scoring_time": 2.527,
+          "a_climb": 0.0,
+          "end_climb": 10.0
+        },
+        {
+          "team": 3669,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0,
+            "total_points": 0.0
+          },
+          "avg_bps": 1.0,
+          "a_scoring_time": 0.0,
+          "t_scoring_time": 0.0,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 4488,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 39.058929,
+            "a_fuel": 42.921899999999994,
+            "tele_fuel": 186.465825,
+            "tower_points": 0.0,
+            "total_points": 225.524754
+          },
+          "avg_bps": 6.3,
+          "a_scoring_time": 6.813,
+          "t_scoring_time": 32.525,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 2915,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.28728000000000004,
+            "a_fuel": 0.28728000000000004,
+            "tele_fuel": 0.42028000000000004,
+            "tower_points": 0.0,
+            "total_points": 0.7075600000000001
+          },
+          "avg_bps": 5.32,
+          "a_scoring_time": 0.054,
+          "t_scoring_time": 0.079,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 10991,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 5.01425,
+            "a_fuel": 5.01425,
+            "tele_fuel": 63.768319999999996,
+            "tower_points": 0.0,
+            "total_points": 68.78256999999999
+          },
+          "avg_bps": 3.235,
+          "a_scoring_time": 1.55,
+          "t_scoring_time": 19.712,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        }
+      ]
+    },
+    {
+      "match_key": "2026orore_qm36",
+      "time": null,
+      "status": "qm",
+      "teams": [
+        {
+          "team": 4915,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 177.4886256,
+            "tower_points": 0.0,
+            "total_points": 177.4886256
+          },
+          "avg_bps": 5.28,
+          "a_scoring_time": 0.0,
+          "t_scoring_time": 36.738,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 9430,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 15.533219250000002,
+            "a_fuel": 21.425130000000003,
+            "tele_fuel": 27.804264749999998,
+            "tower_points": 0.0,
+            "total_points": 43.337484
+          },
+          "avg_bps": 4.545,
+          "a_scoring_time": 4.714,
+          "t_scoring_time": 8.438,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 5975,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0,
+            "total_points": 0.0
+          },
+          "avg_bps": 0.81,
+          "a_scoring_time": 0.0,
+          "t_scoring_time": 0.0,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 2811,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 16.168980399999995,
+            "a_fuel": 18.801139999999997,
+            "tele_fuel": 98.1447308,
+            "tower_points": 0.0,
+            "total_points": 114.3137112
+          },
+          "avg_bps": 2.78,
+          "a_scoring_time": 6.763,
+          "t_scoring_time": 41.051,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 8032,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 37.14960000000001,
+            "a_fuel": 40.38,
+            "tele_fuel": 101.361,
+            "tower_points": 0.0,
+            "total_points": 138.5106
+          },
+          "avg_bps": 5.0,
+          "a_scoring_time": 8.076,
+          "t_scoring_time": 22.035,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 4662,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0,
+            "total_points": 0.0
+          },
+          "avg_bps": 2.74,
+          "a_scoring_time": 0.0,
+          "t_scoring_time": 0.0,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        }
+      ]
+    },
+    {
+      "match_key": "2026orore_qm37",
+      "time": null,
+      "status": "qm",
+      "teams": [
+        {
+          "team": 5970,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0,
+            "total_points": 0.0
+          },
+          "avg_bps": 6.15,
+          "a_scoring_time": 0.0,
+          "t_scoring_time": 0.0,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 2990,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 12.6458185,
+            "a_fuel": 20.73085,
+            "tele_fuel": 85.28308739999999,
+            "tower_points": 0.0,
+            "total_points": 97.92890589999999
+          },
+          "avg_bps": 4.27,
+          "a_scoring_time": 4.855,
+          "t_scoring_time": 32.742,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 2733,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0,
+            "total_points": 0.0
+          },
+          "avg_bps": 1.0,
+          "a_scoring_time": 0.0,
+          "t_scoring_time": 0.0,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 2930,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 7.166880000000001,
+            "a_fuel": 7.166880000000001,
+            "tele_fuel": 58.25844000000001,
+            "tower_points": 0.0,
+            "total_points": 65.42532000000001
+          },
+          "avg_bps": 3.24,
+          "a_scoring_time": 2.212,
+          "t_scoring_time": 17.981,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 6831,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 1.1489075,
+            "a_fuel": 1.9808750000000002,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0,
+            "total_points": 1.1489075
+          },
+          "avg_bps": 1.625,
+          "a_scoring_time": 1.219,
+          "t_scoring_time": 0.0,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 2471,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 13.6806384,
+            "a_fuel": 15.54618,
+            "tele_fuel": 197.1042216,
+            "tower_points": 0.0,
+            "total_points": 210.78485999999998
+          },
+          "avg_bps": 7.41,
+          "a_scoring_time": 2.098,
+          "t_scoring_time": 30.227,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        }
+      ]
+    },
+    {
+      "match_key": "2026orore_qm38",
+      "time": null,
+      "status": "qm",
+      "teams": [
+        {
+          "team": 2550,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 24.450750000000003,
+            "tower_points": 10.0,
+            "total_points": 34.45075
+          },
+          "avg_bps": 2.25,
+          "a_scoring_time": 0.0,
+          "t_scoring_time": 10.867,
+          "a_climb": 0.0,
+          "end_climb": 10.0
+        },
+        {
+          "team": 10991,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 9.041825,
+            "a_fuel": 9.041825,
+            "tele_fuel": 28.76562,
+            "tower_points": 0.0,
+            "total_points": 37.807445
+          },
+          "avg_bps": 3.235,
+          "a_scoring_time": 2.795,
+          "t_scoring_time": 8.892,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 3674,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 8.7296275,
+            "a_fuel": 10.27015,
+            "tele_fuel": 82.41365825,
+            "tower_points": 0.0,
+            "total_points": 91.14328574999999
+          },
+          "avg_bps": 3.905,
+          "a_scoring_time": 2.63,
+          "t_scoring_time": 24.829,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 10444,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 1.4678681,
+            "a_fuel": 1.64929,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0,
+            "total_points": 1.4678681
+          },
+          "avg_bps": 1.31,
+          "a_scoring_time": 1.259,
+          "t_scoring_time": 0.0,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        }
+      ]
+    },
+    {
+      "match_key": "2026orore_qm39",
+      "time": null,
+      "status": "qm",
+      "teams": [
+        {
+          "team": 2915,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 14.901320000000002,
+            "a_fuel": 14.901320000000002,
+            "tele_fuel": 49.69944,
+            "tower_points": 0.0,
+            "total_points": 64.60076000000001
+          },
+          "avg_bps": 5.32,
+          "a_scoring_time": 2.801,
+          "t_scoring_time": 9.342,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 2635,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 11.193280000000001,
+            "a_fuel": 11.193280000000001,
+            "tele_fuel": 45.725120000000004,
+            "tower_points": 0.0,
+            "total_points": 56.918400000000005
+          },
+          "avg_bps": 2.24,
+          "a_scoring_time": 4.997,
+          "t_scoring_time": 20.413,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 749,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 19.526747999999998,
+            "tower_points": 0.0,
+            "total_points": 19.526747999999998
+          },
+          "avg_bps": 4.89,
+          "a_scoring_time": 0.0,
+          "t_scoring_time": 5.96,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 2521,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 151.47825,
+            "tower_points": 0.0,
+            "total_points": 151.47825
+          },
+          "avg_bps": 9.375,
+          "a_scoring_time": 0.0,
+          "t_scoring_time": 18.361,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 955,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 42.88647999999999,
+            "a_fuel": 49.867999999999995,
+            "tele_fuel": 14.8995,
+            "tower_points": 0.0,
+            "total_points": 57.785979999999995
+          },
+          "avg_bps": 7.0,
+          "a_scoring_time": 7.124,
+          "t_scoring_time": 2.475,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 6696,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 22.474368000000002,
+            "a_fuel": 24.97152,
+            "tele_fuel": 327.825792,
+            "tower_points": 0.0,
+            "total_points": 350.30016
+          },
+          "avg_bps": 6.72,
+          "a_scoring_time": 3.716,
+          "t_scoring_time": 54.204,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        }
+      ]
+    },
+    {
+      "match_key": "2026orore_qm4",
+      "time": null,
+      "status": "qm",
+      "teams": [
+        {
+          "team": 5970,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 2.0563140000000004,
+            "tower_points": 0.0,
+            "total_points": 2.0563140000000004
+          },
+          "avg_bps": 6.15,
+          "a_scoring_time": 0.0,
+          "t_scoring_time": 2.572,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 9430,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 11.5329375,
+            "a_fuel": 15.907499999999999,
+            "tele_fuel": 60.12285074999999,
+            "tower_points": 0.0,
+            "total_points": 71.65578824999999
+          },
+          "avg_bps": 4.545,
+          "a_scoring_time": 3.5,
+          "t_scoring_time": 18.246,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 957,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 25.0994304,
+            "a_fuel": 28.52208,
+            "tele_fuel": 78.58118400000001,
+            "tower_points": 0.0,
+            "total_points": 103.68061440000001
+          },
+          "avg_bps": 3.48,
+          "a_scoring_time": 8.196,
+          "t_scoring_time": 25.66,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 1359,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0,
+            "total_points": 0.0
+          },
+          "avg_bps": 0.73,
+          "a_scoring_time": 0.0,
+          "t_scoring_time": 0.0,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 2990,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 21.61901,
+            "a_fuel": 35.441,
+            "tele_fuel": 128.57059669999998,
+            "tower_points": 0.0,
+            "total_points": 150.18960669999998
+          },
+          "avg_bps": 4.27,
+          "a_scoring_time": 8.3,
+          "t_scoring_time": 49.361,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        }
+      ]
+    },
+    {
+      "match_key": "2026orore_qm40",
+      "time": null,
+      "status": "qm",
+      "teams": [
+        {
+          "team": 997,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 19.9524,
+            "a_fuel": 19.9524,
+            "tele_fuel": 45.461,
+            "tower_points": 0.0,
+            "total_points": 65.4134
+          },
+          "avg_bps": 2.6,
+          "a_scoring_time": 7.674,
+          "t_scoring_time": 17.485,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 957,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 19.8780384,
+            "a_fuel": 22.58868,
+            "tele_fuel": 71.8102176,
+            "tower_points": 0.0,
+            "total_points": 91.688256
+          },
+          "avg_bps": 3.48,
+          "a_scoring_time": 6.491,
+          "t_scoring_time": 23.449,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 3636,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.695,
+            "a_fuel": 0.695,
+            "tele_fuel": 1.556,
+            "tower_points": 0.0,
+            "total_points": 2.251
+          },
+          "avg_bps": 1.0,
+          "a_scoring_time": 0.695,
+          "t_scoring_time": 1.556,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 2898,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 2.1549528000000002,
+            "tower_points": 0.0,
+            "total_points": 2.1549528000000002
+          },
+          "avg_bps": 5.06,
+          "a_scoring_time": 0.0,
+          "t_scoring_time": 0.546,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 9600,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 7.098153999999999,
+            "a_fuel": 9.997399999999999,
+            "tele_fuel": 23.871996299999996,
+            "tower_points": 0.0,
+            "total_points": 30.970150299999993
+          },
+          "avg_bps": 1.93,
+          "a_scoring_time": 5.18,
+          "t_scoring_time": 17.421,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 2557,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 32.415,
+            "a_fuel": 43.22,
+            "tele_fuel": 13.200000000000001,
+            "tower_points": 0.0,
+            "total_points": 45.615
+          },
+          "avg_bps": 10.0,
+          "a_scoring_time": 4.322,
+          "t_scoring_time": 1.76,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        }
+      ]
+    },
+    {
+      "match_key": "2026orore_qm41",
+      "time": null,
+      "status": "qm",
+      "teams": [
+        {
+          "team": 9567,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 1.4299200000000003,
+            "a_fuel": 4.468500000000001,
+            "tele_fuel": 0.7610352,
+            "tower_points": 0.0,
+            "total_points": 2.1909552000000003
+          },
+          "avg_bps": 1.655,
+          "a_scoring_time": 2.7,
+          "t_scoring_time": 1.437,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 1425,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 67.10784,
+            "a_fuel": 69.904,
+            "tele_fuel": 260.544,
+            "tower_points": 0.0,
+            "total_points": 327.65184
+          },
+          "avg_bps": 8.0,
+          "a_scoring_time": 8.738,
+          "t_scoring_time": 33.925,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 3669,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 5.543,
+            "tower_points": 0.0,
+            "total_points": 5.543
+          },
+          "avg_bps": 1.0,
+          "a_scoring_time": 0.0,
+          "t_scoring_time": 5.543,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 4488,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 34.942635,
+            "a_fuel": 38.3985,
+            "tele_fuel": 124.47489599999999,
+            "tower_points": 0.0,
+            "total_points": 159.417531
+          },
+          "avg_bps": 6.3,
+          "a_scoring_time": 6.095,
+          "t_scoring_time": 21.712,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 6831,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 1.0603125,
+            "a_fuel": 1.828125,
+            "tele_fuel": 0.9660624999999999,
+            "tower_points": 0.0,
+            "total_points": 2.026375
+          },
+          "avg_bps": 1.625,
+          "a_scoring_time": 1.125,
+          "t_scoring_time": 1.025,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        }
+      ]
+    },
+    {
+      "match_key": "2026orore_qm42",
+      "time": null,
+      "status": "qm",
+      "teams": [
+        {
+          "team": 4915,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 26.595756,
+            "a_fuel": 29.0664,
+            "tele_fuel": 101.10735360000001,
+            "tower_points": 0.0,
+            "total_points": 127.7031096
+          },
+          "avg_bps": 5.28,
+          "a_scoring_time": 5.505,
+          "t_scoring_time": 20.928,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 10444,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0,
+            "total_points": 0.0
+          },
+          "avg_bps": 1.31,
+          "a_scoring_time": 0.0,
+          "t_scoring_time": 0.0,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 6696,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 57.09311999999999,
+            "a_fuel": 63.43679999999999,
+            "tele_fuel": 115.861536,
+            "tower_points": 0.0,
+            "total_points": 172.954656
+          },
+          "avg_bps": 6.72,
+          "a_scoring_time": 9.44,
+          "t_scoring_time": 19.157,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 2471,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 39.8029632,
+            "a_fuel": 45.23064,
+            "tele_fuel": 255.80446320000001,
+            "tower_points": 0.0,
+            "total_points": 295.6074264
+          },
+          "avg_bps": 7.41,
+          "a_scoring_time": 6.104,
+          "t_scoring_time": 39.229,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 2550,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.62775,
+            "a_fuel": 0.62775,
+            "tele_fuel": 24.29775,
+            "tower_points": 0.0,
+            "total_points": 24.9255
+          },
+          "avg_bps": 2.25,
+          "a_scoring_time": 0.279,
+          "t_scoring_time": 10.799,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 5970,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 1.1784630000000003,
+            "a_fuel": 9.065100000000001,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0,
+            "total_points": 1.1784630000000003
+          },
+          "avg_bps": 6.15,
+          "a_scoring_time": 1.474,
+          "t_scoring_time": 0.0,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        }
+      ]
+    },
+    {
+      "match_key": "2026orore_qm43",
+      "time": null,
+      "status": "qm",
+      "teams": [
+        {
+          "team": 10991,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 3.212355,
+            "a_fuel": 3.212355,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0,
+            "total_points": 3.212355
+          },
+          "avg_bps": 3.235,
+          "a_scoring_time": 0.993,
+          "t_scoring_time": 0.0,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 1540,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 46.19625,
+            "a_fuel": 46.19625,
+            "tele_fuel": 228.0082,
+            "tower_points": 0.0,
+            "total_points": 274.20445
+          },
+          "avg_bps": 4.85,
+          "a_scoring_time": 9.525,
+          "t_scoring_time": 47.012,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 9430,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 13.510012499999998,
+            "a_fuel": 18.6345,
+            "tele_fuel": 78.93142424999999,
+            "tower_points": 0.0,
+            "total_points": 92.44143675
+          },
+          "avg_bps": 4.545,
+          "a_scoring_time": 4.1,
+          "t_scoring_time": 23.954,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 2521,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 24.230249999999998,
+            "a_fuel": 27.534374999999997,
+            "tele_fuel": 194.95575,
+            "tower_points": 0.0,
+            "total_points": 219.18599999999998
+          },
+          "avg_bps": 9.375,
+          "a_scoring_time": 2.937,
+          "t_scoring_time": 23.631,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 3674,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 26.368122,
+            "a_fuel": 31.02132,
+            "tele_fuel": 87.8472705,
+            "tower_points": 0.0,
+            "total_points": 114.2153925
+          },
+          "avg_bps": 3.905,
+          "a_scoring_time": 7.944,
+          "t_scoring_time": 26.466,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        }
+      ]
+    },
+    {
+      "match_key": "2026orore_qm44",
+      "time": null,
+      "status": "qm",
+      "teams": [
+        {
+          "team": 1425,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 65.15711999999999,
+            "a_fuel": 67.872,
+            "tele_fuel": 278.35391999999996,
+            "tower_points": 0.0,
+            "total_points": 343.51104
+          },
+          "avg_bps": 8.0,
+          "a_scoring_time": 8.484,
+          "t_scoring_time": 36.244,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 955,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 47.69044,
+            "a_fuel": 55.454,
+            "tele_fuel": 299.35654,
+            "tower_points": 0.0,
+            "total_points": 347.04698
+          },
+          "avg_bps": 7.0,
+          "a_scoring_time": 7.922,
+          "t_scoring_time": 49.727,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 2733,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 1.328,
+            "a_fuel": 1.328,
+            "tele_fuel": 0.673,
+            "tower_points": 0.0,
+            "total_points": 2.0010000000000003
+          },
+          "avg_bps": 1.0,
+          "a_scoring_time": 1.328,
+          "t_scoring_time": 0.673,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 9567,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 1.0666144,
+            "a_fuel": 3.3331699999999995,
+            "tele_fuel": 2.6723616000000003,
+            "tower_points": 0.0,
+            "total_points": 3.738976
+          },
+          "avg_bps": 1.655,
+          "a_scoring_time": 2.014,
+          "t_scoring_time": 5.046,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 2557,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 23.145,
+            "a_fuel": 30.86,
+            "tele_fuel": 13.575000000000001,
+            "tower_points": 0.0,
+            "total_points": 36.72
+          },
+          "avg_bps": 10.0,
+          "a_scoring_time": 3.086,
+          "t_scoring_time": 1.81,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 1359,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 2.28052,
+            "a_fuel": 2.28052,
+            "tele_fuel": 0.97163,
+            "tower_points": 10.0,
+            "total_points": 13.25215
+          },
+          "avg_bps": 0.73,
+          "a_scoring_time": 3.124,
+          "t_scoring_time": 1.331,
+          "a_climb": 0.0,
+          "end_climb": 10.0
+        }
+      ]
+    },
+    {
+      "match_key": "2026orore_qm45",
+      "time": null,
+      "status": "qm",
+      "teams": [
+        {
+          "team": 2635,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 3.68256,
+            "a_fuel": 3.68256,
+            "tele_fuel": 6.184640000000001,
+            "tower_points": 0.0,
+            "total_points": 9.8672
+          },
+          "avg_bps": 2.24,
+          "a_scoring_time": 1.644,
+          "t_scoring_time": 2.761,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 2930,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 56.22372000000001,
+            "tower_points": 0.0,
+            "total_points": 56.22372000000001
+          },
+          "avg_bps": 3.24,
+          "a_scoring_time": 0.0,
+          "t_scoring_time": 17.353,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 4488,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 44.568342,
+            "a_fuel": 48.9762,
+            "tele_fuel": 79.986816,
+            "tower_points": 0.0,
+            "total_points": 124.555158
+          },
+          "avg_bps": 6.3,
+          "a_scoring_time": 7.774,
+          "t_scoring_time": 13.952,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 4662,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 4.715540000000001,
+            "a_fuel": 9.431080000000001,
+            "tele_fuel": 0.8562500000000001,
+            "tower_points": 0.0,
+            "total_points": 5.571790000000001
+          },
+          "avg_bps": 2.74,
+          "a_scoring_time": 3.442,
+          "t_scoring_time": 0.625,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 957,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 20.533392000000003,
+            "a_fuel": 23.3334,
+            "tele_fuel": 114.80631359999998,
+            "tower_points": 0.0,
+            "total_points": 135.33970559999997
+          },
+          "avg_bps": 3.48,
+          "a_scoring_time": 6.705,
+          "t_scoring_time": 37.489,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 5975,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 4.1901867,
+            "a_fuel": 6.25401,
+            "tele_fuel": 3.9123243000000003,
+            "tower_points": 0.0,
+            "total_points": 8.102511
+          },
+          "avg_bps": 0.81,
+          "a_scoring_time": 7.721,
+          "t_scoring_time": 7.209,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        }
+      ]
+    },
+    {
+      "match_key": "2026orore_qm46",
+      "time": null,
+      "status": "qm",
+      "teams": [
+        {
+          "team": 2898,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 3.6942048,
+            "a_fuel": 4.73616,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0,
+            "total_points": 3.6942048
+          },
+          "avg_bps": 5.06,
+          "a_scoring_time": 0.936,
+          "t_scoring_time": 0.0,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 749,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 4.488531,
+            "a_fuel": 6.6993,
+            "tele_fuel": 54.062226300000006,
+            "tower_points": 0.0,
+            "total_points": 58.55075730000001
+          },
+          "avg_bps": 4.89,
+          "a_scoring_time": 1.37,
+          "t_scoring_time": 16.501,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 2915,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 43.32076000000001,
+            "tower_points": 0.0,
+            "total_points": 43.32076000000001
+          },
+          "avg_bps": 5.32,
+          "a_scoring_time": 0.0,
+          "t_scoring_time": 8.143,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 2811,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 13.378916799999999,
+            "a_fuel": 15.55688,
+            "tele_fuel": 79.3912956,
+            "tower_points": 0.0,
+            "total_points": 92.7702124
+          },
+          "avg_bps": 2.78,
+          "a_scoring_time": 5.596,
+          "t_scoring_time": 33.207,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 6465,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 7.334654999999999,
+            "tower_points": 0.0,
+            "total_points": 7.334654999999999
+          },
+          "avg_bps": 4.85,
+          "a_scoring_time": 0.0,
+          "t_scoring_time": 2.13,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        }
+      ]
+    },
+    {
+      "match_key": "2026orore_qm47",
+      "time": null,
+      "status": "qm",
+      "teams": [
+        {
+          "team": 9600,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 4.7782361,
+            "a_fuel": 6.72991,
+            "tele_fuel": 11.019952599999998,
+            "tower_points": 0.0,
+            "total_points": 15.798188699999997
+          },
+          "avg_bps": 1.93,
+          "a_scoring_time": 3.487,
+          "t_scoring_time": 8.042,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 8032,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 23.556600000000003,
+            "a_fuel": 25.605000000000004,
+            "tele_fuel": 110.147,
+            "tower_points": 0.0,
+            "total_points": 133.7036
+          },
+          "avg_bps": 5.0,
+          "a_scoring_time": 5.121,
+          "t_scoring_time": 23.945,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 9567,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 1.9092080000000002,
+            "tower_points": 0.0,
+            "total_points": 1.9092080000000002
+          },
+          "avg_bps": 1.655,
+          "a_scoring_time": 0.0,
+          "t_scoring_time": 3.605,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 2990,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 12.531211699999998,
+            "a_fuel": 20.542969999999997,
+            "tele_fuel": 83.29570129999998,
+            "tower_points": 0.0,
+            "total_points": 95.82691299999998
+          },
+          "avg_bps": 4.27,
+          "a_scoring_time": 4.811,
+          "t_scoring_time": 31.979,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 3636,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 4.863,
+            "a_fuel": 4.863,
+            "tele_fuel": 2.805,
+            "tower_points": 0.0,
+            "total_points": 7.668000000000001
+          },
+          "avg_bps": 1.0,
+          "a_scoring_time": 4.863,
+          "t_scoring_time": 2.805,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 10444,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0,
+            "total_points": 0.0
+          },
+          "avg_bps": 1.31,
+          "a_scoring_time": 0.0,
+          "t_scoring_time": 0.0,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        }
+      ]
+    },
+    {
+      "match_key": "2026orore_qm48",
+      "time": null,
+      "status": "qm",
+      "teams": [
+        {
+          "team": 955,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 44.4878,
+            "a_fuel": 51.73,
+            "tele_fuel": 182.97789999999998,
+            "tower_points": 0.0,
+            "total_points": 227.46569999999997
+          },
+          "avg_bps": 7.0,
+          "a_scoring_time": 7.39,
+          "t_scoring_time": 30.395,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 10991,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 6.2014949999999995,
+            "a_fuel": 6.2014949999999995,
+            "tele_fuel": 61.68821499999999,
+            "tower_points": 0.0,
+            "total_points": 67.88971
+          },
+          "avg_bps": 3.235,
+          "a_scoring_time": 1.917,
+          "t_scoring_time": 19.069,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 5970,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.7339410000000001,
+            "tower_points": 0.0,
+            "total_points": 0.7339410000000001
+          },
+          "avg_bps": 6.15,
+          "a_scoring_time": 0.0,
+          "t_scoring_time": 0.918,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 2733,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 2.472,
+            "a_fuel": 2.472,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0,
+            "total_points": 2.472
+          },
+          "avg_bps": 1.0,
+          "a_scoring_time": 2.472,
+          "t_scoring_time": 0.0,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 4488,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 6.908265,
+            "a_fuel": 7.5915,
+            "tele_fuel": 72.70590600000001,
+            "tower_points": 0.0,
+            "total_points": 79.61417100000001
+          },
+          "avg_bps": 6.3,
+          "a_scoring_time": 1.205,
+          "t_scoring_time": 12.682,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        }
+      ]
+    },
+    {
+      "match_key": "2026orore_qm49",
+      "time": null,
+      "status": "qm",
+      "teams": [
+        {
+          "team": 997,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 14.209,
+            "a_fuel": 14.209,
+            "tele_fuel": 77.3422,
+            "tower_points": 0.0,
+            "total_points": 91.55120000000001
+          },
+          "avg_bps": 2.6,
+          "a_scoring_time": 5.465,
+          "t_scoring_time": 29.747,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 6696,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 63.026208,
+            "a_fuel": 70.02911999999999,
+            "tele_fuel": 350.802144,
+            "tower_points": 0.0,
+            "total_points": 413.828352
+          },
+          "avg_bps": 6.72,
+          "a_scoring_time": 10.421,
+          "t_scoring_time": 58.003,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 2898,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 2.66409,
+            "a_fuel": 3.4154999999999998,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0,
+            "total_points": 2.66409
+          },
+          "avg_bps": 5.06,
+          "a_scoring_time": 0.675,
+          "t_scoring_time": 0.0,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 9430,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 19.675191375,
+            "a_fuel": 27.138195,
+            "tele_fuel": 46.761118875,
+            "tower_points": 0.0,
+            "total_points": 66.43631025
+          },
+          "avg_bps": 4.545,
+          "a_scoring_time": 5.971,
+          "t_scoring_time": 14.191,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 4662,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0,
+            "total_points": 0.0
+          },
+          "avg_bps": 2.74,
+          "a_scoring_time": 0.0,
+          "t_scoring_time": 0.0,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 2930,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0,
+            "total_points": 0.0
+          },
+          "avg_bps": 3.24,
+          "a_scoring_time": 0.0,
+          "t_scoring_time": 0.0,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        }
+      ]
+    },
+    {
+      "match_key": "2026orore_qm5",
+      "time": null,
+      "status": "qm",
+      "teams": [
+        {
+          "team": 5975,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0,
+            "total_points": 0.0
+          },
+          "avg_bps": 0.81,
+          "a_scoring_time": 0.0,
+          "t_scoring_time": 0.0,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 749,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 5.700762,
+            "a_fuel": 8.5086,
+            "tele_fuel": 51.5853435,
+            "tower_points": 0.0,
+            "total_points": 57.2861055
+          },
+          "avg_bps": 4.89,
+          "a_scoring_time": 1.74,
+          "t_scoring_time": 15.745,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 997,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 8.9258,
+            "a_fuel": 8.9258,
+            "tele_fuel": 69.4902,
+            "tower_points": 0.0,
+            "total_points": 78.416
+          },
+          "avg_bps": 2.6,
+          "a_scoring_time": 3.433,
+          "t_scoring_time": 26.727,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 955,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 31.490619999999996,
+            "a_fuel": 36.617,
+            "tele_fuel": 146.78565999999998,
+            "tower_points": 0.0,
+            "total_points": 178.27627999999999
+          },
+          "avg_bps": 7.0,
+          "a_scoring_time": 5.231,
+          "t_scoring_time": 24.383,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 2471,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 23.5661712,
+            "a_fuel": 26.77974,
+            "tele_fuel": 159.19881120000002,
+            "tower_points": 0.0,
+            "total_points": 182.7649824
+          },
+          "avg_bps": 7.41,
+          "a_scoring_time": 3.614,
+          "t_scoring_time": 24.414,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 10444,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0,
+            "total_points": 0.0
+          },
+          "avg_bps": 1.31,
+          "a_scoring_time": 0.0,
+          "t_scoring_time": 0.0,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        }
+      ]
+    },
+    {
+      "match_key": "2026orore_qm50",
+      "time": null,
+      "status": "qm",
+      "teams": [
+        {
+          "team": 2550,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 2.763,
+            "a_fuel": 2.763,
+            "tele_fuel": 28.458,
+            "tower_points": 10.0,
+            "total_points": 41.221
+          },
+          "avg_bps": 2.25,
+          "a_scoring_time": 1.228,
+          "t_scoring_time": 12.648,
+          "a_climb": 0.0,
+          "end_climb": 10.0
+        },
+        {
+          "team": 3636,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 2.679,
+            "a_fuel": 2.679,
+            "tele_fuel": 7.144,
+            "tower_points": 0.0,
+            "total_points": 9.823
+          },
+          "avg_bps": 1.0,
+          "a_scoring_time": 2.679,
+          "t_scoring_time": 7.144,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 2557,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 20.370000000000005,
+            "a_fuel": 27.160000000000004,
+            "tele_fuel": 108.39750000000001,
+            "tower_points": 0.0,
+            "total_points": 128.7675
+          },
+          "avg_bps": 10.0,
+          "a_scoring_time": 2.716,
+          "t_scoring_time": 14.453,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 2811,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 8.781408399999998,
+            "a_fuel": 10.210939999999999,
+            "tele_fuel": 43.59623799999999,
+            "tower_points": 0.0,
+            "total_points": 52.37764639999999
+          },
+          "avg_bps": 2.78,
+          "a_scoring_time": 3.673,
+          "t_scoring_time": 18.235,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 749,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 1.9264643999999997,
+            "a_fuel": 2.8753199999999994,
+            "tele_fuel": 7.722239100000001,
+            "tower_points": 0.0,
+            "total_points": 9.648703500000002
+          },
+          "avg_bps": 4.89,
+          "a_scoring_time": 0.588,
+          "t_scoring_time": 2.357,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 2990,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 15.102050599999998,
+            "a_fuel": 24.75746,
+            "tele_fuel": 34.56176429999999,
+            "tower_points": 0.0,
+            "total_points": 49.66381489999999
+          },
+          "avg_bps": 4.27,
+          "a_scoring_time": 5.798,
+          "t_scoring_time": 13.269,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        }
+      ]
+    },
+    {
+      "match_key": "2026orore_qm51",
+      "time": null,
+      "status": "qm",
+      "teams": [
+        {
+          "team": 2635,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 3.8819200000000005,
+            "a_fuel": 3.8819200000000005,
+            "tele_fuel": 40.50368,
+            "tower_points": 0.0,
+            "total_points": 44.385600000000004
+          },
+          "avg_bps": 2.24,
+          "a_scoring_time": 1.733,
+          "t_scoring_time": 18.082,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 6465,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 84.56202949999998,
+            "tower_points": 0.0,
+            "total_points": 84.56202949999998
+          },
+          "avg_bps": 4.85,
+          "a_scoring_time": 0.0,
+          "t_scoring_time": 24.557,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 8032,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 15.962000000000002,
+            "a_fuel": 17.35,
+            "tele_fuel": 80.4862,
+            "tower_points": 0.0,
+            "total_points": 96.4482
+          },
+          "avg_bps": 5.0,
+          "a_scoring_time": 3.47,
+          "t_scoring_time": 17.497,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 1540,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 49.31479999999999,
+            "a_fuel": 49.31479999999999,
+            "tele_fuel": 335.13499999999993,
+            "tower_points": 0.0,
+            "total_points": 384.4497999999999
+          },
+          "avg_bps": 4.85,
+          "a_scoring_time": 10.168,
+          "t_scoring_time": 69.1,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 3669,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0,
+            "total_points": 0.0
+          },
+          "avg_bps": 1.0,
+          "a_scoring_time": 0.0,
+          "t_scoring_time": 0.0,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 4915,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 20.3103648,
+            "a_fuel": 22.197119999999998,
+            "tele_fuel": 164.043396,
+            "tower_points": 0.0,
+            "total_points": 184.3537608
+          },
+          "avg_bps": 5.28,
+          "a_scoring_time": 4.204,
+          "t_scoring_time": 33.955,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        }
+      ]
+    },
+    {
+      "match_key": "2026orore_qm52",
+      "time": null,
+      "status": "qm",
+      "teams": [
+        {
+          "team": 6831,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 4.019762499999999,
+            "a_fuel": 6.930624999999999,
+            "tele_fuel": 1.5786875,
+            "tower_points": 0.0,
+            "total_points": 5.598449999999999
+          },
+          "avg_bps": 1.625,
+          "a_scoring_time": 4.265,
+          "t_scoring_time": 1.675,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 2915,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 41.54388,
+            "tower_points": 0.0,
+            "total_points": 41.54388
+          },
+          "avg_bps": 5.32,
+          "a_scoring_time": 0.0,
+          "t_scoring_time": 7.809,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 2521,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 24.70875,
+            "a_fuel": 28.078125,
+            "tele_fuel": 186.91199999999998,
+            "tower_points": 0.0,
+            "total_points": 211.62075
+          },
+          "avg_bps": 9.375,
+          "a_scoring_time": 2.995,
+          "t_scoring_time": 22.656,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 1359,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.7738,
+            "a_fuel": 0.7738,
+            "tele_fuel": 3.0696499999999998,
+            "tower_points": 10.0,
+            "total_points": 13.84345
+          },
+          "avg_bps": 0.73,
+          "a_scoring_time": 1.06,
+          "t_scoring_time": 4.205,
+          "a_climb": 0.0,
+          "end_climb": 10.0
+        },
+        {
+          "team": 9600,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 1.4703319,
+            "a_fuel": 2.07089,
+            "tele_fuel": 34.8316557,
+            "tower_points": 0.0,
+            "total_points": 36.3019876
+          },
+          "avg_bps": 1.93,
+          "a_scoring_time": 1.073,
+          "t_scoring_time": 25.419,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        }
+      ]
+    },
+    {
+      "match_key": "2026orore_qm6",
+      "time": null,
+      "status": "qm",
+      "teams": [
+        {
+          "team": 9600,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 43.5248389,
+            "tower_points": 0.0,
+            "total_points": 43.5248389
+          },
+          "avg_bps": 1.93,
+          "a_scoring_time": 0.0,
+          "t_scoring_time": 31.763,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 1540,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 222.56165,
+            "tower_points": 0.0,
+            "total_points": 222.56165
+          },
+          "avg_bps": 4.85,
+          "a_scoring_time": 0.0,
+          "t_scoring_time": 45.889,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 2915,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 17.96032,
+            "a_fuel": 17.96032,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0,
+            "total_points": 17.96032
+          },
+          "avg_bps": 5.32,
+          "a_scoring_time": 3.376,
+          "t_scoring_time": 0.0,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 6696,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 32.066495999999994,
+            "a_fuel": 35.629439999999995,
+            "tele_fuel": 77.66841600000001,
+            "tower_points": 0.0,
+            "total_points": 109.73491200000001
+          },
+          "avg_bps": 6.72,
+          "a_scoring_time": 5.302,
+          "t_scoring_time": 12.842,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 2930,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 18.47124,
+            "tower_points": 0.0,
+            "total_points": 18.47124
+          },
+          "avg_bps": 3.24,
+          "a_scoring_time": 0.0,
+          "t_scoring_time": 5.701,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 8032,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 18.5702,
+            "a_fuel": 20.185,
+            "tele_fuel": 114.46640000000001,
+            "tower_points": 0.0,
+            "total_points": 133.03660000000002
+          },
+          "avg_bps": 5.0,
+          "a_scoring_time": 4.037,
+          "t_scoring_time": 24.884,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        }
+      ]
+    },
+    {
+      "match_key": "2026orore_qm7",
+      "time": null,
+      "status": "qm",
+      "teams": [
+        {
+          "team": 4662,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 3.0194800000000006,
+            "a_fuel": 6.038960000000001,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0,
+            "total_points": 3.0194800000000006
+          },
+          "avg_bps": 2.74,
+          "a_scoring_time": 2.204,
+          "t_scoring_time": 0.0,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 2990,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 18.287598699999997,
+            "a_fuel": 29.979669999999995,
+            "tele_fuel": 76.95846619999999,
+            "tower_points": 0.0,
+            "total_points": 95.2460649
+          },
+          "avg_bps": 4.27,
+          "a_scoring_time": 7.021,
+          "t_scoring_time": 29.546,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 2521,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 15.88125,
+            "a_fuel": 18.046875,
+            "tele_fuel": 39.624750000000006,
+            "tower_points": 0.0,
+            "total_points": 55.50600000000001
+          },
+          "avg_bps": 9.375,
+          "a_scoring_time": 1.925,
+          "t_scoring_time": 4.803,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 1425,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 47.76192,
+            "a_fuel": 49.752,
+            "tele_fuel": 56.655359999999995,
+            "tower_points": 0.0,
+            "total_points": 104.41728
+          },
+          "avg_bps": 8.0,
+          "a_scoring_time": 6.219,
+          "t_scoring_time": 7.377,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 10991,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 3.1056,
+            "a_fuel": 3.1056,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0,
+            "total_points": 3.1056
+          },
+          "avg_bps": 3.235,
+          "a_scoring_time": 0.96,
+          "t_scoring_time": 0.0,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 4915,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 41.20530480000001,
+            "a_fuel": 45.033120000000004,
+            "tele_fuel": 139.37528880000002,
+            "tower_points": 0.0,
+            "total_points": 180.58059360000004
+          },
+          "avg_bps": 5.28,
+          "a_scoring_time": 8.529,
+          "t_scoring_time": 28.849,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        }
+      ]
+    },
+    {
+      "match_key": "2026orore_qm8",
+      "time": null,
+      "status": "qm",
+      "teams": [
+        {
+          "team": 957,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 26.339702400000004,
+            "a_fuel": 29.931480000000004,
+            "tele_fuel": 64.1174688,
+            "tower_points": 0.0,
+            "total_points": 90.4571712
+          },
+          "avg_bps": 3.48,
+          "a_scoring_time": 8.601,
+          "t_scoring_time": 20.937,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 2471,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 48.8538336,
+            "a_fuel": 55.51572,
+            "tele_fuel": 273.6192888,
+            "tower_points": 0.0,
+            "total_points": 322.47312239999997
+          },
+          "avg_bps": 7.41,
+          "a_scoring_time": 7.492,
+          "t_scoring_time": 41.961,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 2898,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 10.624785600000001,
+            "a_fuel": 13.62152,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0,
+            "total_points": 10.624785600000001
+          },
+          "avg_bps": 5.06,
+          "a_scoring_time": 2.692,
+          "t_scoring_time": 0.0,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 749,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 37.2810177,
+            "tower_points": 0.0,
+            "total_points": 37.2810177
+          },
+          "avg_bps": 4.89,
+          "a_scoring_time": 0.0,
+          "t_scoring_time": 11.379,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 3674,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0,
+            "total_points": 0.0
+          },
+          "avg_bps": 3.905,
+          "a_scoring_time": 0.0,
+          "t_scoring_time": 0.0,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        }
+      ]
+    },
+    {
+      "match_key": "2026orore_qm9",
+      "time": null,
+      "status": "qm",
+      "teams": [
+        {
+          "team": 3669,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.184,
+            "a_fuel": 0.184,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0,
+            "total_points": 0.184
+          },
+          "avg_bps": 1.0,
+          "a_scoring_time": 0.184,
+          "t_scoring_time": 0.0,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 955,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 42.2905,
+            "a_fuel": 49.175000000000004,
+            "tele_fuel": 138.15297999999999,
+            "tower_points": 0.0,
+            "total_points": 180.44348
+          },
+          "avg_bps": 7.0,
+          "a_scoring_time": 7.025,
+          "t_scoring_time": 22.949,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 9430,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 17.619033375,
+            "a_fuel": 24.302115,
+            "tele_fuel": 38.918721375,
+            "tower_points": 0.0,
+            "total_points": 56.53775475
+          },
+          "avg_bps": 4.545,
+          "a_scoring_time": 5.347,
+          "t_scoring_time": 11.811,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 3636,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.647,
+            "tower_points": 0.0,
+            "total_points": 0.647
+          },
+          "avg_bps": 1.0,
+          "a_scoring_time": 0.0,
+          "t_scoring_time": 0.647,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 5970,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 1.0633350000000001,
+            "tower_points": 0.0,
+            "total_points": 1.0633350000000001
+          },
+          "avg_bps": 6.15,
+          "a_scoring_time": 0.0,
+          "t_scoring_time": 1.33,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        },
+        {
+          "team": 9600,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 42.8849088,
+            "tower_points": 0.0,
+            "total_points": 42.8849088
+          },
+          "avg_bps": 1.93,
+          "a_scoring_time": 0.0,
+          "t_scoring_time": 31.296,
+          "a_climb": 0.0,
+          "end_climb": 0.0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7406 @@
+{
+  "event": "2026orsal",
+  "generated_at": "2026-03-17T19:12:01.418417+00:00",
+  "sources": {
+    "epa": "OSF_epa_data.json",
+    "opr": "2026orsal_opr_data.json",
+    "matches": "2026orsal_matches.json"
+  },
+  "matches": [
+    {
+      "match_key": "2026orsal_f1m1",
+      "event_key": "2026orsal",
+      "set_number": 1,
+      "match_number": 1,
+      "time": 1772925840,
+      "status": "completed",
+      "winning_alliance": "red",
+      "alliances": {
+        "red": {
+          "score": 329,
+          "selected_total": 330.975,
+          "difference": 1.975,
+          "selected_metrics": [
+            "epa",
+            "opr",
+            "opr"
+          ]
+        },
+        "blue": {
+          "score": 253,
+          "selected_total": 247.284,
+          "difference": 5.716,
+          "selected_metrics": [
+            "epa",
+            "opr",
+            "opr"
+          ]
+        }
+      },
+      "teams": [
+        {
+          "team_key": "frc5920",
+          "team": 5920,
+          "alliance": "red",
+          "epa": 47.77,
+          "opr": 40.44280358010065,
+          "selected_metric": "epa",
+          "selected_value": 47.77
+        },
+        {
+          "team_key": "frc1540",
+          "team": 1540,
+          "alliance": "red",
+          "epa": 116.35,
+          "opr": 131.42114760559497,
+          "selected_metric": "opr",
+          "selected_value": 131.42114760559497
+        },
+        {
+          "team_key": "frc5468",
+          "team": 5468,
+          "alliance": "red",
+          "epa": 129.49,
+          "opr": 151.78358312362147,
+          "selected_metric": "opr",
+          "selected_value": 151.78358312362147
+        },
+        {
+          "team_key": "frc2811",
+          "team": 2811,
+          "alliance": "blue",
+          "epa": 35.82,
+          "opr": 22.630164488899485,
+          "selected_metric": "epa",
+          "selected_value": 35.82
+        },
+        {
+          "team_key": "frc9023",
+          "team": 9023,
+          "alliance": "blue",
+          "epa": 84.02,
+          "opr": 91.27290135125341,
+          "selected_metric": "opr",
+          "selected_value": 91.27290135125341
+        },
+        {
+          "team_key": "frc955",
+          "team": 955,
+          "alliance": "blue",
+          "epa": 98.41,
+          "opr": 120.19133615686994,
+          "selected_metric": "opr",
+          "selected_value": 120.19133615686994
+        }
+      ]
+    },
+    {
+      "match_key": "2026orsal_f1m2",
+      "event_key": "2026orsal",
+      "set_number": 1,
+      "match_number": 2,
+      "time": 1772927100,
+      "status": "completed",
+      "winning_alliance": "red",
+      "alliances": {
+        "red": {
+          "score": 247,
+          "selected_total": 280.203,
+          "difference": 33.203,
+          "selected_metrics": [
+            "opr",
+            "epa",
+            "epa"
+          ]
+        },
+        "blue": {
+          "score": 225,
+          "selected_total": 225.693,
+          "difference": 0.693,
+          "selected_metrics": [
+            "epa",
+            "opr",
+            "epa"
+          ]
+        }
+      },
+      "teams": [
+        {
+          "team_key": "frc5920",
+          "team": 5920,
+          "alliance": "red",
+          "epa": 46.4,
+          "opr": 37.10276867642949,
+          "selected_metric": "opr",
+          "selected_value": 37.10276867642949
+        },
+        {
+          "team_key": "frc1540",
+          "team": 1540,
+          "alliance": "red",
+          "epa": 114.98,
+          "opr": 128.60691751355003,
+          "selected_metric": "epa",
+          "selected_value": 114.98
+        },
+        {
+          "team_key": "frc5468",
+          "team": 5468,
+          "alliance": "red",
+          "epa": 128.12,
+          "opr": 148.91761921851057,
+          "selected_metric": "epa",
+          "selected_value": 128.12
+        },
+        {
+          "team_key": "frc2811",
+          "team": 2811,
+          "alliance": "blue",
+          "epa": 35.97,
+          "opr": 22.57571212871101,
+          "selected_metric": "epa",
+          "selected_value": 35.97
+        },
+        {
+          "team_key": "frc9023",
+          "team": 9023,
+          "alliance": "blue",
+          "epa": 84.17,
+          "opr": 91.16307599367234,
+          "selected_metric": "opr",
+          "selected_value": 91.16307599367234
+        },
+        {
+          "team_key": "frc955",
+          "team": 955,
+          "alliance": "blue",
+          "epa": 98.56,
+          "opr": 119.88517208630586,
+          "selected_metric": "epa",
+          "selected_value": 98.56
+        }
+      ]
+    },
+    {
+      "match_key": "2026orsal_qm1",
+      "event_key": "2026orsal",
+      "set_number": 1,
+      "match_number": 1,
+      "time": 1772824500,
+      "status": "completed",
+      "winning_alliance": "blue",
+      "alliances": {
+        "red": {
+          "score": 24,
+          "selected_total": 24.0,
+          "difference": 0.0,
+          "selected_metrics": [
+            "opr",
+            "opr",
+            "opr"
+          ]
+        },
+        "blue": {
+          "score": 109,
+          "selected_total": 109.0,
+          "difference": 0.0,
+          "selected_metrics": [
+            "opr",
+            "opr",
+            "opr"
+          ]
+        }
+      },
+      "teams": [
+        {
+          "team_key": "frc7034",
+          "team": 7034,
+          "alliance": "red",
+          "epa": 42.3,
+          "opr": 8.0,
+          "selected_metric": "opr",
+          "selected_value": 8.0
+        },
+        {
+          "team_key": "frc10991",
+          "team": 10991,
+          "alliance": "red",
+          "epa": 13.55,
+          "opr": 8.000000000000002,
+          "selected_metric": "opr",
+          "selected_value": 8.000000000000002
+        },
+        {
+          "team_key": "frc9438",
+          "team": 9438,
+          "alliance": "red",
+          "epa": 11.6,
+          "opr": 8.000000000000002,
+          "selected_metric": "opr",
+          "selected_value": 8.000000000000002
+        },
+        {
+          "team_key": "frc2521",
+          "team": 2521,
+          "alliance": "blue",
+          "epa": 52.05,
+          "opr": 36.33333333333334,
+          "selected_metric": "opr",
+          "selected_value": 36.33333333333334
+        },
+        {
+          "team_key": "frc4125",
+          "team": 4125,
+          "alliance": "blue",
+          "epa": 34.8,
+          "opr": 36.33333333333334,
+          "selected_metric": "opr",
+          "selected_value": 36.33333333333334
+        },
+        {
+          "team_key": "frc6845",
+          "team": 6845,
+          "alliance": "blue",
+          "epa": 11.88,
+          "opr": 36.33333333333334,
+          "selected_metric": "opr",
+          "selected_value": 36.33333333333334
+        }
+      ]
+    },
+    {
+      "match_key": "2026orsal_qm10",
+      "event_key": "2026orsal",
+      "set_number": 1,
+      "match_number": 10,
+      "time": 1772829780,
+      "status": "completed",
+      "winning_alliance": "red",
+      "alliances": {
+        "red": {
+          "score": 156,
+          "selected_total": 156.0,
+          "difference": 0.0,
+          "selected_metrics": [
+            "opr",
+            "opr",
+            "opr"
+          ]
+        },
+        "blue": {
+          "score": 116,
+          "selected_total": 116.0,
+          "difference": 0.0,
+          "selected_metrics": [
+            "opr",
+            "opr",
+            "opr"
+          ]
+        }
+      },
+      "teams": [
+        {
+          "team_key": "frc4060",
+          "team": 4060,
+          "alliance": "red",
+          "epa": 23.93,
+          "opr": 30.315627905991356,
+          "selected_metric": "opr",
+          "selected_value": 30.315627905991356
+        },
+        {
+          "team_key": "frc1540",
+          "team": 1540,
+          "alliance": "red",
+          "epa": 78.31,
+          "opr": 132.45797478860402,
+          "selected_metric": "opr",
+          "selected_value": 132.45797478860402
+        },
+        {
+          "team_key": "frc2733",
+          "team": 2733,
+          "alliance": "red",
+          "epa": 27.89,
+          "opr": -6.7736026945951116,
+          "selected_metric": "opr",
+          "selected_value": -6.7736026945951116
+        },
+        {
+          "team_key": "frc6443",
+          "team": 6443,
+          "alliance": "blue",
+          "epa": 39.21,
+          "opr": 23.775798294092457,
+          "selected_metric": "opr",
+          "selected_value": 23.775798294092457
+        },
+        {
+          "team_key": "frc9430",
+          "team": 9430,
+          "alliance": "blue",
+          "epa": 46.54,
+          "opr": 72.35222061683442,
+          "selected_metric": "opr",
+          "selected_value": 72.35222061683442
+        },
+        {
+          "team_key": "frc753",
+          "team": 753,
+          "alliance": "blue",
+          "epa": 27.74,
+          "opr": 19.87198108907336,
+          "selected_metric": "opr",
+          "selected_value": 19.87198108907336
+        }
+      ]
+    },
+    {
+      "match_key": "2026orsal_qm11",
+      "event_key": "2026orsal",
+      "set_number": 1,
+      "match_number": 11,
+      "time": 1772834400,
+      "status": "completed",
+      "winning_alliance": "blue",
+      "alliances": {
+        "red": {
+          "score": 9,
+          "selected_total": 9.0,
+          "difference": 0.0,
+          "selected_metrics": [
+            "opr",
+            "opr",
+            "opr"
+          ]
+        },
+        "blue": {
+          "score": 142,
+          "selected_total": 142.0,
+          "difference": 0.0,
+          "selected_metrics": [
+            "opr",
+            "opr",
+            "opr"
+          ]
+        }
+      },
+      "teams": [
+        {
+          "team_key": "frc6845",
+          "team": 6845,
+          "alliance": "red",
+          "epa": 1.62,
+          "opr": 24.886797633302603,
+          "selected_metric": "opr",
+          "selected_value": 24.886797633302603
+        },
+        {
+          "team_key": "frc2811",
+          "team": 2811,
+          "alliance": "red",
+          "epa": 40.06,
+          "opr": -0.15969860375653466,
+          "selected_metric": "opr",
+          "selected_value": -0.15969860375653466
+        },
+        {
+          "team_key": "frc5920",
+          "team": 5920,
+          "alliance": "red",
+          "epa": 23.85,
+          "opr": -15.727099029546212,
+          "selected_metric": "opr",
+          "selected_value": -15.727099029546212
+        },
+        {
+          "team_key": "frc2926",
+          "team": 2926,
+          "alliance": "blue",
+          "epa": 38.92,
+          "opr": 71.88358623422705,
+          "selected_metric": "opr",
+          "selected_value": 71.88358623422705
+        },
+        {
+          "team_key": "frc4061",
+          "team": 4061,
+          "alliance": "blue",
+          "epa": 38.85,
+          "opr": -8.799302857686115,
+          "selected_metric": "opr",
+          "selected_value": -8.799302857686115
+        },
+        {
+          "team_key": "frc997",
+          "team": 997,
+          "alliance": "blue",
+          "epa": 50.39,
+          "opr": 78.91571662345935,
+          "selected_metric": "opr",
+          "selected_value": 78.91571662345935
+        }
+      ]
+    },
+    {
+      "match_key": "2026orsal_qm12",
+      "event_key": "2026orsal",
+      "set_number": 1,
+      "match_number": 12,
+      "time": 1772834880,
+      "status": "completed",
+      "winning_alliance": "red",
+      "alliances": {
+        "red": {
+          "score": 160,
+          "selected_total": 160.0,
+          "difference": 0.0,
+          "selected_metrics": [
+            "opr",
+            "opr",
+            "opr"
+          ]
+        },
+        "blue": {
+          "score": 87,
+          "selected_total": 87.0,
+          "difference": 0.0,
+          "selected_metrics": [
+            "opr",
+            "opr",
+            "opr"
+          ]
+        }
+      },
+      "teams": [
+        {
+          "team_key": "frc2521",
+          "team": 2521,
+          "alliance": "red",
+          "epa": 58.48,
+          "opr": 76.08266399261421,
+          "selected_metric": "opr",
+          "selected_value": 76.08266399261421
+        },
+        {
+          "team_key": "frc6465",
+          "team": 6465,
+          "alliance": "red",
+          "epa": 35.93,
+          "opr": 33.50915154401915,
+          "selected_metric": "opr",
+          "selected_value": 33.50915154401915
+        },
+        {
+          "team_key": "frc8532",
+          "team": 8532,
+          "alliance": "red",
+          "epa": 26.98,
+          "opr": 50.40818446336655,
+          "selected_metric": "opr",
+          "selected_value": 50.40818446336655
+        },
+        {
+          "team_key": "frc4692",
+          "team": 4692,
+          "alliance": "blue",
+          "epa": 32.62,
+          "opr": 30.61118856355804,
+          "selected_metric": "opr",
+          "selected_value": 30.61118856355804
+        },
+        {
+          "team_key": "frc6343",
+          "team": 6343,
+          "alliance": "blue",
+          "epa": 37.74,
+          "opr": 4.230399093120975,
+          "selected_metric": "opr",
+          "selected_value": 4.230399093120975
+        },
+        {
+          "team_key": "frc749",
+          "team": 749,
+          "alliance": "blue",
+          "epa": 28.19,
+          "opr": 52.15841234332105,
+          "selected_metric": "opr",
+          "selected_value": 52.15841234332105
+        }
+      ]
+    },
+    {
+      "match_key": "2026orsal_qm13",
+      "event_key": "2026orsal",
+      "set_number": 1,
+      "match_number": 13,
+      "time": 1772835360,
+      "status": "completed",
+      "winning_alliance": "blue",
+      "alliances": {
+        "red": {
+          "score": 164,
+          "selected_total": 164.0,
+          "difference": 0.0,
+          "selected_metrics": [
+            "opr",
+            "opr",
+            "opr"
+          ]
+        },
+        "blue": {
+          "score": 330,
+          "selected_total": 330.0,
+          "difference": 0.0,
+          "selected_metrics": [
+            "opr",
+            "opr",
+            "opr"
+          ]
+        }
+      },
+      "teams": [
+        {
+          "team_key": "frc3024",
+          "team": 3024,
+          "alliance": "red",
+          "epa": 40.19,
+          "opr": 31.99051693779927,
+          "selected_metric": "opr",
+          "selected_value": 31.99051693779927
+        },
+        {
+          "team_key": "frc3674",
+          "team": 3674,
+          "alliance": "red",
+          "epa": 68.16,
+          "opr": 89.31657101547341,
+          "selected_metric": "opr",
+          "selected_value": 89.31657101547341
+        },
+        {
+          "team_key": "frc6443",
+          "team": 6443,
+          "alliance": "red",
+          "epa": 40.13,
+          "opr": 42.69291204672744,
+          "selected_metric": "opr",
+          "selected_value": 42.69291204672744
+        },
+        {
+          "team_key": "frc846",
+          "team": 846,
+          "alliance": "blue",
+          "epa": 93.94,
+          "opr": 159.60801574163878,
+          "selected_metric": "opr",
+          "selected_value": 159.60801574163878
+        },
+        {
+          "team_key": "frc955",
+          "team": 955,
+          "alliance": "blue",
+          "epa": 63.13,
+          "opr": 121.2117983159934,
+          "selected_metric": "opr",
+          "selected_value": 121.2117983159934
+        },
+        {
+          "team_key": "frc847",
+          "team": 847,
+          "alliance": "blue",
+          "epa": 36.37,
+          "opr": 49.18018594236791,
+          "selected_metric": "opr",
+          "selected_value": 49.18018594236791
+        }
+      ]
+    },
+    {
+      "match_key": "2026orsal_qm14",
+      "event_key": "2026orsal",
+      "set_number": 1,
+      "match_number": 14,
+      "time": 1772835840,
+      "status": "completed",
+      "winning_alliance": "blue",
+      "alliances": {
+        "red": {
+          "score": 7,
+          "selected_total": 7.0,
+          "difference": 0.0,
+          "selected_metrics": [
+            "opr",
+            "opr",
+            "opr"
+          ]
+        },
+        "blue": {
+          "score": 78,
+          "selected_total": 78.0,
+          "difference": 0.0,
+          "selected_metrics": [
+            "opr",
+            "opr",
+            "opr"
+          ]
+        }
+      },
+      "teams": [
+        {
+          "team_key": "frc9438",
+          "team": 9438,
+          "alliance": "red",
+          "epa": 8.96,
+          "opr": 2.536583805838772,
+          "selected_metric": "opr",
+          "selected_value": 2.536583805838772
+        },
+        {
+          "team_key": "frc6845",
+          "team": 6845,
+          "alliance": "red",
+          "epa": -2.31,
+          "opr": 34.68291940755179,
+          "selected_metric": "opr",
+          "selected_value": 34.68291940755179
+        },
+        {
+          "team_key": "frc2733",
+          "team": 2733,
+          "alliance": "red",
+          "epa": 23.95,
+          "opr": -30.219503213390468,
+          "selected_metric": "opr",
+          "selected_value": -30.219503213390468
+        },
+        {
+          "team_key": "frc3712",
+          "team": 3712,
+          "alliance": "blue",
+          "epa": 12.12,
+          "opr": 22.964947636524652,
+          "selected_metric": "opr",
+          "selected_value": 22.964947636524652
+        },
+        {
+          "team_key": "frc2811",
+          "team": 2811,
+          "alliance": "blue",
+          "epa": 35.06,
+          "opr": -18.978443236439578,
+          "selected_metric": "opr",
+          "selected_value": -18.978443236439578
+        },
+        {
+          "team_key": "frc5468",
+          "team": 5468,
+          "alliance": "blue",
+          "epa": 60.77,
+          "opr": 74.01349559991503,
+          "selected_metric": "opr",
+          "selected_value": 74.01349559991503
+        }
+      ]
+    },
+    {
+      "match_key": "2026orsal_qm15",
+      "event_key": "2026orsal",
+      "set_number": 1,
+      "match_number": 15,
+      "time": 1772836320,
+      "status": "completed",
+      "winning_alliance": "blue",
+      "alliances": {
+        "red": {
+          "score": 73,
+          "selected_total": 73.0,
+          "difference": 0.0,
+          "selected_metrics": [
+            "opr",
+            "opr",
+            "opr"
+          ]
+        },
+        "blue": {
+          "score": 282,
+          "selected_total": 282.0,
+          "difference": 0.0,
+          "selected_metrics": [
+            "opr",
+            "opr",
+            "opr"
+          ]
+        }
+      },
+      "teams": [
+        {
+          "team_key": "frc4060",
+          "team": 4060,
+          "alliance": "red",
+          "epa": 23.6,
+          "opr": -59.1452347184349,
+          "selected_metric": "opr",
+          "selected_value": -59.1452347184349
+        },
+        {
+          "team_key": "frc5920",
+          "team": 5920,
+          "alliance": "red",
+          "epa": 23.52,
+          "opr": 30.017737652459136,
+          "selected_metric": "opr",
+          "selected_value": 30.017737652459136
+        },
+        {
+          "team_key": "frc749",
+          "team": 749,
+          "alliance": "red",
+          "epa": 27.86,
+          "opr": 102.12749706597593,
+          "selected_metric": "opr",
+          "selected_value": 102.12749706597593
+        },
+        {
+          "team_key": "frc2374",
+          "team": 2374,
+          "alliance": "blue",
+          "epa": 57.73,
+          "opr": 197.60960458651425,
+          "selected_metric": "opr",
+          "selected_value": 197.60960458651425
+        },
+        {
+          "team_key": "frc9023",
+          "team": 9023,
+          "alliance": "blue",
+          "epa": 73.64,
+          "opr": 159.11035687798844,
+          "selected_metric": "opr",
+          "selected_value": 159.11035687798844
+        },
+        {
+          "team_key": "frc4043",
+          "team": 4043,
+          "alliance": "blue",
+          "epa": 56.83,
+          "opr": -74.71996146450256,
+          "selected_metric": "opr",
+          "selected_value": -74.71996146450256
+        }
+      ]
+    },
+    {
+      "match_key": "2026orsal_qm16",
+      "event_key": "2026orsal",
+      "set_number": 1,
+      "match_number": 16,
+      "time": 1772836800,
+      "status": "completed",
+      "winning_alliance": "red",
+      "alliances": {
+        "red": {
+          "score": 180,
+          "selected_total": 180.0,
+          "difference": 0.0,
+          "selected_metrics": [
+            "opr",
+            "opr",
+            "opr"
+          ]
+        },
+        "blue": {
+          "score": 113,
+          "selected_total": 113.0,
+          "difference": 0.0,
+          "selected_metrics": [
+            "opr",
+            "opr",
+            "opr"
+          ]
+        }
+      },
+      "teams": [
+        {
+          "team_key": "frc9430",
+          "team": 9430,
+          "alliance": "red",
+          "epa": 56.35,
+          "opr": -142.93915646607417,
+          "selected_metric": "opr",
+          "selected_value": -142.93915646607417
+        },
+        {
+          "team_key": "frc4125",
+          "team": 4125,
+          "alliance": "red",
+          "epa": 38.87,
+          "opr": 80.09448987174068,
+          "selected_metric": "opr",
+          "selected_value": 80.09448987174068
+        },
+        {
+          "team_key": "frc10991",
+          "team": 10991,
+          "alliance": "red",
+          "epa": 25.9,
+          "opr": 242.84466659433323,
+          "selected_metric": "opr",
+          "selected_value": 242.84466659433323
+        },
+        {
+          "team_key": "frc3673",
+          "team": 3673,
+          "alliance": "blue",
+          "epa": 16.73,
+          "opr": 11.519020282821904,
+          "selected_metric": "opr",
+          "selected_value": 11.519020282821904
+        },
+        {
+          "team_key": "frc997",
+          "team": 997,
+          "alliance": "blue",
+          "epa": 52.96,
+          "opr": 144.25243383999282,
+          "selected_metric": "opr",
+          "selected_value": 144.25243383999282
+        },
+        {
+          "team_key": "frc1359",
+          "team": 1359,
+          "alliance": "blue",
+          "epa": 27.92,
+          "opr": -42.77145412281479,
+          "selected_metric": "opr",
+          "selected_value": -42.77145412281479
+        }
+      ]
+    },
+    {
+      "match_key": "2026orsal_qm17",
+      "event_key": "2026orsal",
+      "set_number": 1,
+      "match_number": 17,
+      "time": 1772837280,
+      "status": "completed",
+      "winning_alliance": "red",
+      "alliances": {
+        "red": {
+          "score": 144,
+          "selected_total": 144.0,
+          "difference": 0.0,
+          "selected_metrics": [
+            "opr",
+            "opr",
+            "opr"
+          ]
+        },
+        "blue": {
+          "score": 72,
+          "selected_total": 72.0,
+          "difference": 0.0,
+          "selected_metrics": [
+            "opr",
+            "opr",
+            "opr"
+          ]
+        }
+      },
+      "teams": [
+        {
+          "team_key": "frc753",
+          "team": 753,
+          "alliance": "red",
+          "epa": 32.31,
+          "opr": 74.66191494100795,
+          "selected_metric": "opr",
+          "selected_value": 74.66191494100795
+        },
+        {
+          "team_key": "frc7034",
+          "team": 7034,
+          "alliance": "red",
+          "epa": 54.49,
+          "opr": 50.8661914941008,
+          "selected_metric": "opr",
+          "selected_value": 50.8661914941008
+        },
+        {
+          "team_key": "frc9567",
+          "team": 9567,
+          "alliance": "red",
+          "epa": 24.82,
+          "opr": 18.47189356489114,
+          "selected_metric": "opr",
+          "selected_value": 18.47189356489114
+        },
+        {
+          "team_key": "frc4061",
+          "team": 4061,
+          "alliance": "blue",
+          "epa": 31.29,
+          "opr": 122.64982397117006,
+          "selected_metric": "opr",
+          "selected_value": 122.64982397117006
+        },
+        {
+          "team_key": "frc6343",
+          "team": 6343,
+          "alliance": "blue",
+          "epa": 30.18,
+          "opr": -9.905350013131617,
+          "selected_metric": "opr",
+          "selected_value": -9.905350013131617
+        },
+        {
+          "team_key": "frc2521",
+          "team": 2521,
+          "alliance": "blue",
+          "epa": 50.92,
+          "opr": -40.744473958038355,
+          "selected_metric": "opr",
+          "selected_value": -40.744473958038355
+        }
+      ]
+    },
+    {
+      "match_key": "2026orsal_qm18",
+      "event_key": "2026orsal",
+      "set_number": 1,
+      "match_number": 18,
+      "time": 1772837760,
+      "status": "completed",
+      "winning_alliance": "blue",
+      "alliances": {
+        "red": {
+          "score": 158,
+          "selected_total": 160.238,
+          "difference": 2.238,
+          "selected_metrics": [
+            "opr",
+            "opr",
+            "opr"
+          ]
+        },
+        "blue": {
+          "score": 241,
+          "selected_total": 234.66,
+          "difference": 6.34,
+          "selected_metrics": [
+            "opr",
+            "opr",
+            "opr"
+          ]
+        }
+      },
+      "teams": [
+        {
+          "team_key": "frc6465",
+          "team": 6465,
+          "alliance": "red",
+          "epa": 38.56,
+          "opr": 168.35171687722732,
+          "selected_metric": "opr",
+          "selected_value": 168.35171687722732
+        },
+        {
+          "team_key": "frc4692",
+          "team": 4692,
+          "alliance": "red",
+          "epa": 35.25,
+          "opr": -344.3115484288958,
+          "selected_metric": "opr",
+          "selected_value": -344.3115484288958
+        },
+        {
+          "team_key": "frc5468",
+          "team": 5468,
+          "alliance": "red",
+          "epa": 63.41,
+          "opr": 336.19744088111463,
+          "selected_metric": "opr",
+          "selected_value": 336.19744088111463
+        },
+        {
+          "team_key": "frc1540",
+          "team": 1540,
+          "alliance": "blue",
+          "epa": 87.6,
+          "opr": 43.96104632329139,
+          "selected_metric": "opr",
+          "selected_value": 43.96104632329139
+        },
+        {
+          "team_key": "frc6443",
+          "team": 6443,
+          "alliance": "blue",
+          "epa": 49.42,
+          "opr": 242.31211532231978,
+          "selected_metric": "opr",
+          "selected_value": 242.31211532231978
+        },
+        {
+          "team_key": "frc2926",
+          "team": 2926,
+          "alliance": "blue",
+          "epa": 48.21,
+          "opr": -51.61305474570794,
+          "selected_metric": "opr",
+          "selected_value": -51.61305474570794
+        }
+      ]
+    },
+    {
+      "match_key": "2026orsal_qm19",
+      "event_key": "2026orsal",
+      "set_number": 1,
+      "match_number": 19,
+      "time": 1772838240,
+      "status": "completed",
+      "winning_alliance": "blue",
+      "alliances": {
+        "red": {
+          "score": 56,
+          "selected_total": 61.412,
+          "difference": 5.412,
+          "selected_metrics": [
+            "opr",
+            "opr",
+            "opr"
+          ]
+        },
+        "blue": {
+          "score": 176,
+          "selected_total": 189.457,
+          "difference": 13.457,
+          "selected_metrics": [
+            "opr",
+            "opr",
+            "opr"
+          ]
+        }
+      },
+      "teams": [
+        {
+          "team_key": "frc4043",
+          "team": 4043,
+          "alliance": "red",
+          "epa": 49.61,
+          "opr": -52.343850541212454,
+          "selected_metric": "opr",
+          "selected_value": -52.343850541212454
+        },
+        {
+          "team_key": "frc2733",
+          "team": 2733,
+          "alliance": "red",
+          "epa": 16.74,
+          "opr": 182.68922096792357,
+          "selected_metric": "opr",
+          "selected_value": 182.68922096792357
+        },
+        {
+          "team_key": "frc3024",
+          "team": 3024,
+          "alliance": "red",
+          "epa": 32.97,
+          "opr": -68.93379363479424,
+          "selected_metric": "opr",
+          "selected_value": -68.93379363479424
+        },
+        {
+          "team_key": "frc3674",
+          "team": 3674,
+          "alliance": "blue",
+          "epa": 71.7,
+          "opr": -8.080140486157855,
+          "selected_metric": "opr",
+          "selected_value": -8.080140486157855
+        },
+        {
+          "team_key": "frc10991",
+          "team": 10991,
+          "alliance": "blue",
+          "epa": 29.44,
+          "opr": 170.97521518115926,
+          "selected_metric": "opr",
+          "selected_value": 170.97521518115926
+        },
+        {
+          "team_key": "frc2811",
+          "team": 2811,
+          "alliance": "blue",
+          "epa": 38.6,
+          "opr": 26.561469013942364,
+          "selected_metric": "opr",
+          "selected_value": 26.561469013942364
+        }
+      ]
+    },
+    {
+      "match_key": "2026orsal_qm2",
+      "event_key": "2026orsal",
+      "set_number": 1,
+      "match_number": 2,
+      "time": 1772824980,
+      "status": "completed",
+      "winning_alliance": "red",
+      "alliances": {
+        "red": {
+          "score": 237,
+          "selected_total": 237.0,
+          "difference": 0.0,
+          "selected_metrics": [
+            "opr",
+            "opr",
+            "opr"
+          ]
+        },
+        "blue": {
+          "score": 114,
+          "selected_total": 114.0,
+          "difference": 0.0,
+          "selected_metrics": [
+            "opr",
+            "opr",
+            "opr"
+          ]
+        }
+      },
+      "teams": [
+        {
+          "team_key": "frc846",
+          "team": 846,
+          "alliance": "red",
+          "epa": 62.86,
+          "opr": 79.00000000000003,
+          "selected_metric": "opr",
+          "selected_value": 79.00000000000003
+        },
+        {
+          "team_key": "frc997",
+          "team": 997,
+          "alliance": "red",
+          "epa": 48.08,
+          "opr": 79.00000000000003,
+          "selected_metric": "opr",
+          "selected_value": 79.00000000000003
+        },
+        {
+          "team_key": "frc9430",
+          "team": 9430,
+          "alliance": "red",
+          "epa": 46.95,
+          "opr": 79.00000000000003,
+          "selected_metric": "opr",
+          "selected_value": 79.00000000000003
+        },
+        {
+          "team_key": "frc4043",
+          "team": 4043,
+          "alliance": "blue",
+          "epa": 50.46,
+          "opr": 38.000000000000014,
+          "selected_metric": "opr",
+          "selected_value": 38.000000000000014
+        },
+        {
+          "team_key": "frc749",
+          "team": 749,
+          "alliance": "blue",
+          "epa": 30.11,
+          "opr": 38.000000000000014,
+          "selected_metric": "opr",
+          "selected_value": 38.000000000000014
+        },
+        {
+          "team_key": "frc2926",
+          "team": 2926,
+          "alliance": "blue",
+          "epa": 36.61,
+          "opr": 38.000000000000014,
+          "selected_metric": "opr",
+          "selected_value": 38.000000000000014
+        }
+      ]
+    },
+    {
+      "match_key": "2026orsal_qm20",
+      "event_key": "2026orsal",
+      "set_number": 1,
+      "match_number": 20,
+      "time": 1772838720,
+      "status": "completed",
+      "winning_alliance": "blue",
+      "alliances": {
+        "red": {
+          "score": 118,
+          "selected_total": 116.344,
+          "difference": 1.656,
+          "selected_metrics": [
+            "epa",
+            "opr",
+            "epa"
+          ]
+        },
+        "blue": {
+          "score": 192,
+          "selected_total": 187.936,
+          "difference": 4.064,
+          "selected_metrics": [
+            "opr",
+            "opr",
+            "opr"
+          ]
+        }
+      },
+      "teams": [
+        {
+          "team_key": "frc847",
+          "team": 847,
+          "alliance": "red",
+          "epa": 37.07,
+          "opr": 63.024089900392944,
+          "selected_metric": "epa",
+          "selected_value": 37.07
+        },
+        {
+          "team_key": "frc9430",
+          "team": 9430,
+          "alliance": "red",
+          "epa": 57.05,
+          "opr": 69.61378521854803,
+          "selected_metric": "opr",
+          "selected_value": 69.61378521854803
+        },
+        {
+          "team_key": "frc9438",
+          "team": 9438,
+          "alliance": "red",
+          "epa": 9.66,
+          "opr": -37.027098389768,
+          "selected_metric": "epa",
+          "selected_value": 9.66
+        },
+        {
+          "team_key": "frc7034",
+          "team": 7034,
+          "alliance": "blue",
+          "epa": 60.94,
+          "opr": -50.25688872125629,
+          "selected_metric": "opr",
+          "selected_value": -50.25688872125629
+        },
+        {
+          "team_key": "frc5920",
+          "team": 5920,
+          "alliance": "blue",
+          "epa": 29.97,
+          "opr": 42.806490072222346,
+          "selected_metric": "opr",
+          "selected_value": 42.806490072222346
+        },
+        {
+          "team_key": "frc2521",
+          "team": 2521,
+          "alliance": "blue",
+          "epa": 57.37,
+          "opr": 195.38595316576107,
+          "selected_metric": "opr",
+          "selected_value": 195.38595316576107
+        }
+      ]
+    },
+    {
+      "match_key": "2026orsal_qm21",
+      "event_key": "2026orsal",
+      "set_number": 1,
+      "match_number": 21,
+      "time": 1772839200,
+      "status": "completed",
+      "winning_alliance": "red",
+      "alliances": {
+        "red": {
+          "score": 266,
+          "selected_total": 264.17,
+          "difference": 1.83,
+          "selected_metrics": [
+            "epa",
+            "opr",
+            "epa"
+          ]
+        },
+        "blue": {
+          "score": 133,
+          "selected_total": 140.745,
+          "difference": 7.745,
+          "selected_metrics": [
+            "epa",
+            "opr",
+            "epa"
+          ]
+        }
+      },
+      "teams": [
+        {
+          "team_key": "frc1359",
+          "team": 1359,
+          "alliance": "red",
+          "epa": 37.07,
+          "opr": -8.838418182518843,
+          "selected_metric": "epa",
+          "selected_value": 37.07
+        },
+        {
+          "team_key": "frc1540",
+          "team": 1540,
+          "alliance": "red",
+          "epa": 96.75,
+          "opr": 154.81951267199267,
+          "selected_metric": "opr",
+          "selected_value": 154.81951267199267
+        },
+        {
+          "team_key": "frc955",
+          "team": 955,
+          "alliance": "red",
+          "epa": 72.28,
+          "opr": 125.90972139962986,
+          "selected_metric": "epa",
+          "selected_value": 72.28
+        },
+        {
+          "team_key": "frc8532",
+          "team": 8532,
+          "alliance": "blue",
+          "epa": 29.23,
+          "opr": -71.58246450172531,
+          "selected_metric": "epa",
+          "selected_value": 29.23
+        },
+        {
+          "team_key": "frc749",
+          "team": 749,
+          "alliance": "blue",
+          "epa": 30.1,
+          "opr": 56.31520444962353,
+          "selected_metric": "opr",
+          "selected_value": 56.31520444962353
+        },
+        {
+          "team_key": "frc997",
+          "team": 997,
+          "alliance": "blue",
+          "epa": 55.2,
+          "opr": 137.01505698335836,
+          "selected_metric": "epa",
+          "selected_value": 55.2
+        }
+      ]
+    },
+    {
+      "match_key": "2026orsal_qm22",
+      "event_key": "2026orsal",
+      "set_number": 1,
+      "match_number": 22,
+      "time": 1772839680,
+      "status": "completed",
+      "winning_alliance": "red",
+      "alliances": {
+        "red": {
+          "score": 118,
+          "selected_total": 118.05,
+          "difference": 0.05,
+          "selected_metrics": [
+            "epa",
+            "epa",
+            "epa"
+          ]
+        },
+        "blue": {
+          "score": 45,
+          "selected_total": 30.367,
+          "difference": 14.633,
+          "selected_metrics": [
+            "opr",
+            "opr",
+            "opr"
+          ]
+        }
+      },
+      "teams": [
+        {
+          "team_key": "frc753",
+          "team": 753,
+          "alliance": "red",
+          "epa": 32.3,
+          "opr": 29.75331022689258,
+          "selected_metric": "epa",
+          "selected_value": 32.3
+        },
+        {
+          "team_key": "frc9023",
+          "team": 9023,
+          "alliance": "red",
+          "epa": 73.64,
+          "opr": 60.692665462868696,
+          "selected_metric": "epa",
+          "selected_value": 73.64
+        },
+        {
+          "team_key": "frc3712",
+          "team": 3712,
+          "alliance": "red",
+          "epa": 12.11,
+          "opr": 39.08332967949751,
+          "selected_metric": "epa",
+          "selected_value": 12.11
+        },
+        {
+          "team_key": "frc6465",
+          "team": 6465,
+          "alliance": "blue",
+          "epa": 36.06,
+          "opr": 72.34131234655243,
+          "selected_metric": "opr",
+          "selected_value": 72.34131234655243
+        },
+        {
+          "team_key": "frc6845",
+          "team": 6845,
+          "alliance": "blue",
+          "epa": -4.81,
+          "opr": 1.9091258651814158,
+          "selected_metric": "opr",
+          "selected_value": 1.9091258651814158
+        },
+        {
+          "team_key": "frc4061",
+          "team": 4061,
+          "alliance": "blue",
+          "epa": 28.79,
+          "opr": -43.88377057593985,
+          "selected_metric": "opr",
+          "selected_value": -43.88377057593985
+        }
+      ]
+    },
+    {
+      "match_key": "2026orsal_qm23",
+      "event_key": "2026orsal",
+      "set_number": 1,
+      "match_number": 23,
+      "time": 1772840160,
+      "status": "completed",
+      "winning_alliance": "blue",
+      "alliances": {
+        "red": {
+          "score": 48,
+          "selected_total": 56.341,
+          "difference": 8.341,
+          "selected_metrics": [
+            "epa",
+            "opr",
+            "epa"
+          ]
+        },
+        "blue": {
+          "score": 217,
+          "selected_total": 208.803,
+          "difference": 8.197,
+          "selected_metrics": [
+            "epa",
+            "opr",
+            "epa"
+          ]
+        }
+      },
+      "teams": [
+        {
+          "team_key": "frc2374",
+          "team": 2374,
+          "alliance": "red",
+          "epa": 51.43,
+          "opr": 132.3045436722508,
+          "selected_metric": "epa",
+          "selected_value": 51.43
+        },
+        {
+          "team_key": "frc3673",
+          "team": 3673,
+          "alliance": "red",
+          "epa": 10.44,
+          "opr": -18.978687024667508,
+          "selected_metric": "opr",
+          "selected_value": -18.978687024667508
+        },
+        {
+          "team_key": "frc6343",
+          "team": 6343,
+          "alliance": "red",
+          "epa": 23.89,
+          "opr": -39.61807881445022,
+          "selected_metric": "epa",
+          "selected_value": 23.89
+        },
+        {
+          "team_key": "frc2926",
+          "team": 2926,
+          "alliance": "blue",
+          "epa": 53.91,
+          "opr": 75.61316665730347,
+          "selected_metric": "epa",
+          "selected_value": 53.91
+        },
+        {
+          "team_key": "frc846",
+          "team": 846,
+          "alliance": "blue",
+          "epa": 99.64,
+          "opr": 125.60331066011747,
+          "selected_metric": "opr",
+          "selected_value": 125.60331066011747
+        },
+        {
+          "team_key": "frc4060",
+          "team": 4060,
+          "alliance": "blue",
+          "epa": 29.29,
+          "opr": -9.22490739586594,
+          "selected_metric": "epa",
+          "selected_value": 29.29
+        }
+      ]
+    },
+    {
+      "match_key": "2026orsal_qm24",
+      "event_key": "2026orsal",
+      "set_number": 1,
+      "match_number": 24,
+      "time": 1772840640,
+      "status": "completed",
+      "winning_alliance": "blue",
+      "alliances": {
+        "red": {
+          "score": 61,
+          "selected_total": 81.683,
+          "difference": 20.683,
+          "selected_metrics": [
+            "epa",
+            "epa",
+            "opr"
+          ]
+        },
+        "blue": {
+          "score": 63,
+          "selected_total": 63.553,
+          "difference": 0.553,
+          "selected_metrics": [
+            "epa",
+            "epa",
+            "opr"
+          ]
+        }
+      },
+      "teams": [
+        {
+          "team_key": "frc1540",
+          "team": 1540,
+          "alliance": "red",
+          "epa": 80.02,
+          "opr": 145.44550227300203,
+          "selected_metric": "epa",
+          "selected_value": 80.02
+        },
+        {
+          "team_key": "frc7034",
+          "team": 7034,
+          "alliance": "red",
+          "epa": 44.21,
+          "opr": -7.021222668140993,
+          "selected_metric": "epa",
+          "selected_value": 44.21
+        },
+        {
+          "team_key": "frc4125",
+          "team": 4125,
+          "alliance": "red",
+          "epa": 22.14,
+          "opr": -42.54666068068049,
+          "selected_metric": "opr",
+          "selected_value": -42.54666068068049
+        },
+        {
+          "team_key": "frc9567",
+          "team": 9567,
+          "alliance": "blue",
+          "epa": 17.94,
+          "opr": 66.61225947567667,
+          "selected_metric": "epa",
+          "selected_value": 17.94
+        },
+        {
+          "team_key": "frc3024",
+          "team": 3024,
+          "alliance": "blue",
+          "epa": 26.09,
+          "opr": 27.651992581635483,
+          "selected_metric": "epa",
+          "selected_value": 26.09
+        },
+        {
+          "team_key": "frc847",
+          "team": 847,
+          "alliance": "blue",
+          "epa": 30.2,
+          "opr": 19.522775791911595,
+          "selected_metric": "opr",
+          "selected_value": 19.522775791911595
+        }
+      ]
+    },
+    {
+      "match_key": "2026orsal_qm25",
+      "event_key": "2026orsal",
+      "set_number": 1,
+      "match_number": 25,
+      "time": 1772841120,
+      "status": "completed",
+      "winning_alliance": "red",
+      "alliances": {
+        "red": {
+          "score": 152,
+          "selected_total": 148.86,
+          "difference": 3.14,
+          "selected_metrics": [
+            "epa",
+            "epa",
+            "epa"
+          ]
+        },
+        "blue": {
+          "score": 146,
+          "selected_total": 137.154,
+          "difference": 8.846,
+          "selected_metrics": [
+            "epa",
+            "opr",
+            "epa"
+          ]
+        }
+      },
+      "teams": [
+        {
+          "team_key": "frc8532",
+          "team": 8532,
+          "alliance": "red",
+          "epa": 28.09,
+          "opr": -9.634984199842064,
+          "selected_metric": "epa",
+          "selected_value": 28.09
+        },
+        {
+          "team_key": "frc6443",
+          "team": 6443,
+          "alliance": "red",
+          "epa": 48.28,
+          "opr": 37.654183615275585,
+          "selected_metric": "epa",
+          "selected_value": 48.28
+        },
+        {
+          "team_key": "frc9023",
+          "team": 9023,
+          "alliance": "red",
+          "epa": 72.49,
+          "opr": 92.32161313322365,
+          "selected_metric": "epa",
+          "selected_value": 72.49
+        },
+        {
+          "team_key": "frc2521",
+          "team": 2521,
+          "alliance": "blue",
+          "epa": 57.87,
+          "opr": 118.9572452890246,
+          "selected_metric": "epa",
+          "selected_value": 57.87
+        },
+        {
+          "team_key": "frc9430",
+          "team": 9430,
+          "alliance": "blue",
+          "epa": 57.55,
+          "opr": 66.67432207847845,
+          "selected_metric": "opr",
+          "selected_value": 66.67432207847845
+        },
+        {
+          "team_key": "frc3712",
+          "team": 3712,
+          "alliance": "blue",
+          "epa": 12.61,
+          "opr": -10.95186284136774,
+          "selected_metric": "epa",
+          "selected_value": 12.61
+        }
+      ]
+    },
+    {
+      "match_key": "2026orsal_qm26",
+      "event_key": "2026orsal",
+      "set_number": 1,
+      "match_number": 26,
+      "time": 1772841600,
+      "status": "completed",
+      "winning_alliance": "blue",
+      "alliances": {
+        "red": {
+          "score": 79,
+          "selected_total": 76.94,
+          "difference": 2.06,
+          "selected_metrics": [
+            "epa",
+            "epa",
+            "epa"
+          ]
+        },
+        "blue": {
+          "score": 133,
+          "selected_total": 133.61,
+          "difference": 0.61,
+          "selected_metrics": [
+            "epa",
+            "opr",
+            "opr"
+          ]
+        }
+      },
+      "teams": [
+        {
+          "team_key": "frc6845",
+          "team": 6845,
+          "alliance": "red",
+          "epa": -4.47,
+          "opr": -8.073472361057275,
+          "selected_metric": "epa",
+          "selected_value": -4.47
+        },
+        {
+          "team_key": "frc4060",
+          "team": 4060,
+          "alliance": "red",
+          "epa": 29.63,
+          "opr": -28.093536710552005,
+          "selected_metric": "epa",
+          "selected_value": 29.63
+        },
+        {
+          "team_key": "frc2374",
+          "team": 2374,
+          "alliance": "red",
+          "epa": 51.78,
+          "opr": 123.35018253437377,
+          "selected_metric": "epa",
+          "selected_value": 51.78
+        },
+        {
+          "team_key": "frc9438",
+          "team": 9438,
+          "alliance": "blue",
+          "epa": 11.28,
+          "opr": -20.917671562421127,
+          "selected_metric": "epa",
+          "selected_value": 11.28
+        },
+        {
+          "team_key": "frc3674",
+          "team": 3674,
+          "alliance": "blue",
+          "epa": 73.32,
+          "opr": 93.92029935313445,
+          "selected_metric": "opr",
+          "selected_value": 93.92029935313445
+        },
+        {
+          "team_key": "frc1359",
+          "team": 1359,
+          "alliance": "blue",
+          "epa": 38.69,
+          "opr": 28.40968133887396,
+          "selected_metric": "opr",
+          "selected_value": 28.40968133887396
+        }
+      ]
+    },
+    {
+      "match_key": "2026orsal_qm27",
+      "event_key": "2026orsal",
+      "set_number": 1,
+      "match_number": 27,
+      "time": 1772842080,
+      "status": "completed",
+      "winning_alliance": "red",
+      "alliances": {
+        "red": {
+          "score": 222,
+          "selected_total": 201.801,
+          "difference": 20.199,
+          "selected_metrics": [
+            "opr",
+            "opr",
+            "epa"
+          ]
+        },
+        "blue": {
+          "score": 107,
+          "selected_total": 104.767,
+          "difference": 2.233,
+          "selected_metrics": [
+            "opr",
+            "epa",
+            "opr"
+          ]
+        }
+      },
+      "teams": [
+        {
+          "team_key": "frc753",
+          "team": 753,
+          "alliance": "red",
+          "epa": 41.46,
+          "opr": 50.25143750590772,
+          "selected_metric": "opr",
+          "selected_value": 50.25143750590772
+        },
+        {
+          "team_key": "frc5468",
+          "team": 5468,
+          "alliance": "red",
+          "epa": 72.56,
+          "opr": 118.5091768709157,
+          "selected_metric": "opr",
+          "selected_value": 118.5091768709157
+        },
+        {
+          "team_key": "frc6343",
+          "team": 6343,
+          "alliance": "red",
+          "epa": 33.04,
+          "opr": 13.497869526154405,
+          "selected_metric": "epa",
+          "selected_value": 33.04
+        },
+        {
+          "team_key": "frc2811",
+          "team": 2811,
+          "alliance": "blue",
+          "epa": 29.81,
+          "opr": -27.543412951539533,
+          "selected_metric": "opr",
+          "selected_value": -27.543412951539533
+        },
+        {
+          "team_key": "frc846",
+          "team": 846,
+          "alliance": "blue",
+          "epa": 90.84,
+          "opr": 132.10333711226528,
+          "selected_metric": "epa",
+          "selected_value": 90.84
+        },
+        {
+          "team_key": "frc9567",
+          "team": 9567,
+          "alliance": "blue",
+          "epa": 9.15,
+          "opr": 41.47026674917741,
+          "selected_metric": "opr",
+          "selected_value": 41.47026674917741
+        }
+      ]
+    },
+    {
+      "match_key": "2026orsal_qm28",
+      "event_key": "2026orsal",
+      "set_number": 1,
+      "match_number": 28,
+      "time": 1772842560,
+      "status": "completed",
+      "winning_alliance": "blue",
+      "alliances": {
+        "red": {
+          "score": 61,
+          "selected_total": 61.55,
+          "difference": 0.55,
+          "selected_metrics": [
+            "epa",
+            "epa",
+            "epa"
+          ]
+        },
+        "blue": {
+          "score": 214,
+          "selected_total": 212.721,
+          "difference": 1.279,
+          "selected_metrics": [
+            "opr",
+            "epa",
+            "epa"
+          ]
+        }
+      },
+      "teams": [
+        {
+          "team_key": "frc749",
+          "team": 749,
+          "alliance": "red",
+          "epa": 27.51,
+          "opr": 62.812076009919174,
+          "selected_metric": "epa",
+          "selected_value": 27.51
+        },
+        {
+          "team_key": "frc4061",
+          "team": 4061,
+          "alliance": "red",
+          "epa": 26.19,
+          "opr": -11.759778822428629,
+          "selected_metric": "epa",
+          "selected_value": 26.19
+        },
+        {
+          "team_key": "frc3673",
+          "team": 3673,
+          "alliance": "red",
+          "epa": 7.85,
+          "opr": -5.098398493642743,
+          "selected_metric": "epa",
+          "selected_value": 7.85
+        },
+        {
+          "team_key": "frc10991",
+          "team": 10991,
+          "alliance": "blue",
+          "epa": 35.93,
+          "opr": 73.57124292064904,
+          "selected_metric": "opr",
+          "selected_value": 73.57124292064904
+        },
+        {
+          "team_key": "frc2926",
+          "team": 2926,
+          "alliance": "blue",
+          "epa": 60.39,
+          "opr": 68.64454543324855,
+          "selected_metric": "epa",
+          "selected_value": 60.39
+        },
+        {
+          "team_key": "frc955",
+          "team": 955,
+          "alliance": "blue",
+          "epa": 78.76,
+          "opr": 106.42099011328497,
+          "selected_metric": "epa",
+          "selected_value": 78.76
+        }
+      ]
+    },
+    {
+      "match_key": "2026orsal_qm29",
+      "event_key": "2026orsal",
+      "set_number": 1,
+      "match_number": 29,
+      "time": 1772843040,
+      "status": "completed",
+      "winning_alliance": "red",
+      "alliances": {
+        "red": {
+          "score": 157,
+          "selected_total": 160.728,
+          "difference": 3.728,
+          "selected_metrics": [
+            "opr",
+            "epa",
+            "epa"
+          ]
+        },
+        "blue": {
+          "score": 25,
+          "selected_total": 40.937,
+          "difference": 15.937,
+          "selected_metrics": [
+            "opr",
+            "opr",
+            "epa"
+          ]
+        }
+      },
+      "teams": [
+        {
+          "team_key": "frc997",
+          "team": 997,
+          "alliance": "red",
+          "epa": 58.54,
+          "opr": 82.29773746148956,
+          "selected_metric": "opr",
+          "selected_value": 82.29773746148956
+        },
+        {
+          "team_key": "frc4043",
+          "team": 4043,
+          "alliance": "red",
+          "epa": 52.95,
+          "opr": 33.54030539648827,
+          "selected_metric": "epa",
+          "selected_value": 52.95
+        },
+        {
+          "team_key": "frc4125",
+          "team": 4125,
+          "alliance": "red",
+          "epa": 25.48,
+          "opr": 4.952231809542618,
+          "selected_metric": "epa",
+          "selected_value": 25.48
+        },
+        {
+          "team_key": "frc2733",
+          "team": 2733,
+          "alliance": "blue",
+          "epa": 10.32,
+          "opr": -1.805446539656,
+          "selected_metric": "opr",
+          "selected_value": -1.805446539656
+        },
+        {
+          "team_key": "frc5920",
+          "team": 5920,
+          "alliance": "blue",
+          "epa": 23.56,
+          "opr": 13.10200347206439,
+          "selected_metric": "opr",
+          "selected_value": 13.10200347206439
+        },
+        {
+          "team_key": "frc6465",
+          "team": 6465,
+          "alliance": "blue",
+          "epa": 29.64,
+          "opr": 39.88840975345939,
+          "selected_metric": "epa",
+          "selected_value": 29.64
+        }
+      ]
+    },
+    {
+      "match_key": "2026orsal_qm3",
+      "event_key": "2026orsal",
+      "set_number": 1,
+      "match_number": 3,
+      "time": 1772825580,
+      "status": "completed",
+      "winning_alliance": "blue",
+      "alliances": {
+        "red": {
+          "score": 125,
+          "selected_total": 125.0,
+          "difference": 0.0,
+          "selected_metrics": [
+            "opr",
+            "opr",
+            "opr"
+          ]
+        },
+        "blue": {
+          "score": 290,
+          "selected_total": 290.0,
+          "difference": 0.0,
+          "selected_metrics": [
+            "opr",
+            "opr",
+            "opr"
+          ]
+        }
+      },
+      "teams": [
+        {
+          "team_key": "frc3674",
+          "team": 3674,
+          "alliance": "red",
+          "epa": 59.62,
+          "opr": 41.66666666666668,
+          "selected_metric": "opr",
+          "selected_value": 41.66666666666668
+        },
+        {
+          "team_key": "frc753",
+          "team": 753,
+          "alliance": "red",
+          "epa": 28.16,
+          "opr": 41.66666666666668,
+          "selected_metric": "opr",
+          "selected_value": 41.66666666666668
+        },
+        {
+          "team_key": "frc5920",
+          "team": 5920,
+          "alliance": "red",
+          "epa": 34.11,
+          "opr": 41.66666666666668,
+          "selected_metric": "opr",
+          "selected_value": 41.66666666666668
+        },
+        {
+          "team_key": "frc5468",
+          "team": 5468,
+          "alliance": "blue",
+          "epa": 75.03,
+          "opr": 96.6666666666667,
+          "selected_metric": "opr",
+          "selected_value": 96.6666666666667
+        },
+        {
+          "team_key": "frc1540",
+          "team": 1540,
+          "alliance": "blue",
+          "epa": 74.83,
+          "opr": 96.6666666666667,
+          "selected_metric": "opr",
+          "selected_value": 96.6666666666667
+        },
+        {
+          "team_key": "frc3024",
+          "team": 3024,
+          "alliance": "blue",
+          "epa": 38.98,
+          "opr": 96.6666666666667,
+          "selected_metric": "opr",
+          "selected_value": 96.6666666666667
+        }
+      ]
+    },
+    {
+      "match_key": "2026orsal_qm30",
+      "event_key": "2026orsal",
+      "set_number": 1,
+      "match_number": 30,
+      "time": 1772843520,
+      "status": "completed",
+      "winning_alliance": "red",
+      "alliances": {
+        "red": {
+          "score": 160,
+          "selected_total": 159.434,
+          "difference": 0.566,
+          "selected_metrics": [
+            "epa",
+            "opr",
+            "opr"
+          ]
+        },
+        "blue": {
+          "score": 15,
+          "selected_total": 14.25,
+          "difference": 0.75,
+          "selected_metrics": [
+            "opr",
+            "opr",
+            "epa"
+          ]
+        }
+      },
+      "teams": [
+        {
+          "team_key": "frc4692",
+          "team": 4692,
+          "alliance": "red",
+          "epa": 37.05,
+          "opr": 29.211888037466945,
+          "selected_metric": "epa",
+          "selected_value": 37.05
+        },
+        {
+          "team_key": "frc847",
+          "team": 847,
+          "alliance": "red",
+          "epa": 32.0,
+          "opr": 12.389347506259805,
+          "selected_metric": "opr",
+          "selected_value": 12.389347506259805
+        },
+        {
+          "team_key": "frc3674",
+          "team": 3674,
+          "alliance": "red",
+          "epa": 75.13,
+          "opr": 109.9941891134598,
+          "selected_metric": "opr",
+          "selected_value": 109.9941891134598
+        },
+        {
+          "team_key": "frc1359",
+          "team": 1359,
+          "alliance": "blue",
+          "epa": 28.14,
+          "opr": 11.943430603627974,
+          "selected_metric": "opr",
+          "selected_value": 11.943430603627974
+        },
+        {
+          "team_key": "frc2811",
+          "team": 2811,
+          "alliance": "blue",
+          "epa": 19.26,
+          "opr": -28.603400579799274,
+          "selected_metric": "opr",
+          "selected_value": -28.603400579799274
+        },
+        {
+          "team_key": "frc753",
+          "team": 753,
+          "alliance": "blue",
+          "epa": 30.91,
+          "opr": 51.9971595612633,
+          "selected_metric": "epa",
+          "selected_value": 30.91
+        }
+      ]
+    },
+    {
+      "match_key": "2026orsal_qm31",
+      "event_key": "2026orsal",
+      "set_number": 1,
+      "match_number": 31,
+      "time": 1772844000,
+      "status": "completed",
+      "winning_alliance": "red",
+      "alliances": {
+        "red": {
+          "score": 287,
+          "selected_total": 272.759,
+          "difference": 14.241,
+          "selected_metrics": [
+            "opr",
+            "opr",
+            "opr"
+          ]
+        },
+        "blue": {
+          "score": 20,
+          "selected_total": 15.504,
+          "difference": 4.496,
+          "selected_metrics": [
+            "opr",
+            "opr",
+            "epa"
+          ]
+        }
+      },
+      "teams": [
+        {
+          "team_key": "frc5468",
+          "team": 5468,
+          "alliance": "red",
+          "epa": 85.24,
+          "opr": 107.77709943366732,
+          "selected_metric": "opr",
+          "selected_value": 107.77709943366732
+        },
+        {
+          "team_key": "frc2521",
+          "team": 2521,
+          "alliance": "red",
+          "epa": 70.54,
+          "opr": 113.08046612568089,
+          "selected_metric": "opr",
+          "selected_value": 113.08046612568089
+        },
+        {
+          "team_key": "frc749",
+          "team": 749,
+          "alliance": "red",
+          "epa": 40.19,
+          "opr": 51.901714752569895,
+          "selected_metric": "opr",
+          "selected_value": 51.901714752569895
+        },
+        {
+          "team_key": "frc3024",
+          "team": 3024,
+          "alliance": "blue",
+          "epa": 25.04,
+          "opr": 26.757729538398642,
+          "selected_metric": "opr",
+          "selected_value": 26.757729538398642
+        },
+        {
+          "team_key": "frc3673",
+          "team": 3673,
+          "alliance": "blue",
+          "epa": 6.79,
+          "opr": -5.733682596529238,
+          "selected_metric": "opr",
+          "selected_value": -5.733682596529238
+        },
+        {
+          "team_key": "frc6845",
+          "team": 6845,
+          "alliance": "blue",
+          "epa": -5.52,
+          "opr": 5.674875990299061,
+          "selected_metric": "epa",
+          "selected_value": -5.52
+        }
+      ]
+    },
+    {
+      "match_key": "2026orsal_qm32",
+      "event_key": "2026orsal",
+      "set_number": 1,
+      "match_number": 32,
+      "time": 1772844480,
+      "status": "completed",
+      "winning_alliance": "blue",
+      "alliances": {
+        "red": {
+          "score": 91,
+          "selected_total": 86.152,
+          "difference": 4.848,
+          "selected_metrics": [
+            "epa",
+            "opr",
+            "opr"
+          ]
+        },
+        "blue": {
+          "score": 122,
+          "selected_total": 119.175,
+          "difference": 2.825,
+          "selected_metrics": [
+            "opr",
+            "opr",
+            "epa"
+          ]
+        }
+      },
+      "teams": [
+        {
+          "team_key": "frc6343",
+          "team": 6343,
+          "alliance": "red",
+          "epa": 30.96,
+          "opr": 12.956302625825028,
+          "selected_metric": "epa",
+          "selected_value": 30.96
+        },
+        {
+          "team_key": "frc9438",
+          "team": 9438,
+          "alliance": "red",
+          "epa": 9.2,
+          "opr": -7.870205992170682,
+          "selected_metric": "opr",
+          "selected_value": -7.870205992170682
+        },
+        {
+          "team_key": "frc2926",
+          "team": 2926,
+          "alliance": "red",
+          "epa": 58.31,
+          "opr": 63.061980422869624,
+          "selected_metric": "opr",
+          "selected_value": 63.061980422869624
+        },
+        {
+          "team_key": "frc4043",
+          "team": 4043,
+          "alliance": "blue",
+          "epa": 50.93,
+          "opr": 28.967051617516635,
+          "selected_metric": "opr",
+          "selected_value": 28.967051617516635
+        },
+        {
+          "team_key": "frc6465",
+          "team": 6465,
+          "alliance": "blue",
+          "epa": 27.62,
+          "opr": 34.67746562521909,
+          "selected_metric": "opr",
+          "selected_value": 34.67746562521909
+        },
+        {
+          "team_key": "frc9430",
+          "team": 9430,
+          "alliance": "blue",
+          "epa": 55.53,
+          "opr": 61.340947279709596,
+          "selected_metric": "epa",
+          "selected_value": 55.53
+        }
+      ]
+    },
+    {
+      "match_key": "2026orsal_qm33",
+      "event_key": "2026orsal",
+      "set_number": 1,
+      "match_number": 33,
+      "time": 1772844960,
+      "status": "completed",
+      "winning_alliance": "blue",
+      "alliances": {
+        "red": {
+          "score": 138,
+          "selected_total": 137.854,
+          "difference": 0.146,
+          "selected_metrics": [
+            "opr",
+            "epa",
+            "epa"
+          ]
+        },
+        "blue": {
+          "score": 207,
+          "selected_total": 203.294,
+          "difference": 3.706,
+          "selected_metrics": [
+            "epa",
+            "epa",
+            "opr"
+          ]
+        }
+      },
+      "teams": [
+        {
+          "team_key": "frc9567",
+          "team": 9567,
+          "alliance": "red",
+          "epa": 11.59,
+          "opr": 26.11392476527878,
+          "selected_metric": "opr",
+          "selected_value": 26.11392476527878
+        },
+        {
+          "team_key": "frc8532",
+          "team": 8532,
+          "alliance": "red",
+          "epa": 30.53,
+          "opr": 11.725007801683637,
+          "selected_metric": "epa",
+          "selected_value": 30.53
+        },
+        {
+          "team_key": "frc955",
+          "team": 955,
+          "alliance": "red",
+          "epa": 81.21,
+          "opr": 108.68533253401687,
+          "selected_metric": "epa",
+          "selected_value": 81.21
+        },
+        {
+          "team_key": "frc5920",
+          "team": 5920,
+          "alliance": "blue",
+          "epa": 29.29,
+          "opr": 10.139764681375254,
+          "selected_metric": "epa",
+          "selected_value": 29.29
+        },
+        {
+          "team_key": "frc1540",
+          "team": 1540,
+          "alliance": "blue",
+          "epa": 85.76,
+          "opr": 123.97907212487891,
+          "selected_metric": "epa",
+          "selected_value": 85.76
+        },
+        {
+          "team_key": "frc2374",
+          "team": 2374,
+          "alliance": "blue",
+          "epa": 57.52,
+          "opr": 88.24432363462819,
+          "selected_metric": "opr",
+          "selected_value": 88.24432363462819
+        }
+      ]
+    },
+    {
+      "match_key": "2026orsal_qm34",
+      "event_key": "2026orsal",
+      "set_number": 1,
+      "match_number": 34,
+      "time": 1772845440,
+      "status": "completed",
+      "winning_alliance": "blue",
+      "alliances": {
+        "red": {
+          "score": 72,
+          "selected_total": 75.014,
+          "difference": 3.014,
+          "selected_metrics": [
+            "opr",
+            "epa",
+            "epa"
+          ]
+        },
+        "blue": {
+          "score": 204,
+          "selected_total": 204.193,
+          "difference": 0.193,
+          "selected_metrics": [
+            "epa",
+            "opr",
+            "opr"
+          ]
+        }
+      },
+      "teams": [
+        {
+          "team_key": "frc4061",
+          "team": 4061,
+          "alliance": "red",
+          "epa": 18.68,
+          "opr": -18.386228440389978,
+          "selected_metric": "opr",
+          "selected_value": -18.386228440389978
+        },
+        {
+          "team_key": "frc9023",
+          "team": 9023,
+          "alliance": "red",
+          "epa": 64.98,
+          "opr": 69.85695191299017,
+          "selected_metric": "epa",
+          "selected_value": 64.98
+        },
+        {
+          "team_key": "frc10991",
+          "team": 10991,
+          "alliance": "red",
+          "epa": 28.42,
+          "opr": 56.44339401516305,
+          "selected_metric": "epa",
+          "selected_value": 28.42
+        },
+        {
+          "team_key": "frc6443",
+          "team": 6443,
+          "alliance": "blue",
+          "epa": 50.02,
+          "opr": 37.56756690989337,
+          "selected_metric": "epa",
+          "selected_value": 50.02
+        },
+        {
+          "team_key": "frc7034",
+          "team": 7034,
+          "alliance": "blue",
+          "epa": 45.95,
+          "opr": 13.0026853701955,
+          "selected_metric": "opr",
+          "selected_value": 13.0026853701955
+        },
+        {
+          "team_key": "frc846",
+          "team": 846,
+          "alliance": "blue",
+          "epa": 92.58,
+          "opr": 141.17068032692086,
+          "selected_metric": "opr",
+          "selected_value": 141.17068032692086
+        }
+      ]
+    },
+    {
+      "match_key": "2026orsal_qm35",
+      "event_key": "2026orsal",
+      "set_number": 1,
+      "match_number": 35,
+      "time": 1772845920,
+      "status": "completed",
+      "winning_alliance": "red",
+      "alliances": {
+        "red": {
+          "score": 100,
+          "selected_total": 102.389,
+          "difference": 2.389,
+          "selected_metrics": [
+            "epa",
+            "epa",
+            "opr"
+          ]
+        },
+        "blue": {
+          "score": 49,
+          "selected_total": 47.836,
+          "difference": 1.164,
+          "selected_metrics": [
+            "opr",
+            "epa",
+            "epa"
+          ]
+        }
+      },
+      "teams": [
+        {
+          "team_key": "frc997",
+          "team": 997,
+          "alliance": "red",
+          "epa": 55.74,
+          "opr": 81.69376319262112,
+          "selected_metric": "epa",
+          "selected_value": 55.74
+        },
+        {
+          "team_key": "frc4060",
+          "team": 4060,
+          "alliance": "red",
+          "epa": 26.83,
+          "opr": 2.706732793150807,
+          "selected_metric": "epa",
+          "selected_value": 26.83
+        },
+        {
+          "team_key": "frc4692",
+          "team": 4692,
+          "alliance": "red",
+          "epa": 34.25,
+          "opr": 19.818794219897047,
+          "selected_metric": "opr",
+          "selected_value": 19.818794219897047
+        },
+        {
+          "team_key": "frc2733",
+          "team": 2733,
+          "alliance": "blue",
+          "epa": 9.83,
+          "opr": 10.725871931735748,
+          "selected_metric": "opr",
+          "selected_value": 10.725871931735748
+        },
+        {
+          "team_key": "frc4125",
+          "team": 4125,
+          "alliance": "blue",
+          "epa": 24.99,
+          "opr": 16.348412106303993,
+          "selected_metric": "epa",
+          "selected_value": 24.99
+        },
+        {
+          "team_key": "frc3712",
+          "team": 3712,
+          "alliance": "blue",
+          "epa": 12.12,
+          "opr": 1.786999280113486,
+          "selected_metric": "epa",
+          "selected_value": 12.12
+        }
+      ]
+    },
+    {
+      "match_key": "2026orsal_qm36",
+      "event_key": "2026orsal",
+      "set_number": 1,
+      "match_number": 36,
+      "time": 1772846400,
+      "status": "completed",
+      "winning_alliance": "blue",
+      "alliances": {
+        "red": {
+          "score": 52,
+          "selected_total": 53.245,
+          "difference": 1.245,
+          "selected_metrics": [
+            "epa",
+            "opr",
+            "epa"
+          ]
+        },
+        "blue": {
+          "score": 134,
+          "selected_total": 111.97,
+          "difference": 22.03,
+          "selected_metrics": [
+            "epa",
+            "epa",
+            "opr"
+          ]
+        }
+      },
+      "teams": [
+        {
+          "team_key": "frc3673",
+          "team": 3673,
+          "alliance": "red",
+          "epa": 4.58,
+          "opr": -1.811512399685325,
+          "selected_metric": "epa",
+          "selected_value": 4.58
+        },
+        {
+          "team_key": "frc9438",
+          "team": 9438,
+          "alliance": "red",
+          "epa": 6.99,
+          "opr": -0.055398735812780014,
+          "selected_metric": "opr",
+          "selected_value": -0.055398735812780014
+        },
+        {
+          "team_key": "frc4043",
+          "team": 4043,
+          "alliance": "red",
+          "epa": 48.72,
+          "opr": 32.472625492246586,
+          "selected_metric": "epa",
+          "selected_value": 48.72
+        },
+        {
+          "team_key": "frc8532",
+          "team": 8532,
+          "alliance": "blue",
+          "epa": 35.99,
+          "opr": 27.360565271286514,
+          "selected_metric": "epa",
+          "selected_value": 35.99
+        },
+        {
+          "team_key": "frc5920",
+          "team": 5920,
+          "alliance": "blue",
+          "epa": 34.75,
+          "opr": 21.895525685378935,
+          "selected_metric": "epa",
+          "selected_value": 34.75
+        },
+        {
+          "team_key": "frc3024",
+          "team": 3024,
+          "alliance": "blue",
+          "epa": 30.5,
+          "opr": 41.229698135012946,
+          "selected_metric": "opr",
+          "selected_value": 41.229698135012946
+        }
+      ]
+    },
+    {
+      "match_key": "2026orsal_qm37",
+      "event_key": "2026orsal",
+      "set_number": 1,
+      "match_number": 37,
+      "time": 1772846880,
+      "status": "completed",
+      "winning_alliance": "red",
+      "alliances": {
+        "red": {
+          "score": 143,
+          "selected_total": 107.799,
+          "difference": 35.201,
+          "selected_metrics": [
+            "epa",
+            "opr",
+            "epa"
+          ]
+        },
+        "blue": {
+          "score": 52,
+          "selected_total": 46.806,
+          "difference": 5.194,
+          "selected_metrics": [
+            "epa",
+            "opr",
+            "opr"
+          ]
+        }
+      },
+      "teams": [
+        {
+          "team_key": "frc7034",
+          "team": 7034,
+          "alliance": "red",
+          "epa": 49.31,
+          "opr": 32.76990948216959,
+          "selected_metric": "epa",
+          "selected_value": 49.31
+        },
+        {
+          "team_key": "frc1359",
+          "team": 1359,
+          "alliance": "red",
+          "epa": 31.5,
+          "opr": 36.448751703784225,
+          "selected_metric": "opr",
+          "selected_value": 36.448751703784225
+        },
+        {
+          "team_key": "frc4061",
+          "team": 4061,
+          "alliance": "red",
+          "epa": 22.04,
+          "opr": 5.782087609352525,
+          "selected_metric": "epa",
+          "selected_value": 22.04
+        },
+        {
+          "team_key": "frc2926",
+          "team": 2926,
+          "alliance": "blue",
+          "epa": 51.85,
+          "opr": 66.19959463919247,
+          "selected_metric": "epa",
+          "selected_value": 51.85
+        },
+        {
+          "team_key": "frc6465",
+          "team": 6465,
+          "alliance": "blue",
+          "epa": 21.16,
+          "opr": 23.782250721239052,
+          "selected_metric": "opr",
+          "selected_value": 23.782250721239052
+        },
+        {
+          "team_key": "frc2811",
+          "team": 2811,
+          "alliance": "blue",
+          "epa": 12.79,
+          "opr": -28.82669759475655,
+          "selected_metric": "opr",
+          "selected_value": -28.82669759475655
+        }
+      ]
+    },
+    {
+      "match_key": "2026orsal_qm38",
+      "event_key": "2026orsal",
+      "set_number": 1,
+      "match_number": 38,
+      "time": 1772847360,
+      "status": "completed",
+      "winning_alliance": "red",
+      "alliances": {
+        "red": {
+          "score": 315,
+          "selected_total": 266.226,
+          "difference": 48.774,
+          "selected_metrics": [
+            "opr",
+            "opr",
+            "opr"
+          ]
+        },
+        "blue": {
+          "score": 89,
+          "selected_total": 81.142,
+          "difference": 7.858,
+          "selected_metrics": [
+            "epa",
+            "epa",
+            "opr"
+          ]
+        }
+      },
+      "teams": [
+        {
+          "team_key": "frc955",
+          "team": 955,
+          "alliance": "red",
+          "epa": 97.77,
+          "opr": 124.55133566081588,
+          "selected_metric": "opr",
+          "selected_value": 124.55133566081588
+        },
+        {
+          "team_key": "frc6845",
+          "team": 6845,
+          "alliance": "red",
+          "epa": 11.04,
+          "opr": 13.822112035249386,
+          "selected_metric": "opr",
+          "selected_value": 13.822112035249386
+        },
+        {
+          "team_key": "frc5468",
+          "team": 5468,
+          "alliance": "red",
+          "epa": 101.8,
+          "opr": 127.85287452246035,
+          "selected_metric": "opr",
+          "selected_value": 127.85287452246035
+        },
+        {
+          "team_key": "frc4125",
+          "team": 4125,
+          "alliance": "blue",
+          "epa": 22.15,
+          "opr": 14.954239629268402,
+          "selected_metric": "epa",
+          "selected_value": 22.15
+        },
+        {
+          "team_key": "frc2374",
+          "team": 2374,
+          "alliance": "blue",
+          "epa": 54.68,
+          "opr": 77.974017393077,
+          "selected_metric": "epa",
+          "selected_value": 54.68
+        },
+        {
+          "team_key": "frc847",
+          "team": 847,
+          "alliance": "blue",
+          "epa": 29.17,
+          "opr": 4.312305139855575,
+          "selected_metric": "opr",
+          "selected_value": 4.312305139855575
+        }
+      ]
+    },
+    {
+      "match_key": "2026orsal_qm39",
+      "event_key": "2026orsal",
+      "set_number": 1,
+      "match_number": 39,
+      "time": 1772848800,
+      "status": "completed",
+      "winning_alliance": "red",
+      "alliances": {
+        "red": {
+          "score": 215,
+          "selected_total": 213.651,
+          "difference": 1.349,
+          "selected_metrics": [
+            "opr",
+            "epa",
+            "opr"
+          ]
+        },
+        "blue": {
+          "score": 119,
+          "selected_total": 111.836,
+          "difference": 7.164,
+          "selected_metrics": [
+            "opr",
+            "epa",
+            "epa"
+          ]
+        }
+      },
+      "teams": [
+        {
+          "team_key": "frc1540",
+          "team": 1540,
+          "alliance": "red",
+          "epa": 88.54,
+          "opr": 108.126628734799,
+          "selected_metric": "opr",
+          "selected_value": 108.126628734799
+        },
+        {
+          "team_key": "frc4692",
+          "team": 4692,
+          "alliance": "red",
+          "epa": 37.03,
+          "opr": 20.421964905162458,
+          "selected_metric": "epa",
+          "selected_value": 37.03
+        },
+        {
+          "team_key": "frc9023",
+          "team": 9023,
+          "alliance": "red",
+          "epa": 67.76,
+          "opr": 68.49396140280048,
+          "selected_metric": "opr",
+          "selected_value": 68.49396140280048
+        },
+        {
+          "team_key": "frc10991",
+          "team": 10991,
+          "alliance": "blue",
+          "epa": 32.06,
+          "opr": 46.756208564650905,
+          "selected_metric": "opr",
+          "selected_value": 46.756208564650905
+        },
+        {
+          "team_key": "frc4060",
+          "team": 4060,
+          "alliance": "blue",
+          "epa": 30.47,
+          "opr": 16.842761774476024,
+          "selected_metric": "epa",
+          "selected_value": 30.47
+        },
+        {
+          "team_key": "frc6343",
+          "team": 6343,
+          "alliance": "blue",
+          "epa": 34.61,
+          "opr": 25.357371881170515,
+          "selected_metric": "epa",
+          "selected_value": 34.61
+        }
+      ]
+    },
+    {
+      "match_key": "2026orsal_qm4",
+      "event_key": "2026orsal",
+      "set_number": 1,
+      "match_number": 4,
+      "time": 1772826180,
+      "status": "completed",
+      "winning_alliance": "red",
+      "alliances": {
+        "red": {
+          "score": 70,
+          "selected_total": 70.0,
+          "difference": 0.0,
+          "selected_metrics": [
+            "opr",
+            "opr",
+            "opr"
+          ]
+        },
+        "blue": {
+          "score": 38,
+          "selected_total": 38.0,
+          "difference": 0.0,
+          "selected_metrics": [
+            "opr",
+            "opr",
+            "opr"
+          ]
+        }
+      },
+      "teams": [
+        {
+          "team_key": "frc9023",
+          "team": 9023,
+          "alliance": "red",
+          "epa": 56.72,
+          "opr": 23.33333333333334,
+          "selected_metric": "opr",
+          "selected_value": 23.33333333333334
+        },
+        {
+          "team_key": "frc847",
+          "team": 847,
+          "alliance": "red",
+          "epa": 22.87,
+          "opr": 23.33333333333334,
+          "selected_metric": "opr",
+          "selected_value": 23.33333333333334
+        },
+        {
+          "team_key": "frc1359",
+          "team": 1359,
+          "alliance": "red",
+          "epa": 17.03,
+          "opr": 23.33333333333334,
+          "selected_metric": "opr",
+          "selected_value": 23.33333333333334
+        },
+        {
+          "team_key": "frc4692",
+          "team": 4692,
+          "alliance": "blue",
+          "epa": 26.22,
+          "opr": 12.66666666666667,
+          "selected_metric": "opr",
+          "selected_value": 12.66666666666667
+        },
+        {
+          "team_key": "frc2733",
+          "team": 2733,
+          "alliance": "blue",
+          "epa": 24.41,
+          "opr": 12.66666666666667,
+          "selected_metric": "opr",
+          "selected_value": 12.66666666666667
+        },
+        {
+          "team_key": "frc8532",
+          "team": 8532,
+          "alliance": "blue",
+          "epa": 18.01,
+          "opr": 12.66666666666667,
+          "selected_metric": "opr",
+          "selected_value": 12.66666666666667
+        }
+      ]
+    },
+    {
+      "match_key": "2026orsal_qm40",
+      "event_key": "2026orsal",
+      "set_number": 1,
+      "match_number": 40,
+      "time": 1772849280,
+      "status": "completed",
+      "winning_alliance": "blue",
+      "alliances": {
+        "red": {
+          "score": 117,
+          "selected_total": 112.432,
+          "difference": 4.568,
+          "selected_metrics": [
+            "opr",
+            "epa",
+            "opr"
+          ]
+        },
+        "blue": {
+          "score": 280,
+          "selected_total": 284.004,
+          "difference": 4.004,
+          "selected_metrics": [
+            "opr",
+            "opr",
+            "opr"
+          ]
+        }
+      },
+      "teams": [
+        {
+          "team_key": "frc9430",
+          "team": 9430,
+          "alliance": "red",
+          "epa": 59.98,
+          "opr": 77.55987236561056,
+          "selected_metric": "opr",
+          "selected_value": 77.55987236561056
+        },
+        {
+          "team_key": "frc2733",
+          "team": 2733,
+          "alliance": "red",
+          "epa": 14.28,
+          "opr": 5.827723957980661,
+          "selected_metric": "epa",
+          "selected_value": 14.28
+        },
+        {
+          "team_key": "frc9567",
+          "team": 9567,
+          "alliance": "red",
+          "epa": 16.04,
+          "opr": 20.591830054900093,
+          "selected_metric": "opr",
+          "selected_value": 20.591830054900093
+        },
+        {
+          "team_key": "frc846",
+          "team": 846,
+          "alliance": "blue",
+          "epa": 100.59,
+          "opr": 133.87916742672192,
+          "selected_metric": "opr",
+          "selected_value": 133.87916742672192
+        },
+        {
+          "team_key": "frc749",
+          "team": 749,
+          "alliance": "blue",
+          "epa": 48.2,
+          "opr": 40.11614379514786,
+          "selected_metric": "opr",
+          "selected_value": 40.11614379514786
+        },
+        {
+          "team_key": "frc3674",
+          "team": 3674,
+          "alliance": "blue",
+          "epa": 83.14,
+          "opr": 110.00874723657897,
+          "selected_metric": "opr",
+          "selected_value": 110.00874723657897
+        }
+      ]
+    },
+    {
+      "match_key": "2026orsal_qm41",
+      "event_key": "2026orsal",
+      "set_number": 1,
+      "match_number": 41,
+      "time": 1772849760,
+      "status": "completed",
+      "winning_alliance": "red",
+      "alliances": {
+        "red": {
+          "score": 173,
+          "selected_total": 169.009,
+          "difference": 3.991,
+          "selected_metrics": [
+            "opr",
+            "epa",
+            "epa"
+          ]
+        },
+        "blue": {
+          "score": 114,
+          "selected_total": 112.378,
+          "difference": 1.622,
+          "selected_metrics": [
+            "opr",
+            "opr",
+            "epa"
+          ]
+        }
+      },
+      "teams": [
+        {
+          "team_key": "frc997",
+          "team": 997,
+          "alliance": "red",
+          "epa": 57.49,
+          "opr": 64.04868919647434,
+          "selected_metric": "opr",
+          "selected_value": 64.04868919647434
+        },
+        {
+          "team_key": "frc2521",
+          "team": 2521,
+          "alliance": "red",
+          "epa": 72.3,
+          "opr": 88.05856892158455,
+          "selected_metric": "epa",
+          "selected_value": 72.3
+        },
+        {
+          "team_key": "frc753",
+          "team": 753,
+          "alliance": "red",
+          "epa": 32.66,
+          "opr": 32.31342357103753,
+          "selected_metric": "epa",
+          "selected_value": 32.66
+        },
+        {
+          "team_key": "frc6443",
+          "team": 6443,
+          "alliance": "blue",
+          "epa": 42.7,
+          "opr": 24.23265149094794,
+          "selected_metric": "opr",
+          "selected_value": 24.23265149094794
+        },
+        {
+          "team_key": "frc3712",
+          "team": 3712,
+          "alliance": "blue",
+          "epa": 4.8,
+          "opr": -2.7944921821208224,
+          "selected_metric": "opr",
+          "selected_value": -2.7944921821208224
+        },
+        {
+          "team_key": "frc955",
+          "team": 955,
+          "alliance": "blue",
+          "epa": 90.94,
+          "opr": 117.54183014392686,
+          "selected_metric": "epa",
+          "selected_value": 90.94
+        }
+      ]
+    },
+    {
+      "match_key": "2026orsal_qm42",
+      "event_key": "2026orsal",
+      "set_number": 1,
+      "match_number": 42,
+      "time": 1772850240,
+      "status": "completed",
+      "winning_alliance": "red",
+      "alliances": {
+        "red": {
+          "score": 296,
+          "selected_total": 234.224,
+          "difference": 61.776,
+          "selected_metrics": [
+            "epa",
+            "opr",
+            "epa"
+          ]
+        },
+        "blue": {
+          "score": 89,
+          "selected_total": 81.482,
+          "difference": 7.518,
+          "selected_metrics": [
+            "epa",
+            "opr",
+            "epa"
+          ]
+        }
+      },
+      "teams": [
+        {
+          "team_key": "frc5920",
+          "team": 5920,
+          "alliance": "red",
+          "epa": 49.0,
+          "opr": 42.74656585082544,
+          "selected_metric": "epa",
+          "selected_value": 49.0
+        },
+        {
+          "team_key": "frc5468",
+          "team": 5468,
+          "alliance": "red",
+          "epa": 116.05,
+          "opr": 148.93399596024275,
+          "selected_metric": "opr",
+          "selected_value": 148.93399596024275
+        },
+        {
+          "team_key": "frc4061",
+          "team": 4061,
+          "alliance": "red",
+          "epa": 36.29,
+          "opr": 22.339098053252354,
+          "selected_metric": "epa",
+          "selected_value": 36.29
+        },
+        {
+          "team_key": "frc3673",
+          "team": 3673,
+          "alliance": "blue",
+          "epa": 6.44,
+          "opr": 1.156794065795454,
+          "selected_metric": "epa",
+          "selected_value": 6.44
+        },
+        {
+          "team_key": "frc8532",
+          "team": 8532,
+          "alliance": "blue",
+          "epa": 37.85,
+          "opr": 42.702025157877294,
+          "selected_metric": "opr",
+          "selected_value": 42.702025157877294
+        },
+        {
+          "team_key": "frc4060",
+          "team": 4060,
+          "alliance": "blue",
+          "epa": 32.34,
+          "opr": 23.07110801558237,
+          "selected_metric": "epa",
+          "selected_value": 32.34
+        }
+      ]
+    },
+    {
+      "match_key": "2026orsal_qm43",
+      "event_key": "2026orsal",
+      "set_number": 1,
+      "match_number": 43,
+      "time": 1772850720,
+      "status": "completed",
+      "winning_alliance": "red",
+      "alliances": {
+        "red": {
+          "score": 263,
+          "selected_total": 238.308,
+          "difference": 24.692,
+          "selected_metrics": [
+            "opr",
+            "epa",
+            "opr"
+          ]
+        },
+        "blue": {
+          "score": 194,
+          "selected_total": 191.791,
+          "difference": 2.209,
+          "selected_metrics": [
+            "opr",
+            "epa",
+            "epa"
+          ]
+        }
+      },
+      "teams": [
+        {
+          "team_key": "frc1540",
+          "team": 1540,
+          "alliance": "red",
+          "epa": 99.09,
+          "opr": 117.16729668177317,
+          "selected_metric": "opr",
+          "selected_value": 117.16729668177317
+        },
+        {
+          "team_key": "frc2811",
+          "team": 2811,
+          "alliance": "red",
+          "epa": 23.34,
+          "opr": -21.449059504314466,
+          "selected_metric": "epa",
+          "selected_value": 23.34
+        },
+        {
+          "team_key": "frc9430",
+          "team": 9430,
+          "alliance": "red",
+          "epa": 70.53,
+          "opr": 97.80108619419796,
+          "selected_metric": "opr",
+          "selected_value": 97.80108619419796
+        },
+        {
+          "team_key": "frc9023",
+          "team": 9023,
+          "alliance": "blue",
+          "epa": 68.22,
+          "opr": 69.11149632981251,
+          "selected_metric": "opr",
+          "selected_value": 69.11149632981251
+        },
+        {
+          "team_key": "frc6465",
+          "team": 6465,
+          "alliance": "blue",
+          "epa": 21.62,
+          "opr": 5.57126667130211,
+          "selected_metric": "epa",
+          "selected_value": 21.62
+        },
+        {
+          "team_key": "frc846",
+          "team": 846,
+          "alliance": "blue",
+          "epa": 101.06,
+          "opr": 132.0522298234066,
+          "selected_metric": "epa",
+          "selected_value": 101.06
+        }
+      ]
+    },
+    {
+      "match_key": "2026orsal_qm44",
+      "event_key": "2026orsal",
+      "set_number": 1,
+      "match_number": 44,
+      "time": 1772851200,
+      "status": "completed",
+      "winning_alliance": "red",
+      "alliances": {
+        "red": {
+          "score": 203,
+          "selected_total": 164.777,
+          "difference": 38.223,
+          "selected_metrics": [
+            "epa",
+            "opr",
+            "epa"
+          ]
+        },
+        "blue": {
+          "score": 71,
+          "selected_total": 68.366,
+          "difference": 2.634,
+          "selected_metrics": [
+            "opr",
+            "opr",
+            "epa"
+          ]
+        }
+      },
+      "teams": [
+        {
+          "team_key": "frc847",
+          "team": 847,
+          "alliance": "red",
+          "epa": 36.12,
+          "opr": 15.431581321869396,
+          "selected_metric": "epa",
+          "selected_value": 36.12
+        },
+        {
+          "team_key": "frc997",
+          "team": 997,
+          "alliance": "red",
+          "epa": 64.44,
+          "opr": 72.39697573287947,
+          "selected_metric": "opr",
+          "selected_value": 72.39697573287947
+        },
+        {
+          "team_key": "frc7034",
+          "team": 7034,
+          "alliance": "red",
+          "epa": 56.26,
+          "opr": 50.95993993457752,
+          "selected_metric": "epa",
+          "selected_value": 56.26
+        },
+        {
+          "team_key": "frc6443",
+          "team": 6443,
+          "alliance": "blue",
+          "epa": 35.89,
+          "opr": 19.18236952093206,
+          "selected_metric": "opr",
+          "selected_value": 19.18236952093206
+        },
+        {
+          "team_key": "frc2733",
+          "team": 2733,
+          "alliance": "blue",
+          "epa": 7.47,
+          "opr": 1.3139477280458527,
+          "selected_metric": "opr",
+          "selected_value": 1.3139477280458527
+        },
+        {
+          "team_key": "frc2374",
+          "team": 2374,
+          "alliance": "blue",
+          "epa": 47.87,
+          "opr": 62.05142444701635,
+          "selected_metric": "epa",
+          "selected_value": 47.87
+        }
+      ]
+    },
+    {
+      "match_key": "2026orsal_qm45",
+      "event_key": "2026orsal",
+      "set_number": 1,
+      "match_number": 45,
+      "time": 1772851680,
+      "status": "completed",
+      "winning_alliance": "red",
+      "alliances": {
+        "red": {
+          "score": 168,
+          "selected_total": 143.166,
+          "difference": 24.834,
+          "selected_metrics": [
+            "epa",
+            "epa",
+            "opr"
+          ]
+        },
+        "blue": {
+          "score": 61,
+          "selected_total": 77.842,
+          "difference": 16.842,
+          "selected_metrics": [
+            "opr",
+            "opr",
+            "epa"
+          ]
+        }
+      },
+      "teams": [
+        {
+          "team_key": "frc4125",
+          "team": 4125,
+          "alliance": "red",
+          "epa": 28.51,
+          "opr": 19.806261319210424,
+          "selected_metric": "epa",
+          "selected_value": 28.51
+        },
+        {
+          "team_key": "frc753",
+          "team": 753,
+          "alliance": "red",
+          "epa": 39.02,
+          "opr": 31.40774038763053,
+          "selected_metric": "epa",
+          "selected_value": 39.02
+        },
+        {
+          "team_key": "frc2926",
+          "team": 2926,
+          "alliance": "red",
+          "epa": 58.21,
+          "opr": 75.63643048094961,
+          "selected_metric": "opr",
+          "selected_value": 75.63643048094961
+        },
+        {
+          "team_key": "frc749",
+          "team": 749,
+          "alliance": "blue",
+          "epa": 43.04,
+          "opr": 26.26840207356706,
+          "selected_metric": "opr",
+          "selected_value": 26.26840207356706
+        },
+        {
+          "team_key": "frc3024",
+          "team": 3024,
+          "alliance": "blue",
+          "epa": 25.34,
+          "opr": 24.674017191920896,
+          "selected_metric": "opr",
+          "selected_value": 24.674017191920896
+        },
+        {
+          "team_key": "frc10991",
+          "team": 10991,
+          "alliance": "blue",
+          "epa": 26.9,
+          "opr": 29.233632885160546,
+          "selected_metric": "epa",
+          "selected_value": 26.9
+        }
+      ]
+    },
+    {
+      "match_key": "2026orsal_qm46",
+      "event_key": "2026orsal",
+      "set_number": 1,
+      "match_number": 46,
+      "time": 1772852160,
+      "status": "completed",
+      "winning_alliance": "blue",
+      "alliances": {
+        "red": {
+          "score": 45,
+          "selected_total": 45.065,
+          "difference": 0.065,
+          "selected_metrics": [
+            "opr",
+            "epa",
+            "epa"
+          ]
+        },
+        "blue": {
+          "score": 182,
+          "selected_total": 186.069,
+          "difference": 4.069,
+          "selected_metrics": [
+            "opr",
+            "epa",
+            "opr"
+          ]
+        }
+      },
+      "teams": [
+        {
+          "team_key": "frc3712",
+          "team": 3712,
+          "alliance": "red",
+          "epa": 3.98,
+          "opr": -1.3750894537981087,
+          "selected_metric": "opr",
+          "selected_value": -1.3750894537981087
+        },
+        {
+          "team_key": "frc6845",
+          "team": 6845,
+          "alliance": "red",
+          "epa": 10.23,
+          "opr": 15.01873738494396,
+          "selected_metric": "epa",
+          "selected_value": 10.23
+        },
+        {
+          "team_key": "frc4692",
+          "team": 4692,
+          "alliance": "red",
+          "epa": 36.21,
+          "opr": 18.235924089157162,
+          "selected_metric": "epa",
+          "selected_value": 36.21
+        },
+        {
+          "team_key": "frc9567",
+          "team": 9567,
+          "alliance": "blue",
+          "epa": 19.58,
+          "opr": 15.932422021991849,
+          "selected_metric": "opr",
+          "selected_value": 15.932422021991849
+        },
+        {
+          "team_key": "frc4043",
+          "team": 4043,
+          "alliance": "blue",
+          "epa": 52.26,
+          "opr": 38.535385445680845,
+          "selected_metric": "epa",
+          "selected_value": 52.26
+        },
+        {
+          "team_key": "frc3674",
+          "team": 3674,
+          "alliance": "blue",
+          "epa": 86.67,
+          "opr": 117.87641511712091,
+          "selected_metric": "opr",
+          "selected_value": 117.87641511712091
+        }
+      ]
+    },
+    {
+      "match_key": "2026orsal_qm47",
+      "event_key": "2026orsal",
+      "set_number": 1,
+      "match_number": 47,
+      "time": 1772852640,
+      "status": "completed",
+      "winning_alliance": "blue",
+      "alliances": {
+        "red": {
+          "score": 89,
+          "selected_total": 75.22,
+          "difference": 13.78,
+          "selected_metrics": [
+            "epa",
+            "epa",
+            "epa"
+          ]
+        },
+        "blue": {
+          "score": 283,
+          "selected_total": 236.8,
+          "difference": 46.2,
+          "selected_metrics": [
+            "epa",
+            "opr",
+            "opr"
+          ]
+        }
+      },
+      "teams": [
+        {
+          "team_key": "frc6343",
+          "team": 6343,
+          "alliance": "red",
+          "epa": 35.17,
+          "opr": 30.67459221810765,
+          "selected_metric": "epa",
+          "selected_value": 35.17
+        },
+        {
+          "team_key": "frc1359",
+          "team": 1359,
+          "alliance": "red",
+          "epa": 32.06,
+          "opr": 31.039547488971422,
+          "selected_metric": "epa",
+          "selected_value": 32.06
+        },
+        {
+          "team_key": "frc2733",
+          "team": 2733,
+          "alliance": "red",
+          "epa": 7.99,
+          "opr": 1.6870530669716493,
+          "selected_metric": "epa",
+          "selected_value": 7.99
+        },
+        {
+          "team_key": "frc9438",
+          "team": 9438,
+          "alliance": "blue",
+          "epa": 17.84,
+          "opr": -7.269267400608661,
+          "selected_metric": "epa",
+          "selected_value": 17.84
+        },
+        {
+          "team_key": "frc2521",
+          "team": 2521,
+          "alliance": "blue",
+          "epa": 83.15,
+          "opr": 89.99457425848006,
+          "selected_metric": "opr",
+          "selected_value": 89.99457425848006
+        },
+        {
+          "team_key": "frc1540",
+          "team": 1540,
+          "alliance": "blue",
+          "epa": 109.16,
+          "opr": 128.9655042260522,
+          "selected_metric": "opr",
+          "selected_value": 128.9655042260522
+        }
+      ]
+    },
+    {
+      "match_key": "2026orsal_qm48",
+      "event_key": "2026orsal",
+      "set_number": 1,
+      "match_number": 48,
+      "time": 1772853120,
+      "status": "completed",
+      "winning_alliance": "red",
+      "alliances": {
+        "red": {
+          "score": 101,
+          "selected_total": 102.05,
+          "difference": 1.05,
+          "selected_metrics": [
+            "epa",
+            "epa",
+            "epa"
+          ]
+        },
+        "blue": {
+          "score": 43,
+          "selected_total": 43.017,
+          "difference": 0.017,
+          "selected_metrics": [
+            "epa",
+            "epa",
+            "opr"
+          ]
+        }
+      },
+      "teams": [
+        {
+          "team_key": "frc749",
+          "team": 749,
+          "alliance": "red",
+          "epa": 42.89,
+          "opr": 34.204317861367244,
+          "selected_metric": "epa",
+          "selected_value": 42.89
+        },
+        {
+          "team_key": "frc847",
+          "team": 847,
+          "alliance": "red",
+          "epa": 35.97,
+          "opr": 24.8385468706821,
+          "selected_metric": "epa",
+          "selected_value": 35.97
+        },
+        {
+          "team_key": "frc2811",
+          "team": 2811,
+          "alliance": "red",
+          "epa": 23.19,
+          "opr": -13.086125929523988,
+          "selected_metric": "epa",
+          "selected_value": 23.19
+        },
+        {
+          "team_key": "frc6465",
+          "team": 6465,
+          "alliance": "blue",
+          "epa": 19.51,
+          "opr": 6.341401477361007,
+          "selected_metric": "epa",
+          "selected_value": 19.51
+        },
+        {
+          "team_key": "frc10991",
+          "team": 10991,
+          "alliance": "blue",
+          "epa": 24.78,
+          "opr": 31.44169966419551,
+          "selected_metric": "epa",
+          "selected_value": 24.78
+        },
+        {
+          "team_key": "frc3673",
+          "team": 3673,
+          "alliance": "blue",
+          "epa": 4.33,
+          "opr": -1.272772868680084,
+          "selected_metric": "opr",
+          "selected_value": -1.272772868680084
+        }
+      ]
+    },
+    {
+      "match_key": "2026orsal_qm49",
+      "event_key": "2026orsal",
+      "set_number": 1,
+      "match_number": 49,
+      "time": 1772853600,
+      "status": "completed",
+      "winning_alliance": "red",
+      "alliances": {
+        "red": {
+          "score": 201,
+          "selected_total": 200.49,
+          "difference": 0.51,
+          "selected_metrics": [
+            "epa",
+            "epa",
+            "epa"
+          ]
+        },
+        "blue": {
+          "score": 99,
+          "selected_total": 99.486,
+          "difference": 0.486,
+          "selected_metrics": [
+            "opr",
+            "epa",
+            "epa"
+          ]
+        }
+      },
+      "teams": [
+        {
+          "team_key": "frc4043",
+          "team": 4043,
+          "alliance": "red",
+          "epa": 51.65,
+          "opr": 38.11023777860741,
+          "selected_metric": "epa",
+          "selected_value": 51.65
+        },
+        {
+          "team_key": "frc846",
+          "team": 846,
+          "alliance": "red",
+          "epa": 100.45,
+          "opr": 128.3401519932684,
+          "selected_metric": "epa",
+          "selected_value": 100.45
+        },
+        {
+          "team_key": "frc5920",
+          "team": 5920,
+          "alliance": "red",
+          "epa": 48.39,
+          "opr": 36.131151679096384,
+          "selected_metric": "epa",
+          "selected_value": 48.39
+        },
+        {
+          "team_key": "frc997",
+          "team": 997,
+          "alliance": "blue",
+          "epa": 64.9,
+          "opr": 68.77571771793117,
+          "selected_metric": "opr",
+          "selected_value": 68.77571771793117
+        },
+        {
+          "team_key": "frc9567",
+          "team": 9567,
+          "alliance": "blue",
+          "epa": 20.03,
+          "opr": 16.68188799661856,
+          "selected_metric": "epa",
+          "selected_value": 20.03
+        },
+        {
+          "team_key": "frc6845",
+          "team": 6845,
+          "alliance": "blue",
+          "epa": 10.68,
+          "opr": 13.05276151531068,
+          "selected_metric": "epa",
+          "selected_value": 10.68
+        }
+      ]
+    },
+    {
+      "match_key": "2026orsal_qm5",
+      "event_key": "2026orsal",
+      "set_number": 1,
+      "match_number": 5,
+      "time": 1772826780,
+      "status": "completed",
+      "winning_alliance": "red",
+      "alliances": {
+        "red": {
+          "score": 86,
+          "selected_total": 86.0,
+          "difference": 0.0,
+          "selected_metrics": [
+            "opr",
+            "opr",
+            "opr"
+          ]
+        },
+        "blue": {
+          "score": 51,
+          "selected_total": 51.0,
+          "difference": 0.0,
+          "selected_metrics": [
+            "opr",
+            "opr",
+            "opr"
+          ]
+        }
+      },
+      "teams": [
+        {
+          "team_key": "frc955",
+          "team": 955,
+          "alliance": "red",
+          "epa": 39.08,
+          "opr": 28.666666666666675,
+          "selected_metric": "opr",
+          "selected_value": 28.666666666666675
+        },
+        {
+          "team_key": "frc3673",
+          "team": 3673,
+          "alliance": "red",
+          "epa": 19.91,
+          "opr": 28.666666666666675,
+          "selected_metric": "opr",
+          "selected_value": 28.666666666666675
+        },
+        {
+          "team_key": "frc2811",
+          "team": 2811,
+          "alliance": "red",
+          "epa": 50.31,
+          "opr": 28.666666666666675,
+          "selected_metric": "opr",
+          "selected_value": 28.666666666666675
+        },
+        {
+          "team_key": "frc9567",
+          "team": 9567,
+          "alliance": "blue",
+          "epa": 26.0,
+          "opr": 17.000000000000004,
+          "selected_metric": "opr",
+          "selected_value": 17.000000000000004
+        },
+        {
+          "team_key": "frc6443",
+          "team": 6443,
+          "alliance": "blue",
+          "epa": 39.63,
+          "opr": 17.000000000000004,
+          "selected_metric": "opr",
+          "selected_value": 17.000000000000004
+        },
+        {
+          "team_key": "frc4060",
+          "team": 4060,
+          "alliance": "blue",
+          "epa": 20.45,
+          "opr": 17.000000000000004,
+          "selected_metric": "opr",
+          "selected_value": 17.000000000000004
+        }
+      ]
+    },
+    {
+      "match_key": "2026orsal_qm50",
+      "event_key": "2026orsal",
+      "set_number": 1,
+      "match_number": 50,
+      "time": 1772854080,
+      "status": "completed",
+      "winning_alliance": "blue",
+      "alliances": {
+        "red": {
+          "score": 59,
+          "selected_total": 85.702,
+          "difference": 26.702,
+          "selected_metrics": [
+            "epa",
+            "opr",
+            "epa"
+          ]
+        },
+        "blue": {
+          "score": 107,
+          "selected_total": 105.841,
+          "difference": 1.159,
+          "selected_metrics": [
+            "opr",
+            "epa",
+            "epa"
+          ]
+        }
+      },
+      "teams": [
+        {
+          "team_key": "frc2926",
+          "team": 2926,
+          "alliance": "red",
+          "epa": 52.81,
+          "opr": 61.269479933141675,
+          "selected_metric": "epa",
+          "selected_value": 52.81
+        },
+        {
+          "team_key": "frc3712",
+          "team": 3712,
+          "alliance": "red",
+          "epa": -1.42,
+          "opr": -9.57764442085688,
+          "selected_metric": "opr",
+          "selected_value": -9.57764442085688
+        },
+        {
+          "team_key": "frc2374",
+          "team": 2374,
+          "alliance": "red",
+          "epa": 42.47,
+          "opr": 54.127429803119725,
+          "selected_metric": "epa",
+          "selected_value": 42.47
+        },
+        {
+          "team_key": "frc8532",
+          "team": 8532,
+          "alliance": "blue",
+          "epa": 37.11,
+          "opr": 50.47128885360707,
+          "selected_metric": "opr",
+          "selected_value": 50.47128885360707
+        },
+        {
+          "team_key": "frc753",
+          "team": 753,
+          "alliance": "blue",
+          "epa": 38.28,
+          "opr": 38.17734708380693,
+          "selected_metric": "epa",
+          "selected_value": 38.28
+        },
+        {
+          "team_key": "frc9438",
+          "team": 9438,
+          "alliance": "blue",
+          "epa": 17.09,
+          "opr": -3.1981629603144173,
+          "selected_metric": "epa",
+          "selected_value": 17.09
+        }
+      ]
+    },
+    {
+      "match_key": "2026orsal_qm51",
+      "event_key": "2026orsal",
+      "set_number": 1,
+      "match_number": 51,
+      "time": 1772854560,
+      "status": "completed",
+      "winning_alliance": "blue",
+      "alliances": {
+        "red": {
+          "score": 152,
+          "selected_total": 111.19,
+          "difference": 40.81,
+          "selected_metrics": [
+            "epa",
+            "epa",
+            "epa"
+          ]
+        },
+        "blue": {
+          "score": 168,
+          "selected_total": 177.629,
+          "difference": 9.629,
+          "selected_metrics": [
+            "opr",
+            "epa",
+            "epa"
+          ]
+        }
+      },
+      "teams": [
+        {
+          "team_key": "frc4061",
+          "team": 4061,
+          "alliance": "red",
+          "epa": 39.79,
+          "opr": 37.18400147389529,
+          "selected_metric": "epa",
+          "selected_value": 39.79
+        },
+        {
+          "team_key": "frc4125",
+          "team": 4125,
+          "alliance": "red",
+          "epa": 32.01,
+          "opr": 28.142006573326928,
+          "selected_metric": "epa",
+          "selected_value": 32.01
+        },
+        {
+          "team_key": "frc6443",
+          "team": 6443,
+          "alliance": "red",
+          "epa": 39.39,
+          "opr": 32.23727630050695,
+          "selected_metric": "epa",
+          "selected_value": 39.39
+        },
+        {
+          "team_key": "frc6343",
+          "team": 6343,
+          "alliance": "blue",
+          "epa": 32.82,
+          "opr": 25.118850586164065,
+          "selected_metric": "opr",
+          "selected_value": 25.118850586164065
+        },
+        {
+          "team_key": "frc9430",
+          "team": 9430,
+          "alliance": "blue",
+          "epa": 68.18,
+          "opr": 79.05615623721272,
+          "selected_metric": "epa",
+          "selected_value": 68.18
+        },
+        {
+          "team_key": "frc3674",
+          "team": 3674,
+          "alliance": "blue",
+          "epa": 84.33,
+          "opr": 105.23672105484479,
+          "selected_metric": "epa",
+          "selected_value": 84.33
+        }
+      ]
+    },
+    {
+      "match_key": "2026orsal_qm52",
+      "event_key": "2026orsal",
+      "set_number": 1,
+      "match_number": 52,
+      "time": 1772855040,
+      "status": "completed",
+      "winning_alliance": "blue",
+      "alliances": {
+        "red": {
+          "score": 97,
+          "selected_total": 119.124,
+          "difference": 22.124,
+          "selected_metrics": [
+            "opr",
+            "opr",
+            "epa"
+          ]
+        },
+        "blue": {
+          "score": 304,
+          "selected_total": 262.614,
+          "difference": 41.386,
+          "selected_metrics": [
+            "opr",
+            "epa",
+            "epa"
+          ]
+        }
+      },
+      "teams": [
+        {
+          "team_key": "frc3024",
+          "team": 3024,
+          "alliance": "red",
+          "epa": 20.67,
+          "opr": 16.50092202945815,
+          "selected_metric": "opr",
+          "selected_value": 16.50092202945815
+        },
+        {
+          "team_key": "frc1359",
+          "team": 1359,
+          "alliance": "red",
+          "epa": 27.39,
+          "opr": 24.15278916898745,
+          "selected_metric": "opr",
+          "selected_value": 24.15278916898745
+        },
+        {
+          "team_key": "frc2521",
+          "team": 2521,
+          "alliance": "red",
+          "epa": 78.47,
+          "opr": 83.83606571576613,
+          "selected_metric": "epa",
+          "selected_value": 78.47
+        },
+        {
+          "team_key": "frc5468",
+          "team": 5468,
+          "alliance": "blue",
+          "epa": 123.5,
+          "opr": 147.14374599089155,
+          "selected_metric": "opr",
+          "selected_value": 147.14374599089155
+        },
+        {
+          "team_key": "frc4060",
+          "team": 4060,
+          "alliance": "blue",
+          "epa": 39.79,
+          "opr": 31.999798071783125,
+          "selected_metric": "epa",
+          "selected_value": 39.79
+        },
+        {
+          "team_key": "frc9023",
+          "team": 9023,
+          "alliance": "blue",
+          "epa": 75.68,
+          "opr": 70.71846293751571,
+          "selected_metric": "epa",
+          "selected_value": 75.68
+        }
+      ]
+    },
+    {
+      "match_key": "2026orsal_qm53",
+      "event_key": "2026orsal",
+      "set_number": 1,
+      "match_number": 53,
+      "time": 1772855520,
+      "status": "completed",
+      "winning_alliance": "red",
+      "alliances": {
+        "red": {
+          "score": 278,
+          "selected_total": 216.272,
+          "difference": 61.728,
+          "selected_metrics": [
+            "opr",
+            "opr",
+            "epa"
+          ]
+        },
+        "blue": {
+          "score": 162,
+          "selected_total": 112.34,
+          "difference": 49.66,
+          "selected_metrics": [
+            "epa",
+            "epa",
+            "epa"
+          ]
+        }
+      },
+      "teams": [
+        {
+          "team_key": "frc955",
+          "team": 955,
+          "alliance": "red",
+          "epa": 102.5,
+          "opr": 123.74840743590893,
+          "selected_metric": "opr",
+          "selected_value": 123.74840743590893
+        },
+        {
+          "team_key": "frc2374",
+          "team": 2374,
+          "alliance": "red",
+          "epa": 53.15,
+          "opr": 62.34349225260211,
+          "selected_metric": "opr",
+          "selected_value": 62.34349225260211
+        },
+        {
+          "team_key": "frc6465",
+          "team": 6465,
+          "alliance": "red",
+          "epa": 30.18,
+          "opr": 17.377875344165826,
+          "selected_metric": "epa",
+          "selected_value": 30.18
+        },
+        {
+          "team_key": "frc7034",
+          "team": 7034,
+          "alliance": "blue",
+          "epa": 61.58,
+          "opr": 54.15373355871079,
+          "selected_metric": "epa",
+          "selected_value": 61.58
+        },
+        {
+          "team_key": "frc4692",
+          "team": 4692,
+          "alliance": "blue",
+          "epa": 41.53,
+          "opr": 29.156842762706148,
+          "selected_metric": "epa",
+          "selected_value": 41.53
+        },
+        {
+          "team_key": "frc3673",
+          "team": 3673,
+          "alliance": "blue",
+          "epa": 9.23,
+          "opr": 3.401196126226709,
+          "selected_metric": "epa",
+          "selected_value": 9.23
+        }
+      ]
+    },
+    {
+      "match_key": "2026orsal_qm54",
+      "event_key": "2026orsal",
+      "set_number": 1,
+      "match_number": 54,
+      "time": 1772856000,
+      "status": "completed",
+      "winning_alliance": "red",
+      "alliances": {
+        "red": {
+          "score": 251,
+          "selected_total": 210.457,
+          "difference": 40.543,
+          "selected_metrics": [
+            "epa",
+            "epa",
+            "opr"
+          ]
+        },
+        "blue": {
+          "score": 100,
+          "selected_total": 81.19,
+          "difference": 18.81,
+          "selected_metrics": [
+            "epa",
+            "epa",
+            "epa"
+          ]
+        }
+      },
+      "teams": [
+        {
+          "team_key": "frc749",
+          "team": 749,
+          "alliance": "red",
+          "epa": 49.91,
+          "opr": 42.104455110363176,
+          "selected_metric": "epa",
+          "selected_value": 49.91
+        },
+        {
+          "team_key": "frc9567",
+          "team": 9567,
+          "alliance": "red",
+          "epa": 27.05,
+          "opr": 20.676772593204237,
+          "selected_metric": "epa",
+          "selected_value": 27.05
+        },
+        {
+          "team_key": "frc1540",
+          "team": 1540,
+          "alliance": "red",
+          "epa": 116.18,
+          "opr": 133.49677829009843,
+          "selected_metric": "opr",
+          "selected_value": 133.49677829009843
+        },
+        {
+          "team_key": "frc847",
+          "team": 847,
+          "alliance": "blue",
+          "epa": 38.26,
+          "opr": 26.184642798370405,
+          "selected_metric": "epa",
+          "selected_value": 38.26
+        },
+        {
+          "team_key": "frc3712",
+          "team": 3712,
+          "alliance": "blue",
+          "epa": 0.86,
+          "opr": -6.158943027706596,
+          "selected_metric": "epa",
+          "selected_value": 0.86
+        },
+        {
+          "team_key": "frc4061",
+          "team": 4061,
+          "alliance": "blue",
+          "epa": 42.07,
+          "opr": 40.60849636761445,
+          "selected_metric": "epa",
+          "selected_value": 42.07
+        }
+      ]
+    },
+    {
+      "match_key": "2026orsal_qm55",
+      "event_key": "2026orsal",
+      "set_number": 1,
+      "match_number": 55,
+      "time": 1772903700,
+      "status": "completed",
+      "winning_alliance": "blue",
+      "alliances": {
+        "red": {
+          "score": 42,
+          "selected_total": 69.326,
+          "difference": 27.326,
+          "selected_metrics": [
+            "opr",
+            "opr",
+            "opr"
+          ]
+        },
+        "blue": {
+          "score": 77,
+          "selected_total": 67.908,
+          "difference": 9.092,
+          "selected_metrics": [
+            "epa",
+            "opr",
+            "epa"
+          ]
+        }
+      },
+      "teams": [
+        {
+          "team_key": "frc5920",
+          "team": 5920,
+          "alliance": "red",
+          "epa": 40.96,
+          "opr": 28.60168660205534,
+          "selected_metric": "opr",
+          "selected_value": 28.60168660205534
+        },
+        {
+          "team_key": "frc6443",
+          "team": 6443,
+          "alliance": "red",
+          "epa": 31.95,
+          "opr": 24.048848775460236,
+          "selected_metric": "opr",
+          "selected_value": 24.048848775460236
+        },
+        {
+          "team_key": "frc6343",
+          "team": 6343,
+          "alliance": "red",
+          "epa": 25.39,
+          "opr": 16.67576168429056,
+          "selected_metric": "opr",
+          "selected_value": 16.67576168429056
+        },
+        {
+          "team_key": "frc1359",
+          "team": 1359,
+          "alliance": "blue",
+          "epa": 27.31,
+          "opr": 23.340436879789607,
+          "selected_metric": "epa",
+          "selected_value": 27.31
+        },
+        {
+          "team_key": "frc10991",
+          "team": 10991,
+          "alliance": "blue",
+          "epa": 24.71,
+          "opr": 29.988316347284155,
+          "selected_metric": "opr",
+          "selected_value": 29.988316347284155
+        },
+        {
+          "team_key": "frc6845",
+          "team": 6845,
+          "alliance": "blue",
+          "epa": 10.61,
+          "opr": 8.240421983446502,
+          "selected_metric": "epa",
+          "selected_value": 10.61
+        }
+      ]
+    },
+    {
+      "match_key": "2026orsal_qm56",
+      "event_key": "2026orsal",
+      "set_number": 1,
+      "match_number": 56,
+      "time": 1772904180,
+      "status": "completed",
+      "winning_alliance": "blue",
+      "alliances": {
+        "red": {
+          "score": 102,
+          "selected_total": 150.041,
+          "difference": 48.041,
+          "selected_metrics": [
+            "epa",
+            "epa",
+            "opr"
+          ]
+        },
+        "blue": {
+          "score": 187,
+          "selected_total": 187.6,
+          "difference": 0.6,
+          "selected_metrics": [
+            "opr",
+            "opr",
+            "opr"
+          ]
+        }
+      },
+      "teams": [
+        {
+          "team_key": "frc9430",
+          "team": 9430,
+          "alliance": "red",
+          "epa": 61.02,
+          "opr": 71.75626740760077,
+          "selected_metric": "epa",
+          "selected_value": 61.02
+        },
+        {
+          "team_key": "frc2926",
+          "team": 2926,
+          "alliance": "red",
+          "epa": 45.65,
+          "opr": 46.106874714098,
+          "selected_metric": "epa",
+          "selected_value": 45.65
+        },
+        {
+          "team_key": "frc7034",
+          "team": 7034,
+          "alliance": "red",
+          "epa": 54.42,
+          "opr": 43.37093403755049,
+          "selected_metric": "opr",
+          "selected_value": 43.37093403755049
+        },
+        {
+          "team_key": "frc4692",
+          "team": 4692,
+          "alliance": "blue",
+          "epa": 40.76,
+          "opr": 27.319810935204224,
+          "selected_metric": "opr",
+          "selected_value": 27.319810935204224
+        },
+        {
+          "team_key": "frc955",
+          "team": 955,
+          "alliance": "blue",
+          "epa": 101.73,
+          "opr": 121.03468013662625,
+          "selected_metric": "opr",
+          "selected_value": 121.03468013662625
+        },
+        {
+          "team_key": "frc4043",
+          "team": 4043,
+          "alliance": "blue",
+          "epa": 50.88,
+          "opr": 39.24513590386258,
+          "selected_metric": "opr",
+          "selected_value": 39.24513590386258
+        }
+      ]
+    },
+    {
+      "match_key": "2026orsal_qm57",
+      "event_key": "2026orsal",
+      "set_number": 1,
+      "match_number": 57,
+      "time": 1772904660,
+      "status": "completed",
+      "winning_alliance": "blue",
+      "alliances": {
+        "red": {
+          "score": 126,
+          "selected_total": 140.889,
+          "difference": 14.889,
+          "selected_metrics": [
+            "opr",
+            "opr",
+            "epa"
+          ]
+        },
+        "blue": {
+          "score": 198,
+          "selected_total": 132.032,
+          "difference": 65.968,
+          "selected_metrics": [
+            "epa",
+            "opr",
+            "epa"
+          ]
+        }
+      },
+      "teams": [
+        {
+          "team_key": "frc753",
+          "team": 753,
+          "alliance": "red",
+          "epa": 34.87,
+          "opr": 34.0515302372171,
+          "selected_metric": "opr",
+          "selected_value": 34.0515302372171
+        },
+        {
+          "team_key": "frc3024",
+          "team": 3024,
+          "alliance": "red",
+          "epa": 17.25,
+          "opr": 9.797254323497237,
+          "selected_metric": "opr",
+          "selected_value": 9.797254323497237
+        },
+        {
+          "team_key": "frc846",
+          "team": 846,
+          "alliance": "red",
+          "epa": 97.04,
+          "opr": 122.75985469190007,
+          "selected_metric": "epa",
+          "selected_value": 97.04
+        },
+        {
+          "team_key": "frc2811",
+          "team": 2811,
+          "alliance": "blue",
+          "epa": 32.59,
+          "opr": 2.3499989809149984,
+          "selected_metric": "epa",
+          "selected_value": 32.59
+        },
+        {
+          "team_key": "frc8532",
+          "team": 8532,
+          "alliance": "blue",
+          "epa": 46.5,
+          "opr": 58.0319659907219,
+          "selected_metric": "opr",
+          "selected_value": 58.0319659907219
+        },
+        {
+          "team_key": "frc4125",
+          "team": 4125,
+          "alliance": "blue",
+          "epa": 41.41,
+          "opr": 41.061854007819804,
+          "selected_metric": "epa",
+          "selected_value": 41.41
+        }
+      ]
+    },
+    {
+      "match_key": "2026orsal_qm58",
+      "event_key": "2026orsal",
+      "set_number": 1,
+      "match_number": 58,
+      "time": 1772905140,
+      "status": "completed",
+      "winning_alliance": "blue",
+      "alliances": {
+        "red": {
+          "score": 220,
+          "selected_total": 220.727,
+          "difference": 0.727,
+          "selected_metrics": [
+            "opr",
+            "opr",
+            "opr"
+          ]
+        },
+        "blue": {
+          "score": 229,
+          "selected_total": 228.856,
+          "difference": 0.144,
+          "selected_metrics": [
+            "opr",
+            "epa",
+            "epa"
+          ]
+        }
+      },
+      "teams": [
+        {
+          "team_key": "frc2521",
+          "team": 2521,
+          "alliance": "red",
+          "epa": 79.58,
+          "opr": 81.76284213566898,
+          "selected_metric": "opr",
+          "selected_value": 81.76284213566898
+        },
+        {
+          "team_key": "frc3674",
+          "team": 3674,
+          "alliance": "red",
+          "epa": 85.43,
+          "opr": 106.65001182282306,
+          "selected_metric": "opr",
+          "selected_value": 106.65001182282306
+        },
+        {
+          "team_key": "frc4060",
+          "team": 4060,
+          "alliance": "red",
+          "epa": 40.89,
+          "opr": 32.31370319264774,
+          "selected_metric": "opr",
+          "selected_value": 32.31370319264774
+        },
+        {
+          "team_key": "frc5468",
+          "team": 5468,
+          "alliance": "blue",
+          "epa": 124.26,
+          "opr": 145.34588309152758,
+          "selected_metric": "opr",
+          "selected_value": 145.34588309152758
+        },
+        {
+          "team_key": "frc9438",
+          "team": 9438,
+          "alliance": "blue",
+          "epa": 17.85,
+          "opr": 4.855861830335037,
+          "selected_metric": "epa",
+          "selected_value": 17.85
+        },
+        {
+          "team_key": "frc997",
+          "team": 997,
+          "alliance": "blue",
+          "epa": 65.66,
+          "opr": 68.07671643056639,
+          "selected_metric": "epa",
+          "selected_value": 65.66
+        }
+      ]
+    },
+    {
+      "match_key": "2026orsal_qm59",
+      "event_key": "2026orsal",
+      "set_number": 1,
+      "match_number": 59,
+      "time": 1772905620,
+      "status": "completed",
+      "winning_alliance": "blue",
+      "alliances": {
+        "red": {
+          "score": 85,
+          "selected_total": 85.859,
+          "difference": 0.859,
+          "selected_metrics": [
+            "opr",
+            "opr",
+            "epa"
+          ]
+        },
+        "blue": {
+          "score": 173,
+          "selected_total": 149.81,
+          "difference": 23.19,
+          "selected_metrics": [
+            "epa",
+            "epa",
+            "epa"
+          ]
+        }
+      },
+      "teams": [
+        {
+          "team_key": "frc2733",
+          "team": 2733,
+          "alliance": "red",
+          "epa": 7.38,
+          "opr": 0.30665851647773995,
+          "selected_metric": "opr",
+          "selected_value": 0.30665851647773995
+        },
+        {
+          "team_key": "frc2926",
+          "team": 2926,
+          "alliance": "red",
+          "epa": 45.09,
+          "opr": 47.8619884087273,
+          "selected_metric": "opr",
+          "selected_value": 47.8619884087273
+        },
+        {
+          "team_key": "frc847",
+          "team": 847,
+          "alliance": "red",
+          "epa": 37.69,
+          "opr": 25.35974455817242,
+          "selected_metric": "epa",
+          "selected_value": 37.69
+        },
+        {
+          "team_key": "frc9023",
+          "team": 9023,
+          "alliance": "blue",
+          "epa": 77.84,
+          "opr": 71.42018365121308,
+          "selected_metric": "epa",
+          "selected_value": 77.84
+        },
+        {
+          "team_key": "frc9567",
+          "team": 9567,
+          "alliance": "blue",
+          "epa": 29.03,
+          "opr": 25.476339160742445,
+          "selected_metric": "epa",
+          "selected_value": 29.03
+        },
+        {
+          "team_key": "frc5920",
+          "team": 5920,
+          "alliance": "blue",
+          "epa": 42.94,
+          "opr": 33.45935155730925,
+          "selected_metric": "epa",
+          "selected_value": 42.94
+        }
+      ]
+    },
+    {
+      "match_key": "2026orsal_qm6",
+      "event_key": "2026orsal",
+      "set_number": 1,
+      "match_number": 6,
+      "time": 1772827380,
+      "status": "completed",
+      "winning_alliance": "blue",
+      "alliances": {
+        "red": {
+          "score": 66,
+          "selected_total": 66.0,
+          "difference": 0.0,
+          "selected_metrics": [
+            "opr",
+            "opr",
+            "opr"
+          ]
+        },
+        "blue": {
+          "score": 112,
+          "selected_total": 112.0,
+          "difference": 0.0,
+          "selected_metrics": [
+            "opr",
+            "opr",
+            "opr"
+          ]
+        }
+      },
+      "teams": [
+        {
+          "team_key": "frc3712",
+          "team": 3712,
+          "alliance": "red",
+          "epa": 14.57,
+          "opr": 22.000000000000004,
+          "selected_metric": "opr",
+          "selected_value": 22.000000000000004
+        },
+        {
+          "team_key": "frc6343",
+          "team": 6343,
+          "alliance": "red",
+          "epa": 39.67,
+          "opr": 22.000000000000004,
+          "selected_metric": "opr",
+          "selected_value": 22.000000000000004
+        },
+        {
+          "team_key": "frc6465",
+          "team": 6465,
+          "alliance": "red",
+          "epa": 29.5,
+          "opr": 22.000000000000004,
+          "selected_metric": "opr",
+          "selected_value": 22.000000000000004
+        },
+        {
+          "team_key": "frc2374",
+          "team": 2374,
+          "alliance": "blue",
+          "epa": 34.47,
+          "opr": 5.749999999999999,
+          "selected_metric": "opr",
+          "selected_value": 5.749999999999999
+        },
+        {
+          "team_key": "frc4061",
+          "team": 4061,
+          "alliance": "blue",
+          "epa": 36.55,
+          "opr": 5.749999999999999,
+          "selected_metric": "opr",
+          "selected_value": 5.749999999999999
+        },
+        {
+          "team_key": "frc3024",
+          "team": 3024,
+          "alliance": "blue",
+          "epa": 39.27,
+          "opr": 100.49999999999994,
+          "selected_metric": "opr",
+          "selected_value": 100.49999999999994
+        }
+      ]
+    },
+    {
+      "match_key": "2026orsal_qm60",
+      "event_key": "2026orsal",
+      "set_number": 1,
+      "match_number": 60,
+      "time": 1772906100,
+      "status": "completed",
+      "winning_alliance": "red",
+      "alliances": {
+        "red": {
+          "score": 286,
+          "selected_total": 236.487,
+          "difference": 49.513,
+          "selected_metrics": [
+            "epa",
+            "opr",
+            "opr"
+          ]
+        },
+        "blue": {
+          "score": 129,
+          "selected_total": 108.188,
+          "difference": 20.812,
+          "selected_metrics": [
+            "epa",
+            "epa",
+            "opr"
+          ]
+        }
+      },
+      "teams": [
+        {
+          "team_key": "frc4061",
+          "team": 4061,
+          "alliance": "red",
+          "epa": 47.39,
+          "opr": 46.98293414286684,
+          "selected_metric": "epa",
+          "selected_value": 47.39
+        },
+        {
+          "team_key": "frc8532",
+          "team": 8532,
+          "alliance": "red",
+          "epa": 51.83,
+          "opr": 61.79574947742311,
+          "selected_metric": "opr",
+          "selected_value": 61.79574947742311
+        },
+        {
+          "team_key": "frc846",
+          "team": 846,
+          "alliance": "red",
+          "epa": 102.36,
+          "opr": 127.30129517785417,
+          "selected_metric": "opr",
+          "selected_value": 127.30129517785417
+        },
+        {
+          "team_key": "frc3024",
+          "team": 3024,
+          "alliance": "blue",
+          "epa": 19.66,
+          "opr": 13.234696060924648,
+          "selected_metric": "epa",
+          "selected_value": 19.66
+        },
+        {
+          "team_key": "frc4692",
+          "team": 4692,
+          "alliance": "blue",
+          "epa": 43.17,
+          "opr": 31.748827850354306,
+          "selected_metric": "epa",
+          "selected_value": 43.17
+        },
+        {
+          "team_key": "frc4125",
+          "team": 4125,
+          "alliance": "blue",
+          "epa": 43.82,
+          "opr": 45.35778722646875,
+          "selected_metric": "opr",
+          "selected_value": 45.35778722646875
+        }
+      ]
+    },
+    {
+      "match_key": "2026orsal_qm61",
+      "event_key": "2026orsal",
+      "set_number": 1,
+      "match_number": 61,
+      "time": 1772906580,
+      "status": "completed",
+      "winning_alliance": "blue",
+      "alliances": {
+        "red": {
+          "score": 111,
+          "selected_total": 146.08,
+          "difference": 35.08,
+          "selected_metrics": [
+            "epa",
+            "epa",
+            "epa"
+          ]
+        },
+        "blue": {
+          "score": 132,
+          "selected_total": 183.297,
+          "difference": 51.297,
+          "selected_metrics": [
+            "opr",
+            "epa",
+            "epa"
+          ]
+        }
+      },
+      "teams": [
+        {
+          "team_key": "frc2374",
+          "team": 2374,
+          "alliance": "red",
+          "epa": 49.36,
+          "opr": 55.587985002043936,
+          "selected_metric": "epa",
+          "selected_value": 49.36
+        },
+        {
+          "team_key": "frc2521",
+          "team": 2521,
+          "alliance": "red",
+          "epa": 75.79,
+          "opr": 77.01768700558063,
+          "selected_metric": "epa",
+          "selected_value": 75.79
+        },
+        {
+          "team_key": "frc10991",
+          "team": 10991,
+          "alliance": "red",
+          "epa": 20.93,
+          "opr": 22.80187365004747,
+          "selected_metric": "epa",
+          "selected_value": 20.93
+        },
+        {
+          "team_key": "frc1359",
+          "team": 1359,
+          "alliance": "blue",
+          "epa": 19.52,
+          "opr": 13.597146156011208,
+          "selected_metric": "opr",
+          "selected_value": 13.597146156011208
+        },
+        {
+          "team_key": "frc5468",
+          "team": 5468,
+          "alliance": "blue",
+          "epa": 116.47,
+          "opr": 134.35376056376555,
+          "selected_metric": "epa",
+          "selected_value": 116.47
+        },
+        {
+          "team_key": "frc9430",
+          "team": 9430,
+          "alliance": "blue",
+          "epa": 53.23,
+          "opr": 62.44372800269726,
+          "selected_metric": "epa",
+          "selected_value": 53.23
+        }
+      ]
+    },
+    {
+      "match_key": "2026orsal_qm62",
+      "event_key": "2026orsal",
+      "set_number": 1,
+      "match_number": 62,
+      "time": 1772907060,
+      "status": "completed",
+      "winning_alliance": "",
+      "alliances": {
+        "red": {
+          "score": 27,
+          "selected_total": 66.16,
+          "difference": 39.16,
+          "selected_metrics": [
+            "opr",
+            "opr",
+            "opr"
+          ]
+        },
+        "blue": {
+          "score": 27,
+          "selected_total": 30.738,
+          "difference": 3.738,
+          "selected_metrics": [
+            "opr",
+            "opr",
+            "opr"
+          ]
+        }
+      },
+      "teams": [
+        {
+          "team_key": "frc6465",
+          "team": 6465,
+          "alliance": "red",
+          "epa": 23.25,
+          "opr": 13.850849858207594,
+          "selected_metric": "opr",
+          "selected_value": 13.850849858207594
+        },
+        {
+          "team_key": "frc749",
+          "team": 749,
+          "alliance": "red",
+          "epa": 42.98,
+          "opr": 34.62638085777677,
+          "selected_metric": "opr",
+          "selected_value": 34.62638085777677
+        },
+        {
+          "team_key": "frc6443",
+          "team": 6443,
+          "alliance": "red",
+          "epa": 25.02,
+          "opr": 17.682991305603146,
+          "selected_metric": "opr",
+          "selected_value": 17.682991305603146
+        },
+        {
+          "team_key": "frc4060",
+          "team": 4060,
+          "alliance": "blue",
+          "epa": 38.24,
+          "opr": 31.890641053202636,
+          "selected_metric": "opr",
+          "selected_value": 31.890641053202636
+        },
+        {
+          "team_key": "frc9438",
+          "team": 9438,
+          "alliance": "blue",
+          "epa": 15.19,
+          "opr": 5.777982122444978,
+          "selected_metric": "opr",
+          "selected_value": 5.777982122444978
+        },
+        {
+          "team_key": "frc3712",
+          "team": 3712,
+          "alliance": "blue",
+          "epa": -1.79,
+          "opr": -6.9308916131145715,
+          "selected_metric": "opr",
+          "selected_value": -6.9308916131145715
+        }
+      ]
+    },
+    {
+      "match_key": "2026orsal_qm63",
+      "event_key": "2026orsal",
+      "set_number": 1,
+      "match_number": 63,
+      "time": 1772907540,
+      "status": "completed",
+      "winning_alliance": "blue",
+      "alliances": {
+        "red": {
+          "score": 189,
+          "selected_total": 235.932,
+          "difference": 46.932,
+          "selected_metrics": [
+            "epa",
+            "epa",
+            "opr"
+          ]
+        },
+        "blue": {
+          "score": 196,
+          "selected_total": 162.975,
+          "difference": 33.025,
+          "selected_metrics": [
+            "epa",
+            "opr",
+            "epa"
+          ]
+        }
+      },
+      "teams": [
+        {
+          "team_key": "frc3674",
+          "team": 3674,
+          "alliance": "red",
+          "epa": 80.23,
+          "opr": 98.64319498462795,
+          "selected_metric": "epa",
+          "selected_value": 80.23
+        },
+        {
+          "team_key": "frc955",
+          "team": 955,
+          "alliance": "red",
+          "epa": 96.53,
+          "opr": 111.85667919826506,
+          "selected_metric": "epa",
+          "selected_value": 96.53
+        },
+        {
+          "team_key": "frc997",
+          "team": 997,
+          "alliance": "red",
+          "epa": 60.46,
+          "opr": 59.17239645286787,
+          "selected_metric": "opr",
+          "selected_value": 59.17239645286787
+        },
+        {
+          "team_key": "frc9023",
+          "team": 9023,
+          "alliance": "blue",
+          "epa": 78.93,
+          "opr": 77.10205974375374,
+          "selected_metric": "epa",
+          "selected_value": 78.93
+        },
+        {
+          "team_key": "frc6343",
+          "team": 6343,
+          "alliance": "blue",
+          "epa": 26.48,
+          "opr": 28.545308036870942,
+          "selected_metric": "opr",
+          "selected_value": 28.545308036870942
+        },
+        {
+          "team_key": "frc7034",
+          "team": 7034,
+          "alliance": "blue",
+          "epa": 55.5,
+          "opr": 50.93440767264252,
+          "selected_metric": "epa",
+          "selected_value": 55.5
+        }
+      ]
+    },
+    {
+      "match_key": "2026orsal_qm64",
+      "event_key": "2026orsal",
+      "set_number": 1,
+      "match_number": 64,
+      "time": 1772908020,
+      "status": "completed",
+      "winning_alliance": "blue",
+      "alliances": {
+        "red": {
+          "score": 65,
+          "selected_total": 133.143,
+          "difference": 68.143,
+          "selected_metrics": [
+            "opr",
+            "opr",
+            "epa"
+          ]
+        },
+        "blue": {
+          "score": 81,
+          "selected_total": 58.69,
+          "difference": 22.31,
+          "selected_metrics": [
+            "epa",
+            "epa",
+            "epa"
+          ]
+        }
+      },
+      "teams": [
+        {
+          "team_key": "frc6845",
+          "team": 6845,
+          "alliance": "red",
+          "epa": 1.43,
+          "opr": -3.3070623627196567,
+          "selected_metric": "opr",
+          "selected_value": -3.3070623627196567
+        },
+        {
+          "team_key": "frc4043",
+          "team": 4043,
+          "alliance": "red",
+          "epa": 41.7,
+          "opr": 29.449981573964784,
+          "selected_metric": "opr",
+          "selected_value": 29.449981573964784
+        },
+        {
+          "team_key": "frc1540",
+          "team": 1540,
+          "alliance": "red",
+          "epa": 107.0,
+          "opr": 123.93048478859986,
+          "selected_metric": "epa",
+          "selected_value": 107.0
+        },
+        {
+          "team_key": "frc3673",
+          "team": 3673,
+          "alliance": "blue",
+          "epa": 11.64,
+          "opr": 3.824348034179932,
+          "selected_metric": "epa",
+          "selected_value": 11.64
+        },
+        {
+          "team_key": "frc753",
+          "team": 753,
+          "alliance": "blue",
+          "epa": 37.27,
+          "opr": 35.61484093671422,
+          "selected_metric": "epa",
+          "selected_value": 37.27
+        },
+        {
+          "team_key": "frc2733",
+          "team": 2733,
+          "alliance": "blue",
+          "epa": 9.78,
+          "opr": 6.060247046246766,
+          "selected_metric": "epa",
+          "selected_value": 9.78
+        }
+      ]
+    },
+    {
+      "match_key": "2026orsal_qm65",
+      "event_key": "2026orsal",
+      "set_number": 1,
+      "match_number": 65,
+      "time": 1772908500,
+      "status": "completed",
+      "winning_alliance": "blue",
+      "alliances": {
+        "red": {
+          "score": 62,
+          "selected_total": 61.878,
+          "difference": 0.122,
+          "selected_metrics": [
+            "epa",
+            "epa",
+            "opr"
+          ]
+        },
+        "blue": {
+          "score": 114,
+          "selected_total": 127.493,
+          "difference": 13.493,
+          "selected_metrics": [
+            "epa",
+            "epa",
+            "opr"
+          ]
+        }
+      },
+      "teams": [
+        {
+          "team_key": "frc2811",
+          "team": 2811,
+          "alliance": "red",
+          "epa": 32.14,
+          "opr": 9.027911798698096,
+          "selected_metric": "epa",
+          "selected_value": 32.14
+        },
+        {
+          "team_key": "frc3024",
+          "team": 3024,
+          "alliance": "red",
+          "epa": 19.26,
+          "opr": 19.999118126992826,
+          "selected_metric": "epa",
+          "selected_value": 19.26
+        },
+        {
+          "team_key": "frc9438",
+          "team": 9438,
+          "alliance": "red",
+          "epa": 14.79,
+          "opr": 10.477753234434266,
+          "selected_metric": "opr",
+          "selected_value": 10.477753234434266
+        },
+        {
+          "team_key": "frc9430",
+          "team": 9430,
+          "alliance": "blue",
+          "epa": 50.51,
+          "opr": 60.45878613404516,
+          "selected_metric": "epa",
+          "selected_value": 50.51
+        },
+        {
+          "team_key": "frc2374",
+          "team": 2374,
+          "alliance": "blue",
+          "epa": 46.64,
+          "opr": 54.30219099240516,
+          "selected_metric": "epa",
+          "selected_value": 46.64
+        },
+        {
+          "team_key": "frc4692",
+          "team": 4692,
+          "alliance": "blue",
+          "epa": 40.44,
+          "opr": 30.34336542790194,
+          "selected_metric": "opr",
+          "selected_value": 30.34336542790194
+        }
+      ]
+    },
+    {
+      "match_key": "2026orsal_qm66",
+      "event_key": "2026orsal",
+      "set_number": 1,
+      "match_number": 66,
+      "time": 1772908980,
+      "status": "completed",
+      "winning_alliance": "red",
+      "alliances": {
+        "red": {
+          "score": 302,
+          "selected_total": 215.983,
+          "difference": 86.017,
+          "selected_metrics": [
+            "opr",
+            "epa",
+            "opr"
+          ]
+        },
+        "blue": {
+          "score": 128,
+          "selected_total": 119.44,
+          "difference": 8.56,
+          "selected_metrics": [
+            "epa",
+            "epa",
+            "epa"
+          ]
+        }
+      },
+      "teams": [
+        {
+          "team_key": "frc10991",
+          "team": 10991,
+          "alliance": "red",
+          "epa": 29.49,
+          "opr": 32.06568302559191,
+          "selected_metric": "opr",
+          "selected_value": 32.06568302559191
+        },
+        {
+          "team_key": "frc9567",
+          "team": 9567,
+          "alliance": "red",
+          "epa": 37.59,
+          "opr": 35.398323977880644,
+          "selected_metric": "epa",
+          "selected_value": 37.59
+        },
+        {
+          "team_key": "frc5468",
+          "team": 5468,
+          "alliance": "red",
+          "epa": 125.03,
+          "opr": 146.3271206913461,
+          "selected_metric": "opr",
+          "selected_value": 146.3271206913461
+        },
+        {
+          "team_key": "frc4060",
+          "team": 4060,
+          "alliance": "blue",
+          "epa": 39.05,
+          "opr": 33.85678361900804,
+          "selected_metric": "epa",
+          "selected_value": 39.05
+        },
+        {
+          "team_key": "frc7034",
+          "team": 7034,
+          "alliance": "blue",
+          "epa": 56.32,
+          "opr": 52.74160158236784,
+          "selected_metric": "epa",
+          "selected_value": 56.32
+        },
+        {
+          "team_key": "frc6465",
+          "team": 6465,
+          "alliance": "blue",
+          "epa": 24.07,
+          "opr": 16.213870224585758,
+          "selected_metric": "epa",
+          "selected_value": 24.07
+        }
+      ]
+    },
+    {
+      "match_key": "2026orsal_qm67",
+      "event_key": "2026orsal",
+      "set_number": 1,
+      "match_number": 67,
+      "time": 1772909460,
+      "status": "completed",
+      "winning_alliance": "red",
+      "alliances": {
+        "red": {
+          "score": 181,
+          "selected_total": 180.84,
+          "difference": 0.16,
+          "selected_metrics": [
+            "opr",
+            "epa",
+            "opr"
+          ]
+        },
+        "blue": {
+          "score": 145,
+          "selected_total": 167.086,
+          "difference": 22.086,
+          "selected_metrics": [
+            "epa",
+            "epa",
+            "opr"
+          ]
+        }
+      },
+      "teams": [
+        {
+          "team_key": "frc2733",
+          "team": 2733,
+          "alliance": "red",
+          "epa": 8.53,
+          "opr": 3.4588469036852088,
+          "selected_metric": "opr",
+          "selected_value": 3.4588469036852088
+        },
+        {
+          "team_key": "frc846",
+          "team": 846,
+          "alliance": "red",
+          "epa": 101.11,
+          "opr": 127.12239308072078,
+          "selected_metric": "epa",
+          "selected_value": 101.11
+        },
+        {
+          "team_key": "frc2521",
+          "team": 2521,
+          "alliance": "red",
+          "epa": 74.54,
+          "opr": 76.27069400881848,
+          "selected_metric": "opr",
+          "selected_value": 76.27069400881848
+        },
+        {
+          "team_key": "frc955",
+          "team": 955,
+          "alliance": "blue",
+          "epa": 92.74,
+          "opr": 107.96084511355069,
+          "selected_metric": "epa",
+          "selected_value": 92.74
+        },
+        {
+          "team_key": "frc4061",
+          "team": 4061,
+          "alliance": "blue",
+          "epa": 43.6,
+          "opr": 43.602235566927554,
+          "selected_metric": "epa",
+          "selected_value": 43.6
+        },
+        {
+          "team_key": "frc753",
+          "team": 753,
+          "alliance": "blue",
+          "epa": 33.48,
+          "opr": 30.746056813196926,
+          "selected_metric": "opr",
+          "selected_value": 30.746056813196926
+        }
+      ]
+    },
+    {
+      "match_key": "2026orsal_qm68",
+      "event_key": "2026orsal",
+      "set_number": 1,
+      "match_number": 68,
+      "time": 1772909940,
+      "status": "completed",
+      "winning_alliance": "blue",
+      "alliances": {
+        "red": {
+          "score": 127,
+          "selected_total": 108.607,
+          "difference": 18.393,
+          "selected_metrics": [
+            "epa",
+            "epa",
+            "opr"
+          ]
+        },
+        "blue": {
+          "score": 260,
+          "selected_total": 224.881,
+          "difference": 35.119,
+          "selected_metrics": [
+            "epa",
+            "epa",
+            "opr"
+          ]
+        }
+      },
+      "teams": [
+        {
+          "team_key": "frc6845",
+          "team": 6845,
+          "alliance": "red",
+          "epa": 4.1,
+          "opr": -1.232908757785168,
+          "selected_metric": "epa",
+          "selected_value": 4.1
+        },
+        {
+          "team_key": "frc847",
+          "team": 847,
+          "alliance": "red",
+          "epa": 40.36,
+          "opr": 29.70264048248358,
+          "selected_metric": "epa",
+          "selected_value": 40.36
+        },
+        {
+          "team_key": "frc8532",
+          "team": 8532,
+          "alliance": "red",
+          "epa": 54.5,
+          "opr": 64.14703168450214,
+          "selected_metric": "opr",
+          "selected_value": 64.14703168450214
+        },
+        {
+          "team_key": "frc6343",
+          "team": 6343,
+          "alliance": "blue",
+          "epa": 31.37,
+          "opr": 30.67079844955003,
+          "selected_metric": "epa",
+          "selected_value": 31.37
+        },
+        {
+          "team_key": "frc997",
+          "team": 997,
+          "alliance": "blue",
+          "epa": 65.35,
+          "opr": 63.75362738210762,
+          "selected_metric": "epa",
+          "selected_value": 65.35
+        },
+        {
+          "team_key": "frc1540",
+          "team": 1540,
+          "alliance": "blue",
+          "epa": 111.89,
+          "opr": 128.1605630092835,
+          "selected_metric": "opr",
+          "selected_value": 128.1605630092835
+        }
+      ]
+    },
+    {
+      "match_key": "2026orsal_qm69",
+      "event_key": "2026orsal",
+      "set_number": 1,
+      "match_number": 69,
+      "time": 1772910420,
+      "status": "completed",
+      "winning_alliance": "blue",
+      "alliances": {
+        "red": {
+          "score": 72,
+          "selected_total": 71.224,
+          "difference": 0.776,
+          "selected_metrics": [
+            "opr",
+            "epa",
+            "epa"
+          ]
+        },
+        "blue": {
+          "score": 158,
+          "selected_total": 157.397,
+          "difference": 0.603,
+          "selected_metrics": [
+            "opr",
+            "epa",
+            "opr"
+          ]
+        }
+      },
+      "teams": [
+        {
+          "team_key": "frc2811",
+          "team": 2811,
+          "alliance": "red",
+          "epa": 30.15,
+          "opr": 8.48449774144091,
+          "selected_metric": "opr",
+          "selected_value": 8.48449774144091
+        },
+        {
+          "team_key": "frc4043",
+          "team": 4043,
+          "alliance": "red",
+          "epa": 39.71,
+          "opr": 30.445215080055426,
+          "selected_metric": "epa",
+          "selected_value": 39.71
+        },
+        {
+          "team_key": "frc6443",
+          "team": 6443,
+          "alliance": "red",
+          "epa": 23.03,
+          "opr": 20.01244808703544,
+          "selected_metric": "epa",
+          "selected_value": 23.03
+        },
+        {
+          "team_key": "frc4125",
+          "team": 4125,
+          "alliance": "blue",
+          "epa": 43.24,
+          "opr": 45.918535605891414,
+          "selected_metric": "opr",
+          "selected_value": 45.918535605891414
+        },
+        {
+          "team_key": "frc9023",
+          "team": 9023,
+          "alliance": "blue",
+          "epa": 78.35,
+          "opr": 76.50162228692164,
+          "selected_metric": "epa",
+          "selected_value": 78.35
+        },
+        {
+          "team_key": "frc749",
+          "team": 749,
+          "alliance": "blue",
+          "epa": 42.41,
+          "opr": 33.12881264513452,
+          "selected_metric": "opr",
+          "selected_value": 33.12881264513452
+        }
+      ]
+    },
+    {
+      "match_key": "2026orsal_qm7",
+      "event_key": "2026orsal",
+      "set_number": 1,
+      "match_number": 7,
+      "time": 1772827980,
+      "status": "completed",
+      "winning_alliance": "red",
+      "alliances": {
+        "red": {
+          "score": 181,
+          "selected_total": 181.0,
+          "difference": 0.0,
+          "selected_metrics": [
+            "opr",
+            "opr",
+            "opr"
+          ]
+        },
+        "blue": {
+          "score": 65,
+          "selected_total": 65.0,
+          "difference": 0.0,
+          "selected_metrics": [
+            "opr",
+            "opr",
+            "opr"
+          ]
+        }
+      },
+      "teams": [
+        {
+          "team_key": "frc846",
+          "team": 846,
+          "alliance": "red",
+          "epa": 71.18,
+          "opr": 96.32360097323604,
+          "selected_metric": "opr",
+          "selected_value": 96.32360097323604
+        },
+        {
+          "team_key": "frc1359",
+          "team": 1359,
+          "alliance": "red",
+          "epa": 25.35,
+          "opr": 54.68613138686134,
+          "selected_metric": "opr",
+          "selected_value": 54.68613138686134
+        },
+        {
+          "team_key": "frc4692",
+          "team": 4692,
+          "alliance": "red",
+          "epa": 34.54,
+          "opr": 29.990267639902775,
+          "selected_metric": "opr",
+          "selected_value": 29.990267639902775
+        },
+        {
+          "team_key": "frc847",
+          "team": 847,
+          "alliance": "blue",
+          "epa": 13.61,
+          "opr": -13.386861313868614,
+          "selected_metric": "opr",
+          "selected_value": -13.386861313868614
+        },
+        {
+          "team_key": "frc5468",
+          "team": 5468,
+          "alliance": "blue",
+          "epa": 65.77,
+          "opr": 68.4452554744526,
+          "selected_metric": "opr",
+          "selected_value": 68.4452554744526
+        },
+        {
+          "team_key": "frc4043",
+          "team": 4043,
+          "alliance": "blue",
+          "epa": 41.2,
+          "opr": 9.941605839416027,
+          "selected_metric": "opr",
+          "selected_value": 9.941605839416027
+        }
+      ]
+    },
+    {
+      "match_key": "2026orsal_qm70",
+      "event_key": "2026orsal",
+      "set_number": 1,
+      "match_number": 70,
+      "time": 1772910900,
+      "status": "completed",
+      "winning_alliance": "red",
+      "alliances": {
+        "red": {
+          "score": 143,
+          "selected_total": 119.675,
+          "difference": 23.325,
+          "selected_metrics": [
+            "epa",
+            "opr",
+            "epa"
+          ]
+        },
+        "blue": {
+          "score": 136,
+          "selected_total": 117.725,
+          "difference": 18.275,
+          "selected_metrics": [
+            "epa",
+            "opr",
+            "epa"
+          ]
+        }
+      },
+      "teams": [
+        {
+          "team_key": "frc3712",
+          "team": 3712,
+          "alliance": "red",
+          "epa": 2.13,
+          "opr": -3.9235202917004663,
+          "selected_metric": "epa",
+          "selected_value": 2.13
+        },
+        {
+          "team_key": "frc3674",
+          "team": 3674,
+          "alliance": "red",
+          "epa": 84.15,
+          "opr": 101.98472018541293,
+          "selected_metric": "opr",
+          "selected_value": 101.98472018541293
+        },
+        {
+          "team_key": "frc3673",
+          "team": 3673,
+          "alliance": "red",
+          "epa": 15.56,
+          "opr": 7.258165817616573,
+          "selected_metric": "epa",
+          "selected_value": 15.56
+        },
+        {
+          "team_key": "frc5920",
+          "team": 5920,
+          "alliance": "blue",
+          "epa": 44.31,
+          "opr": 35.686650090659576,
+          "selected_metric": "epa",
+          "selected_value": 44.31
+        },
+        {
+          "team_key": "frc2926",
+          "team": 2926,
+          "alliance": "blue",
+          "epa": 46.45,
+          "opr": 52.52543961910852,
+          "selected_metric": "opr",
+          "selected_value": 52.52543961910852
+        },
+        {
+          "team_key": "frc1359",
+          "team": 1359,
+          "alliance": "blue",
+          "epa": 20.89,
+          "opr": 16.5247512392259,
+          "selected_metric": "epa",
+          "selected_value": 20.89
+        }
+      ]
+    },
+    {
+      "match_key": "2026orsal_qm8",
+      "event_key": "2026orsal",
+      "set_number": 1,
+      "match_number": 8,
+      "time": 1772828580,
+      "status": "completed",
+      "winning_alliance": "blue",
+      "alliances": {
+        "red": {
+          "score": 29,
+          "selected_total": 29.0,
+          "difference": 0.0,
+          "selected_metrics": [
+            "opr",
+            "opr",
+            "opr"
+          ]
+        },
+        "blue": {
+          "score": 119,
+          "selected_total": 119.0,
+          "difference": 0.0,
+          "selected_metrics": [
+            "opr",
+            "opr",
+            "opr"
+          ]
+        }
+      },
+      "teams": [
+        {
+          "team_key": "frc4125",
+          "team": 4125,
+          "alliance": "red",
+          "epa": 29.05,
+          "opr": 21.417675183027086,
+          "selected_metric": "opr",
+          "selected_value": 21.417675183027086
+        },
+        {
+          "team_key": "frc3673",
+          "team": 3673,
+          "alliance": "red",
+          "epa": 14.17,
+          "opr": 5.497982967279222,
+          "selected_metric": "opr",
+          "selected_value": 5.497982967279222
+        },
+        {
+          "team_key": "frc9567",
+          "team": 9567,
+          "alliance": "red",
+          "epa": 20.25,
+          "opr": 2.084341849693756,
+          "selected_metric": "opr",
+          "selected_value": 2.084341849693756
+        },
+        {
+          "team_key": "frc9438",
+          "team": 9438,
+          "alliance": "blue",
+          "epa": 12.89,
+          "opr": 24.50605109816228,
+          "selected_metric": "opr",
+          "selected_value": 24.50605109816228
+        },
+        {
+          "team_key": "frc955",
+          "team": 955,
+          "alliance": "blue",
+          "epa": 40.36,
+          "opr": 52.630546839982,
+          "selected_metric": "opr",
+          "selected_value": 52.630546839982
+        },
+        {
+          "team_key": "frc9023",
+          "team": 9023,
+          "alliance": "blue",
+          "epa": 58.01,
+          "opr": 41.8634020618558,
+          "selected_metric": "opr",
+          "selected_value": 41.8634020618558
+        }
+      ]
+    },
+    {
+      "match_key": "2026orsal_qm9",
+      "event_key": "2026orsal",
+      "set_number": 1,
+      "match_number": 9,
+      "time": 1772829180,
+      "status": "completed",
+      "winning_alliance": "blue",
+      "alliances": {
+        "red": {
+          "score": 69,
+          "selected_total": 69.0,
+          "difference": 0.0,
+          "selected_metrics": [
+            "opr",
+            "opr",
+            "opr"
+          ]
+        },
+        "blue": {
+          "score": 205,
+          "selected_total": 205.0,
+          "difference": 0.0,
+          "selected_metrics": [
+            "opr",
+            "opr",
+            "opr"
+          ]
+        }
+      },
+      "teams": [
+        {
+          "team_key": "frc10991",
+          "team": 10991,
+          "alliance": "red",
+          "epa": 16.09,
+          "opr": -10.85199592479406,
+          "selected_metric": "opr",
+          "selected_value": -10.85199592479406
+        },
+        {
+          "team_key": "frc3712",
+          "team": 3712,
+          "alliance": "red",
+          "epa": 17.11,
+          "opr": 51.72355283875157,
+          "selected_metric": "opr",
+          "selected_value": 51.72355283875157
+        },
+        {
+          "team_key": "frc8532",
+          "team": 8532,
+          "alliance": "red",
+          "epa": 20.55,
+          "opr": 28.128443086042306,
+          "selected_metric": "opr",
+          "selected_value": 28.128443086042306
+        },
+        {
+          "team_key": "frc3674",
+          "team": 3674,
+          "alliance": "blue",
+          "epa": 67.24,
+          "opr": 104.96891729184043,
+          "selected_metric": "opr",
+          "selected_value": 104.96891729184043
+        },
+        {
+          "team_key": "frc2374",
+          "team": 2374,
+          "alliance": "blue",
+          "epa": 42.09,
+          "opr": 60.515031953320374,
+          "selected_metric": "opr",
+          "selected_value": 60.515031953320374
+        },
+        {
+          "team_key": "frc7034",
+          "team": 7034,
+          "alliance": "blue",
+          "epa": 49.92,
+          "opr": 39.51605075483948,
+          "selected_metric": "opr",
+          "selected_value": 39.51605075483948
+        }
+      ]
+    },
+    {
+      "match_key": "2026orsal_sf10m1",
+      "event_key": "2026orsal",
+      "set_number": 10,
+      "match_number": 1,
+      "time": 1772922060,
+      "status": "completed",
+      "winning_alliance": "red",
+      "alliances": {
+        "red": {
+          "score": 285,
+          "selected_total": 261.448,
+          "difference": 23.552,
+          "selected_metrics": [
+            "epa",
+            "opr",
+            "opr"
+          ]
+        },
+        "blue": {
+          "score": 117,
+          "selected_total": 121.685,
+          "difference": 4.685,
+          "selected_metrics": [
+            "opr",
+            "epa",
+            "epa"
+          ]
+        }
+      },
+      "teams": [
+        {
+          "team_key": "frc10991",
+          "team": 10991,
+          "alliance": "red",
+          "epa": 32.71,
+          "opr": 31.043968955168538,
+          "selected_metric": "epa",
+          "selected_value": 32.71
+        },
+        {
+          "team_key": "frc846",
+          "team": 846,
+          "alliance": "red",
+          "epa": 104.34,
+          "opr": 125.87696204141108,
+          "selected_metric": "opr",
+          "selected_value": 125.87696204141108
+        },
+        {
+          "team_key": "frc3674",
+          "team": 3674,
+          "alliance": "red",
+          "epa": 87.38,
+          "opr": 102.86129905850105,
+          "selected_metric": "opr",
+          "selected_value": 102.86129905850105
+        },
+        {
+          "team_key": "frc4043",
+          "team": 4043,
+          "alliance": "blue",
+          "epa": 38.85,
+          "opr": 26.23535580013488,
+          "selected_metric": "opr",
+          "selected_value": 26.23535580013488
+        },
+        {
+          "team_key": "frc9430",
+          "team": 9430,
+          "alliance": "blue",
+          "epa": 49.66,
+          "opr": 55.191641687760836,
+          "selected_metric": "epa",
+          "selected_value": 49.66
+        },
+        {
+          "team_key": "frc2374",
+          "team": 2374,
+          "alliance": "blue",
+          "epa": 45.79,
+          "opr": 49.79563606408498,
+          "selected_metric": "epa",
+          "selected_value": 45.79
+        }
+      ]
+    },
+    {
+      "match_key": "2026orsal_sf11m1",
+      "event_key": "2026orsal",
+      "set_number": 11,
+      "match_number": 1,
+      "time": 1772922780,
+      "status": "completed",
+      "winning_alliance": "red",
+      "alliances": {
+        "red": {
+          "score": 322,
+          "selected_total": 323.951,
+          "difference": 1.951,
+          "selected_metrics": [
+            "opr",
+            "opr",
+            "opr"
+          ]
+        },
+        "blue": {
+          "score": 270,
+          "selected_total": 242.031,
+          "difference": 27.969,
+          "selected_metrics": [
+            "epa",
+            "opr",
+            "opr"
+          ]
+        }
+      },
+      "teams": [
+        {
+          "team_key": "frc5920",
+          "team": 5920,
+          "alliance": "red",
+          "epa": 47.29,
+          "opr": 40.06618177272113,
+          "selected_metric": "opr",
+          "selected_value": 40.06618177272113
+        },
+        {
+          "team_key": "frc1540",
+          "team": 1540,
+          "alliance": "red",
+          "epa": 115.87,
+          "opr": 132.08012986069954,
+          "selected_metric": "opr",
+          "selected_value": 132.08012986069954
+        },
+        {
+          "team_key": "frc5468",
+          "team": 5468,
+          "alliance": "red",
+          "epa": 129.01,
+          "opr": 151.80486651547298,
+          "selected_metric": "opr",
+          "selected_value": 151.80486651547298
+        },
+        {
+          "team_key": "frc2811",
+          "team": 2811,
+          "alliance": "blue",
+          "epa": 34.4,
+          "opr": 20.29915283562308,
+          "selected_metric": "epa",
+          "selected_value": 34.4
+        },
+        {
+          "team_key": "frc9023",
+          "team": 9023,
+          "alliance": "blue",
+          "epa": 82.6,
+          "opr": 89.59292687199847,
+          "selected_metric": "opr",
+          "selected_value": 89.59292687199847
+        },
+        {
+          "team_key": "frc955",
+          "team": 955,
+          "alliance": "blue",
+          "epa": 96.99,
+          "opr": 118.03823949153036,
+          "selected_metric": "opr",
+          "selected_value": 118.03823949153036
+        }
+      ]
+    },
+    {
+      "match_key": "2026orsal_sf12m1",
+      "event_key": "2026orsal",
+      "set_number": 12,
+      "match_number": 1,
+      "time": 1772923320,
+      "status": "completed",
+      "winning_alliance": "red",
+      "alliances": {
+        "red": {
+          "score": 276,
+          "selected_total": 263.102,
+          "difference": 12.898,
+          "selected_metrics": [
+            "epa",
+            "opr",
+            "opr"
+          ]
+        },
+        "blue": {
+          "score": 210,
+          "selected_total": 162.281,
+          "difference": 47.719,
+          "selected_metrics": [
+            "opr",
+            "opr",
+            "epa"
+          ]
+        }
+      },
+      "teams": [
+        {
+          "team_key": "frc10991",
+          "team": 10991,
+          "alliance": "red",
+          "epa": 33.53,
+          "opr": 31.46266548937581,
+          "selected_metric": "epa",
+          "selected_value": 33.53
+        },
+        {
+          "team_key": "frc846",
+          "team": 846,
+          "alliance": "red",
+          "epa": 105.15,
+          "opr": 126.2610801312656,
+          "selected_metric": "opr",
+          "selected_value": 126.2610801312656
+        },
+        {
+          "team_key": "frc3674",
+          "team": 3674,
+          "alliance": "red",
+          "epa": 88.19,
+          "opr": 103.31140483867951,
+          "selected_metric": "opr",
+          "selected_value": 103.31140483867951
+        },
+        {
+          "team_key": "frc6343",
+          "team": 6343,
+          "alliance": "blue",
+          "epa": 33.09,
+          "opr": 34.71858568114282,
+          "selected_metric": "opr",
+          "selected_value": 34.71858568114282
+        },
+        {
+          "team_key": "frc997",
+          "team": 997,
+          "alliance": "blue",
+          "epa": 67.07,
+          "opr": 69.52226664764916,
+          "selected_metric": "opr",
+          "selected_value": 69.52226664764916
+        },
+        {
+          "team_key": "frc7034",
+          "team": 7034,
+          "alliance": "blue",
+          "epa": 58.04,
+          "opr": 57.19911503647879,
+          "selected_metric": "epa",
+          "selected_value": 58.04
+        }
+      ]
+    },
+    {
+      "match_key": "2026orsal_sf13m1",
+      "event_key": "2026orsal",
+      "set_number": 13,
+      "match_number": 1,
+      "time": 1772924580,
+      "status": "completed",
+      "winning_alliance": "red",
+      "alliances": {
+        "red": {
+          "score": 251,
+          "selected_total": 244.996,
+          "difference": 6.004,
+          "selected_metrics": [
+            "epa",
+            "opr",
+            "opr"
+          ]
+        },
+        "blue": {
+          "score": 149,
+          "selected_total": 216.941,
+          "difference": 67.941,
+          "selected_metrics": [
+            "opr",
+            "epa",
+            "epa"
+          ]
+        }
+      },
+      "teams": [
+        {
+          "team_key": "frc2811",
+          "team": 2811,
+          "alliance": "red",
+          "epa": 35.11,
+          "opr": 21.821145688415065,
+          "selected_metric": "epa",
+          "selected_value": 35.11
+        },
+        {
+          "team_key": "frc9023",
+          "team": 9023,
+          "alliance": "red",
+          "epa": 83.32,
+          "opr": 90.45406726478025,
+          "selected_metric": "opr",
+          "selected_value": 90.45406726478025
+        },
+        {
+          "team_key": "frc955",
+          "team": 955,
+          "alliance": "red",
+          "epa": 97.7,
+          "opr": 119.43173047206129,
+          "selected_metric": "opr",
+          "selected_value": 119.43173047206129
+        },
+        {
+          "team_key": "frc10991",
+          "team": 10991,
+          "alliance": "blue",
+          "epa": 31.8,
+          "opr": 27.061264000454173,
+          "selected_metric": "opr",
+          "selected_value": 27.061264000454173
+        },
+        {
+          "team_key": "frc846",
+          "team": 846,
+          "alliance": "blue",
+          "epa": 103.42,
+          "opr": 121.79487149454253,
+          "selected_metric": "epa",
+          "selected_value": 103.42
+        },
+        {
+          "team_key": "frc3674",
+          "team": 3674,
+          "alliance": "blue",
+          "epa": 86.46,
+          "opr": 99.3301923794112,
+          "selected_metric": "epa",
+          "selected_value": 86.46
+        }
+      ]
+    },
+    {
+      "match_key": "2026orsal_sf1m1",
+      "event_key": "2026orsal",
+      "set_number": 1,
+      "match_number": 1,
+      "time": 1772917200,
+      "status": "completed",
+      "winning_alliance": "red",
+      "alliances": {
+        "red": {
+          "score": 289,
+          "selected_total": 280.232,
+          "difference": 8.768,
+          "selected_metrics": [
+            "epa",
+            "opr",
+            "opr"
+          ]
+        },
+        "blue": {
+          "score": 59,
+          "selected_total": 91.525,
+          "difference": 32.525,
+          "selected_metrics": [
+            "opr",
+            "opr",
+            "epa"
+          ]
+        }
+      },
+      "teams": [
+        {
+          "team_key": "frc3712",
+          "team": 3712,
+          "alliance": "red",
+          "epa": 3.13,
+          "opr": -2.4837243310666044,
+          "selected_metric": "epa",
+          "selected_value": 3.13
+        },
+        {
+          "team_key": "frc1540",
+          "team": 1540,
+          "alliance": "red",
+          "epa": 112.89,
+          "opr": 129.52256906581428,
+          "selected_metric": "opr",
+          "selected_value": 129.52256906581428
+        },
+        {
+          "team_key": "frc5468",
+          "team": 5468,
+          "alliance": "red",
+          "epa": 126.03,
+          "opr": 147.5793639787489,
+          "selected_metric": "opr",
+          "selected_value": 147.5793639787489
+        },
+        {
+          "team_key": "frc4692",
+          "team": 4692,
+          "alliance": "blue",
+          "epa": 39.18,
+          "opr": 25.44302818934993,
+          "selected_metric": "opr",
+          "selected_value": 25.44302818934993
+        },
+        {
+          "team_key": "frc1359",
+          "team": 1359,
+          "alliance": "blue",
+          "epa": 19.62,
+          "opr": 12.842462635155805,
+          "selected_metric": "opr",
+          "selected_value": 12.842462635155805
+        },
+        {
+          "team_key": "frc8532",
+          "team": 8532,
+          "alliance": "blue",
+          "epa": 53.24,
+          "opr": 60.501418786210586,
+          "selected_metric": "epa",
+          "selected_value": 53.24
+        }
+      ]
+    },
+    {
+      "match_key": "2026orsal_sf2m1",
+      "event_key": "2026orsal",
+      "set_number": 2,
+      "match_number": 1,
+      "time": 1772917740,
+      "status": "completed",
+      "winning_alliance": "red",
+      "alliances": {
+        "red": {
+          "score": 210,
+          "selected_total": 159.299,
+          "difference": 50.701,
+          "selected_metrics": [
+            "opr",
+            "opr",
+            "epa"
+          ]
+        },
+        "blue": {
+          "score": 138,
+          "selected_total": 136.93,
+          "difference": 1.07,
+          "selected_metrics": [
+            "epa",
+            "epa",
+            "epa"
+          ]
+        }
+      },
+      "teams": [
+        {
+          "team_key": "frc6343",
+          "team": 6343,
+          "alliance": "red",
+          "epa": 32.31,
+          "opr": 33.93690361028165,
+          "selected_metric": "opr",
+          "selected_value": 33.93690361028165
+        },
+        {
+          "team_key": "frc997",
+          "team": 997,
+          "alliance": "red",
+          "epa": 66.28,
+          "opr": 68.11162775655039,
+          "selected_metric": "opr",
+          "selected_value": 68.11162775655039
+        },
+        {
+          "team_key": "frc7034",
+          "team": 7034,
+          "alliance": "red",
+          "epa": 57.25,
+          "opr": 56.52150271442267,
+          "selected_metric": "epa",
+          "selected_value": 57.25
+        },
+        {
+          "team_key": "frc4043",
+          "team": 4043,
+          "alliance": "blue",
+          "epa": 39.73,
+          "opr": 29.596510910674798,
+          "selected_metric": "epa",
+          "selected_value": 39.73
+        },
+        {
+          "team_key": "frc9430",
+          "team": 9430,
+          "alliance": "blue",
+          "epa": 50.53,
+          "opr": 56.96603145904943,
+          "selected_metric": "epa",
+          "selected_value": 50.53
+        },
+        {
+          "team_key": "frc2374",
+          "team": 2374,
+          "alliance": "blue",
+          "epa": 46.67,
+          "opr": 53.01274950140639,
+          "selected_metric": "epa",
+          "selected_value": 46.67
+        }
+      ]
+    },
+    {
+      "match_key": "2026orsal_sf3m1",
+      "event_key": "2026orsal",
+      "set_number": 3,
+      "match_number": 1,
+      "time": 1772918280,
+      "status": "completed",
+      "winning_alliance": "red",
+      "alliances": {
+        "red": {
+          "score": 278,
+          "selected_total": 263.631,
+          "difference": 14.369,
+          "selected_metrics": [
+            "opr",
+            "opr",
+            "opr"
+          ]
+        },
+        "blue": {
+          "score": 132,
+          "selected_total": 101.327,
+          "difference": 30.673,
+          "selected_metrics": [
+            "epa",
+            "opr",
+            "epa"
+          ]
+        }
+      },
+      "teams": [
+        {
+          "team_key": "frc10991",
+          "team": 10991,
+          "alliance": "red",
+          "epa": 30.89,
+          "opr": 32.92400105082481,
+          "selected_metric": "opr",
+          "selected_value": 32.92400105082481
+        },
+        {
+          "team_key": "frc846",
+          "team": 846,
+          "alliance": "red",
+          "epa": 102.51,
+          "opr": 128.08481586427988,
+          "selected_metric": "opr",
+          "selected_value": 128.08481586427988
+        },
+        {
+          "team_key": "frc3674",
+          "team": 3674,
+          "alliance": "red",
+          "epa": 85.56,
+          "opr": 102.6224105794191,
+          "selected_metric": "opr",
+          "selected_value": 102.6224105794191
+        },
+        {
+          "team_key": "frc6443",
+          "team": 6443,
+          "alliance": "blue",
+          "epa": 23.41,
+          "opr": 21.949326283288773,
+          "selected_metric": "epa",
+          "selected_value": 23.41
+        },
+        {
+          "team_key": "frc4061",
+          "team": 4061,
+          "alliance": "blue",
+          "epa": 43.98,
+          "opr": 44.05657390608203,
+          "selected_metric": "opr",
+          "selected_value": 44.05657390608203
+        },
+        {
+          "team_key": "frc753",
+          "team": 753,
+          "alliance": "blue",
+          "epa": 33.86,
+          "opr": 31.83910821182547,
+          "selected_metric": "epa",
+          "selected_value": 33.86
+        }
+      ]
+    },
+    {
+      "match_key": "2026orsal_sf4m1",
+      "event_key": "2026orsal",
+      "set_number": 4,
+      "match_number": 1,
+      "time": 1772918820,
+      "status": "completed",
+      "winning_alliance": "red",
+      "alliances": {
+        "red": {
+          "score": 285,
+          "selected_total": 227.858,
+          "difference": 57.142,
+          "selected_metrics": [
+            "epa",
+            "opr",
+            "opr"
+          ]
+        },
+        "blue": {
+          "score": 242,
+          "selected_total": 185.62,
+          "difference": 56.38,
+          "selected_metrics": [
+            "opr",
+            "opr",
+            "opr"
+          ]
+        }
+      },
+      "teams": [
+        {
+          "team_key": "frc2811",
+          "team": 2811,
+          "alliance": "red",
+          "epa": 32.01,
+          "opr": 14.09534409103157,
+          "selected_metric": "epa",
+          "selected_value": 32.01
+        },
+        {
+          "team_key": "frc9023",
+          "team": 9023,
+          "alliance": "red",
+          "epa": 80.22,
+          "opr": 83.51860373664066,
+          "selected_metric": "opr",
+          "selected_value": 83.51860373664066
+        },
+        {
+          "team_key": "frc955",
+          "team": 955,
+          "alliance": "red",
+          "epa": 94.6,
+          "opr": 112.32939060787787,
+          "selected_metric": "opr",
+          "selected_value": 112.32939060787787
+        },
+        {
+          "team_key": "frc2926",
+          "team": 2926,
+          "alliance": "blue",
+          "epa": 47.96,
+          "opr": 56.21812091029273,
+          "selected_metric": "opr",
+          "selected_value": 56.21812091029273
+        },
+        {
+          "team_key": "frc2521",
+          "team": 2521,
+          "alliance": "blue",
+          "epa": 76.04,
+          "opr": 80.22121611590222,
+          "selected_metric": "opr",
+          "selected_value": 80.22121611590222
+        },
+        {
+          "team_key": "frc4125",
+          "team": 4125,
+          "alliance": "blue",
+          "epa": 44.75,
+          "opr": 49.18096013079387,
+          "selected_metric": "opr",
+          "selected_value": 49.18096013079387
+        }
+      ]
+    },
+    {
+      "match_key": "2026orsal_sf5m1",
+      "event_key": "2026orsal",
+      "set_number": 5,
+      "match_number": 1,
+      "time": 1772919360,
+      "status": "completed",
+      "winning_alliance": "blue",
+      "alliances": {
+        "red": {
+          "score": 117,
+          "selected_total": 118.626,
+          "difference": 1.626,
+          "selected_metrics": [
+            "epa",
+            "epa",
+            "opr"
+          ]
+        },
+        "blue": {
+          "score": 132,
+          "selected_total": 131.032,
+          "difference": 0.968,
+          "selected_metrics": [
+            "opr",
+            "opr",
+            "epa"
+          ]
+        }
+      },
+      "teams": [
+        {
+          "team_key": "frc4692",
+          "team": 4692,
+          "alliance": "red",
+          "epa": 38.85,
+          "opr": 26.334414758699836,
+          "selected_metric": "epa",
+          "selected_value": 38.85
+        },
+        {
+          "team_key": "frc1359",
+          "team": 1359,
+          "alliance": "red",
+          "epa": 19.29,
+          "opr": 11.9349130127691,
+          "selected_metric": "epa",
+          "selected_value": 19.29
+        },
+        {
+          "team_key": "frc8532",
+          "team": 8532,
+          "alliance": "red",
+          "epa": 52.91,
+          "opr": 60.486249979345715,
+          "selected_metric": "opr",
+          "selected_value": 60.486249979345715
+        },
+        {
+          "team_key": "frc4043",
+          "team": 4043,
+          "alliance": "blue",
+          "epa": 39.62,
+          "opr": 28.328732754686644,
+          "selected_metric": "opr",
+          "selected_value": 28.328732754686644
+        },
+        {
+          "team_key": "frc9430",
+          "team": 9430,
+          "alliance": "blue",
+          "epa": 50.42,
+          "opr": 56.143472799581474,
+          "selected_metric": "opr",
+          "selected_value": 56.143472799581474
+        },
+        {
+          "team_key": "frc2374",
+          "team": 2374,
+          "alliance": "blue",
+          "epa": 46.56,
+          "opr": 51.454949967052045,
+          "selected_metric": "epa",
+          "selected_value": 46.56
+        }
+      ]
+    },
+    {
+      "match_key": "2026orsal_sf6m1",
+      "event_key": "2026orsal",
+      "set_number": 6,
+      "match_number": 1,
+      "time": 1772919900,
+      "status": "completed",
+      "winning_alliance": "blue",
+      "alliances": {
+        "red": {
+          "score": 143,
+          "selected_total": 104.416,
+          "difference": 38.584,
+          "selected_metrics": [
+            "epa",
+            "opr",
+            "epa"
+          ]
+        },
+        "blue": {
+          "score": 195,
+          "selected_total": 186.593,
+          "difference": 8.407,
+          "selected_metrics": [
+            "opr",
+            "opr",
+            "opr"
+          ]
+        }
+      },
+      "teams": [
+        {
+          "team_key": "frc6443",
+          "team": 6443,
+          "alliance": "red",
+          "epa": 24.0,
+          "opr": 23.768673309664162,
+          "selected_metric": "epa",
+          "selected_value": 24.0
+        },
+        {
+          "team_key": "frc4061",
+          "team": 4061,
+          "alliance": "red",
+          "epa": 44.57,
+          "opr": 45.96555983654594,
+          "selected_metric": "opr",
+          "selected_value": 45.96555983654594
+        },
+        {
+          "team_key": "frc753",
+          "team": 753,
+          "alliance": "red",
+          "epa": 34.45,
+          "opr": 32.65498642498659,
+          "selected_metric": "epa",
+          "selected_value": 34.45
+        },
+        {
+          "team_key": "frc2926",
+          "team": 2926,
+          "alliance": "blue",
+          "epa": 48.54,
+          "opr": 56.5476154290669,
+          "selected_metric": "opr",
+          "selected_value": 56.5476154290669
+        },
+        {
+          "team_key": "frc2521",
+          "team": 2521,
+          "alliance": "blue",
+          "epa": 76.63,
+          "opr": 80.75292705349291,
+          "selected_metric": "opr",
+          "selected_value": 80.75292705349291
+        },
+        {
+          "team_key": "frc4125",
+          "team": 4125,
+          "alliance": "blue",
+          "epa": 45.33,
+          "opr": 49.292514821588924,
+          "selected_metric": "opr",
+          "selected_value": 49.292514821588924
+        }
+      ]
+    },
+    {
+      "match_key": "2026orsal_sf7m1",
+      "event_key": "2026orsal",
+      "set_number": 7,
+      "match_number": 1,
+      "time": 1772920440,
+      "status": "completed",
+      "winning_alliance": "red",
+      "alliances": {
+        "red": {
+          "score": 406,
+          "selected_total": 333.224,
+          "difference": 72.776,
+          "selected_metrics": [
+            "epa",
+            "opr",
+            "opr"
+          ]
+        },
+        "blue": {
+          "score": 73,
+          "selected_total": 140.289,
+          "difference": 67.289,
+          "selected_metrics": [
+            "opr",
+            "opr",
+            "opr"
+          ]
+        }
+      },
+      "teams": [
+        {
+          "team_key": "frc5920",
+          "team": 5920,
+          "alliance": "red",
+          "epa": 46.82,
+          "opr": 40.85850906485674,
+          "selected_metric": "epa",
+          "selected_value": 46.82
+        },
+        {
+          "team_key": "frc1540",
+          "team": 1540,
+          "alliance": "red",
+          "epa": 115.39,
+          "opr": 133.86620127728094,
+          "selected_metric": "opr",
+          "selected_value": 133.86620127728094
+        },
+        {
+          "team_key": "frc5468",
+          "team": 5468,
+          "alliance": "red",
+          "epa": 128.54,
+          "opr": 152.5374069641249,
+          "selected_metric": "opr",
+          "selected_value": 152.5374069641249
+        },
+        {
+          "team_key": "frc6343",
+          "team": 6343,
+          "alliance": "blue",
+          "epa": 30.35,
+          "opr": 27.777235487241935,
+          "selected_metric": "opr",
+          "selected_value": 27.777235487241935
+        },
+        {
+          "team_key": "frc997",
+          "team": 997,
+          "alliance": "blue",
+          "epa": 64.33,
+          "opr": 62.50973976475755,
+          "selected_metric": "opr",
+          "selected_value": 62.50973976475755
+        },
+        {
+          "team_key": "frc7034",
+          "team": 7034,
+          "alliance": "blue",
+          "epa": 55.3,
+          "opr": 50.001848076782395,
+          "selected_metric": "opr",
+          "selected_value": 50.001848076782395
+        }
+      ]
+    },
+    {
+      "match_key": "2026orsal_sf8m1",
+      "event_key": "2026orsal",
+      "set_number": 8,
+      "match_number": 1,
+      "time": 1772920980,
+      "status": "completed",
+      "winning_alliance": "blue",
+      "alliances": {
+        "red": {
+          "score": 236,
+          "selected_total": 236.05,
+          "difference": 0.05,
+          "selected_metrics": [
+            "epa",
+            "epa",
+            "opr"
+          ]
+        },
+        "blue": {
+          "score": 285,
+          "selected_total": 236.375,
+          "difference": 48.625,
+          "selected_metrics": [
+            "epa",
+            "opr",
+            "opr"
+          ]
+        }
+      },
+      "teams": [
+        {
+          "team_key": "frc10991",
+          "team": 10991,
+          "alliance": "red",
+          "epa": 31.27,
+          "opr": 29.82152606133357,
+          "selected_metric": "epa",
+          "selected_value": 31.27
+        },
+        {
+          "team_key": "frc846",
+          "team": 846,
+          "alliance": "red",
+          "epa": 102.89,
+          "opr": 124.56781496989517,
+          "selected_metric": "epa",
+          "selected_value": 102.89
+        },
+        {
+          "team_key": "frc3674",
+          "team": 3674,
+          "alliance": "red",
+          "epa": 85.94,
+          "opr": 101.89034820020713,
+          "selected_metric": "opr",
+          "selected_value": 101.89034820020713
+        },
+        {
+          "team_key": "frc2811",
+          "team": 2811,
+          "alliance": "blue",
+          "epa": 33.31,
+          "opr": 17.482207730181518,
+          "selected_metric": "epa",
+          "selected_value": 33.31
+        },
+        {
+          "team_key": "frc9023",
+          "team": 9023,
+          "alliance": "blue",
+          "epa": 81.51,
+          "opr": 87.29120037757434,
+          "selected_metric": "opr",
+          "selected_value": 87.29120037757434
+        },
+        {
+          "team_key": "frc955",
+          "team": 955,
+          "alliance": "blue",
+          "epa": 95.89,
+          "opr": 115.77344780273539,
+          "selected_metric": "opr",
+          "selected_value": 115.77344780273539
+        }
+      ]
+    },
+    {
+      "match_key": "2026orsal_sf9m1",
+      "event_key": "2026orsal",
+      "set_number": 9,
+      "match_number": 1,
+      "time": 1772921520,
+      "status": "completed",
+      "winning_alliance": "red",
+      "alliances": {
+        "red": {
+          "score": 239,
+          "selected_total": 156.91,
+          "difference": 82.09,
+          "selected_metrics": [
+            "opr",
+            "opr",
+            "epa"
+          ]
+        },
+        "blue": {
+          "score": 205,
+          "selected_total": 188.822,
+          "difference": 16.178,
+          "selected_metrics": [
+            "opr",
+            "opr",
+            "opr"
+          ]
+        }
+      },
+      "teams": [
+        {
+          "team_key": "frc6343",
+          "team": 6343,
+          "alliance": "red",
+          "epa": 32.33,
+          "opr": 32.45559367425188,
+          "selected_metric": "opr",
+          "selected_value": 32.45559367425188
+        },
+        {
+          "team_key": "frc997",
+          "team": 997,
+          "alliance": "red",
+          "epa": 66.31,
+          "opr": 67.17440050145655,
+          "selected_metric": "opr",
+          "selected_value": 67.17440050145655
+        },
+        {
+          "team_key": "frc7034",
+          "team": 7034,
+          "alliance": "red",
+          "epa": 57.28,
+          "opr": 55.016519397541195,
+          "selected_metric": "epa",
+          "selected_value": 57.28
+        },
+        {
+          "team_key": "frc2926",
+          "team": 2926,
+          "alliance": "blue",
+          "epa": 49.31,
+          "opr": 57.13778415917912,
+          "selected_metric": "opr",
+          "selected_value": 57.13778415917912
+        },
+        {
+          "team_key": "frc2521",
+          "team": 2521,
+          "alliance": "blue",
+          "epa": 77.39,
+          "opr": 81.63751380744286,
+          "selected_metric": "opr",
+          "selected_value": 81.63751380744286
+        },
+        {
+          "team_key": "frc4125",
+          "team": 4125,
+          "alliance": "blue",
+          "epa": 46.1,
+          "opr": 50.04681793964125,
+          "selected_metric": "opr",
+          "selected_value": 50.04681793964125
+        }
+      ]
+    }
+  ]
+}
