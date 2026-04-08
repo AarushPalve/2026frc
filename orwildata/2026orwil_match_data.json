@@ -1,0 +1,4300 @@
+{
+  "event": "2026orwil",
+  "extracted_at": "2026-03-17T21:27:33.546698+00:00",
+  "components": [
+    "a_points",
+    "a_fuel",
+    "tele_fuel",
+    "tower_points"
+  ],
+  "matches": [
+    {
+      "match_key": "2026orwil_qm1",
+      "time": null,
+      "status": "qm",
+      "teams": [
+        {
+          "team": 2635,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 3673,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 55.024,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 3024,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 1.8615000000000002,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 10444,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.2751,
+            "a_fuel": 0.2751,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 2374,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 18.722715,
+            "a_fuel": 18.722715,
+            "tele_fuel": 78.428915,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 6831,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 2.002,
+            "tower_points": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "match_key": "2026orwil_qm10",
+      "time": null,
+      "status": "qm",
+      "teams": [
+        {
+          "team": 3024,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 11.977500000000001,
+            "a_fuel": 11.977500000000001,
+            "tele_fuel": 26.5995,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 9438,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 5.719049999999999,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 5975,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 3.90015,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 7034,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 121.0115,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 2990,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 10.52108,
+            "a_fuel": 10.52108,
+            "tele_fuel": 64.96576,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 3636,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 116.58493,
+            "tower_points": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "match_key": "2026orwil_qm11",
+      "time": null,
+      "status": "qm",
+      "teams": [
+        {
+          "team": 2635,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 3.782675,
+            "a_fuel": 3.782675,
+            "tele_fuel": 11.576284999999999,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 3574,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 6343,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 1.235815,
+            "a_fuel": 1.235815,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 4662,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 957,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 23.265655000000002,
+            "a_fuel": 23.265655000000002,
+            "tele_fuel": 63.38498500000001,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 6831,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 3.276,
+            "tower_points": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "match_key": "2026orwil_qm12",
+      "time": null,
+      "status": "qm",
+      "teams": [
+        {
+          "team": 2471,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 6.81312,
+            "a_fuel": 6.81312,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 6696,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 2.80224,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 4488,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 21.72877,
+            "a_fuel": 21.72877,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 5937,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 21.460985,
+            "a_fuel": 21.460985,
+            "tele_fuel": 95.130385,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 3673,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 847,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 20.396700000000003,
+            "tower_points": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "match_key": "2026orwil_qm13",
+      "time": null,
+      "status": "qm",
+      "teams": [
+        {
+          "team": 2898,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 1540,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 47.823965,
+            "a_fuel": 47.823965,
+            "tele_fuel": 384.795565,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 3663,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 5.842795000000001,
+            "a_fuel": 5.842795000000001,
+            "tele_fuel": 120.84502499999999,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 2374,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 20.573315,
+            "a_fuel": 20.573315,
+            "tele_fuel": 69.117475,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 5970,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 3024,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 4.905,
+            "tower_points": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "match_key": "2026orwil_qm14",
+      "time": null,
+      "status": "qm",
+      "teams": [
+        {
+          "team": 9438,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 9.80155,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 1595,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 1.923735,
+            "a_fuel": 1.923735,
+            "tele_fuel": 192.25602,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 4043,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 33.48491,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 2915,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.313,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 2635,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.259335,
+            "a_fuel": 0.259335,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 4662,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "match_key": "2026orwil_qm15",
+      "time": null,
+      "status": "qm",
+      "teams": [
+        {
+          "team": 4513,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 10.31478,
+            "a_fuel": 10.31478,
+            "tele_fuel": 41.99958,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 957,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 16.8929,
+            "a_fuel": 16.8929,
+            "tele_fuel": 71.01817000000001,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 2990,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 46.051719999999996,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 10444,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 8.20453,
+            "a_fuel": 8.20453,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 5975,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 1425,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 42.59648,
+            "a_fuel": 42.59648,
+            "tele_fuel": 165.39424,
+            "tower_points": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "match_key": "2026orwil_qm16",
+      "time": null,
+      "status": "qm",
+      "teams": [
+        {
+          "team": 9600,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 13.43488,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 7034,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 118.449,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 3574,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 2550,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 16.7625,
+            "a_fuel": 16.7625,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 3636,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 12.072700000000001,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 9613,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "match_key": "2026orwil_qm17",
+      "time": null,
+      "status": "qm",
+      "teams": [
+        {
+          "team": 4043,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 5937,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 37.28718,
+            "a_fuel": 37.28718,
+            "tele_fuel": 78.93301500000001,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 2471,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 26.25588,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 1540,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 31.503885000000004,
+            "a_fuel": 31.503885000000004,
+            "tele_fuel": 189.726215,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 9438,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 2635,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "match_key": "2026orwil_qm18",
+      "time": null,
+      "status": "qm",
+      "teams": [
+        {
+          "team": 4488,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 9.53477,
+            "a_fuel": 9.53477,
+            "tele_fuel": 51.57124,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 847,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 5975,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.8802000000000001,
+            "tower_points": 10.0
+          }
+        },
+        {
+          "team": 1425,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 38.2736,
+            "a_fuel": 38.2736,
+            "tele_fuel": 253.94336,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 3663,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 164.287445,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 4662,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 1.8084000000000002,
+            "a_fuel": 1.8084000000000002,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "match_key": "2026orwil_qm19",
+      "time": null,
+      "status": "qm",
+      "teams": [
+        {
+          "team": 3574,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 4513,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 17.17982,
+            "a_fuel": 17.17982,
+            "tele_fuel": 40.93481,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 10444,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 4.08065,
+            "a_fuel": 4.08065,
+            "tele_fuel": 3.1178,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 3024,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 1.5855,
+            "a_fuel": 1.5855,
+            "tele_fuel": 4.2225,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 2898,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 6343,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 11.795350000000001,
+            "a_fuel": 11.795350000000001,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "match_key": "2026orwil_qm2",
+      "time": null,
+      "status": "qm",
+      "teams": [
+        {
+          "team": 847,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 60.95168,
+            "a_fuel": 60.95168,
+            "tele_fuel": 27.751040000000003,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 2898,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 86.38431999999999,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 4043,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 2.50341,
+            "a_fuel": 2.50341,
+            "tele_fuel": 15.44883,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 4488,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 1540,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 44.70053,
+            "a_fuel": 44.70053,
+            "tele_fuel": 357.88963,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 2550,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 9.661499999999998,
+            "a_fuel": 9.661499999999998,
+            "tele_fuel": 2.7832500000000002,
+            "tower_points": 10.0
+          }
+        }
+      ]
+    },
+    {
+      "match_key": "2026orwil_qm20",
+      "time": null,
+      "status": "qm",
+      "teams": [
+        {
+          "team": 957,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 13.278970000000001,
+            "a_fuel": 13.278970000000001,
+            "tele_fuel": 50.430275,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 3673,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.404,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 2374,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 10.336575,
+            "a_fuel": 10.336575,
+            "tele_fuel": 30.819795,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 9613,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 9600,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 2915,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 4.106,
+            "tower_points": 10.0
+          }
+        }
+      ]
+    },
+    {
+      "match_key": "2026orwil_qm21",
+      "time": null,
+      "status": "qm",
+      "teams": [
+        {
+          "team": 7034,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 14.4607,
+            "a_fuel": 14.4607,
+            "tele_fuel": 122.98359999999998,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 2550,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 26.973,
+            "a_fuel": 26.973,
+            "tele_fuel": 32.05575,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 5970,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 2.7482800000000003,
+            "a_fuel": 2.7482800000000003,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 1595,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 49.59613999999999,
+            "a_fuel": 49.59613999999999,
+            "tele_fuel": 249.24850499999997,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 6831,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 16.628625,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 6696,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 30.91872,
+            "a_fuel": 30.91872,
+            "tele_fuel": 180.21696,
+            "tower_points": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "match_key": "2026orwil_qm22",
+      "time": null,
+      "status": "qm",
+      "teams": [
+        {
+          "team": 2990,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 1540,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 5937,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 3636,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 4662,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 3024,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "match_key": "2026orwil_qm23",
+      "time": null,
+      "status": "qm",
+      "teams": [
+        {
+          "team": 1425,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 2635,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 9600,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 3574,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 2471,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 9438,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "match_key": "2026orwil_qm24",
+      "time": null,
+      "status": "qm",
+      "teams": [
+        {
+          "team": 6831,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 4043,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 2550,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 4513,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 4488,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 5970,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "match_key": "2026orwil_qm25",
+      "time": null,
+      "status": "qm",
+      "teams": [
+        {
+          "team": 10444,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 3636,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 847,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 2915,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 957,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 6696,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "match_key": "2026orwil_qm26",
+      "time": null,
+      "status": "qm",
+      "teams": [
+        {
+          "team": 1595,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 9613,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 2898,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 5975,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 3673,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 7034,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "match_key": "2026orwil_qm27",
+      "time": null,
+      "status": "qm",
+      "teams": [
+        {
+          "team": 2374,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 6343,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 9438,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 3663,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 2990,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 4043,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "match_key": "2026orwil_qm28",
+      "time": null,
+      "status": "qm",
+      "teams": [
+        {
+          "team": 2635,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 4513,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 3636,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 3024,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 2915,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 4488,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "match_key": "2026orwil_qm29",
+      "time": null,
+      "status": "qm",
+      "teams": [
+        {
+          "team": 3574,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 2550,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 3673,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 5937,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 957,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 7034,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "match_key": "2026orwil_qm3",
+      "time": null,
+      "status": "qm",
+      "teams": [
+        {
+          "team": 3574,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 32.314,
+            "a_fuel": 32.314,
+            "tele_fuel": 89.93560000000001,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 3663,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 7.89677,
+            "a_fuel": 7.89677,
+            "tele_fuel": 126.07672000000001,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 5970,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 6696,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 3.5548800000000003,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 3636,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 5975,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "match_key": "2026orwil_qm30",
+      "time": null,
+      "status": "qm",
+      "teams": [
+        {
+          "team": 2471,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 10444,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 6343,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 1595,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 5975,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 1540,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "match_key": "2026orwil_qm31",
+      "time": null,
+      "status": "qm",
+      "teams": [
+        {
+          "team": 6696,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 1425,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 2898,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 5970,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 9613,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 2990,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "match_key": "2026orwil_qm32",
+      "time": null,
+      "status": "qm",
+      "teams": [
+        {
+          "team": 6831,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 3663,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 9600,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 4662,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 847,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 2374,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "match_key": "2026orwil_qm33",
+      "time": null,
+      "status": "qm",
+      "teams": [
+        {
+          "team": 10444,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 1540,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 3673,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 5975,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 4043,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 4513,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "match_key": "2026orwil_qm34",
+      "time": null,
+      "status": "qm",
+      "teams": [
+        {
+          "team": 5970,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 2471,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 2915,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 6343,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 1595,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 3636,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "match_key": "2026orwil_qm35",
+      "time": null,
+      "status": "qm",
+      "teams": [
+        {
+          "team": 7034,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 2374,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 9613,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 4488,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 5937,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 2635,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "match_key": "2026orwil_qm36",
+      "time": null,
+      "status": "qm",
+      "teams": [
+        {
+          "team": 2898,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 3574,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 4662,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 847,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 9438,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 3663,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "match_key": "2026orwil_qm37",
+      "time": null,
+      "status": "qm",
+      "teams": [
+        {
+          "team": 2990,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 3024,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 1425,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 9600,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 2550,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 957,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "match_key": "2026orwil_qm38",
+      "time": null,
+      "status": "qm",
+      "teams": [
+        {
+          "team": 3636,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 6831,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 2915,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 4043,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 6696,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 1540,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "match_key": "2026orwil_qm39",
+      "time": null,
+      "status": "qm",
+      "teams": [
+        {
+          "team": 4662,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 4488,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 3673,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 2374,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 5975,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 3574,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "match_key": "2026orwil_qm4",
+      "time": null,
+      "status": "qm",
+      "teams": [
+        {
+          "team": 9613,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 6343,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 68.84451000000001,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 4662,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 1425,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 10.93792,
+            "a_fuel": 10.93792,
+            "tele_fuel": 187.22752,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 4513,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 24.262980000000002,
+            "a_fuel": 24.262980000000002,
+            "tele_fuel": 68.45811,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 5937,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 93.75527,
+            "tower_points": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "match_key": "2026orwil_qm40",
+      "time": null,
+      "status": "qm",
+      "teams": [
+        {
+          "team": 2990,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 1595,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 847,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 9438,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 9613,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 10444,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "match_key": "2026orwil_qm41",
+      "time": null,
+      "status": "qm",
+      "teams": [
+        {
+          "team": 957,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 1425,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 2471,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 3024,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 7034,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 6831,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "match_key": "2026orwil_qm42",
+      "time": null,
+      "status": "qm",
+      "teams": [
+        {
+          "team": 9600,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 5937,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 6696,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 3663,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 6343,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 4513,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "match_key": "2026orwil_qm43",
+      "time": null,
+      "status": "qm",
+      "teams": [
+        {
+          "team": 3636,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 2898,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 5970,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 2635,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 2550,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 1595,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "match_key": "2026orwil_qm44",
+      "time": null,
+      "status": "qm",
+      "teams": [
+        {
+          "team": 4043,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 2915,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 2374,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 847,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 1425,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 3574,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "match_key": "2026orwil_qm45",
+      "time": null,
+      "status": "qm",
+      "teams": [
+        {
+          "team": 9438,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 4488,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 7034,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 1540,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 6343,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 957,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "match_key": "2026orwil_qm46",
+      "time": null,
+      "status": "qm",
+      "teams": [
+        {
+          "team": 3673,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 5970,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 6831,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 5937,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 3024,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 10444,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "match_key": "2026orwil_qm47",
+      "time": null,
+      "status": "qm",
+      "teams": [
+        {
+          "team": 5975,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 2635,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 9613,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 2471,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 3663,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 2550,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "match_key": "2026orwil_qm48",
+      "time": null,
+      "status": "qm",
+      "teams": [
+        {
+          "team": 4662,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 6696,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 2990,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 9600,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 4513,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 2898,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "match_key": "2026orwil_qm49",
+      "time": null,
+      "status": "qm",
+      "teams": [
+        {
+          "team": 1540,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 847,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 7034,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 2915,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 5937,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 3574,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "match_key": "2026orwil_qm5",
+      "time": null,
+      "status": "qm",
+      "teams": [
+        {
+          "team": 7034,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 7.953999999999999,
+            "a_fuel": 7.953999999999999,
+            "tele_fuel": 63.467999999999996,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 2915,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 4.367,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 1595,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 38.53344,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 2990,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 76.66543999999999,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 9600,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 9438,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 3.5713,
+            "tower_points": 10.0
+          }
+        }
+      ]
+    },
+    {
+      "match_key": "2026orwil_qm50",
+      "time": null,
+      "status": "qm",
+      "teams": [
+        {
+          "team": 9613,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 3024,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 957,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 6343,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 5970,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 4043,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "match_key": "2026orwil_qm51",
+      "time": null,
+      "status": "qm",
+      "teams": [
+        {
+          "team": 2374,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 2635,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 3663,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 6831,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 2898,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 2990,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "match_key": "2026orwil_qm52",
+      "time": null,
+      "status": "qm",
+      "teams": [
+        {
+          "team": 3636,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 4488,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 1425,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 1595,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 10444,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 9600,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "match_key": "2026orwil_qm53",
+      "time": null,
+      "status": "qm",
+      "teams": [
+        {
+          "team": 4513,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 4662,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 2550,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 3673,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 2471,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 9438,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "match_key": "2026orwil_qm54",
+      "time": null,
+      "status": "qm",
+      "teams": [
+        {
+          "team": 5975,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 2990,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 6343,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 6696,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 5970,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 2635,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "match_key": "2026orwil_qm55",
+      "time": null,
+      "status": "qm",
+      "teams": [
+        {
+          "team": 5937,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 2374,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 1595,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 957,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 3574,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 3636,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "match_key": "2026orwil_qm56",
+      "time": null,
+      "status": "qm",
+      "teams": [
+        {
+          "team": 9438,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 2915,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 4513,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 9613,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 6831,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 4488,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "match_key": "2026orwil_qm57",
+      "time": null,
+      "status": "qm",
+      "teams": [
+        {
+          "team": 1540,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 9600,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 3024,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 2550,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 847,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 6696,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "match_key": "2026orwil_qm58",
+      "time": null,
+      "status": "qm",
+      "teams": [
+        {
+          "team": 2471,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 4662,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 5975,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 2898,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 7034,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 10444,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "match_key": "2026orwil_qm59",
+      "time": null,
+      "status": "qm",
+      "teams": [
+        {
+          "team": 3673,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 3636,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 3663,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 4043,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 1425,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 9613,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "match_key": "2026orwil_qm6",
+      "time": null,
+      "status": "qm",
+      "teams": [
+        {
+          "team": 957,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 34.039455000000004,
+            "a_fuel": 34.039455000000004,
+            "tele_fuel": 116.89834500000002,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 4043,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 4488,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 10.2711,
+            "a_fuel": 10.2711,
+            "tele_fuel": 94.95374,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 2898,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 2374,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 12.036204999999999,
+            "a_fuel": 12.036204999999999,
+            "tele_fuel": 68.391845,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 2471,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 7.85804,
+            "a_fuel": 7.85804,
+            "tele_fuel": 87.10284,
+            "tower_points": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "match_key": "2026orwil_qm60",
+      "time": null,
+      "status": "qm",
+      "teams": [
+        {
+          "team": 6696,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 3024,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 4513,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 4488,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 3574,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 1595,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "match_key": "2026orwil_qm61",
+      "time": null,
+      "status": "qm",
+      "teams": [
+        {
+          "team": 2550,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 2990,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 2374,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 5970,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 4662,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 1540,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "match_key": "2026orwil_qm62",
+      "time": null,
+      "status": "qm",
+      "teams": [
+        {
+          "team": 6343,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 7034,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 1425,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 847,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 2471,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 2635,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "match_key": "2026orwil_qm63",
+      "time": null,
+      "status": "qm",
+      "teams": [
+        {
+          "team": 6831,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 9438,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 5937,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 2915,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 5975,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 2898,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "match_key": "2026orwil_qm64",
+      "time": null,
+      "status": "qm",
+      "teams": [
+        {
+          "team": 3663,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 10444,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 957,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 3673,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 4043,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 9600,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "match_key": "2026orwil_qm7",
+      "time": null,
+      "status": "qm",
+      "teams": [
+        {
+          "team": 1425,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 33.7744,
+            "a_fuel": 33.7744,
+            "tele_fuel": 341.17312,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 6831,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 4.51425,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 1540,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 47.31132,
+            "a_fuel": 47.31132,
+            "tele_fuel": 284.623675,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 6343,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 11.821145000000001,
+            "a_fuel": 11.821145000000001,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 6696,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 28.3248,
+            "a_fuel": 28.3248,
+            "tele_fuel": 223.71551999999997,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 3673,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "match_key": "2026orwil_qm8",
+      "time": null,
+      "status": "qm",
+      "teams": [
+        {
+          "team": 2550,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 9.65475,
+            "a_fuel": 9.65475,
+            "tele_fuel": 48.78675,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 10444,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 2915,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 6.621,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 3663,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 7.39431,
+            "a_fuel": 7.39431,
+            "tele_fuel": 153.75955,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 9613,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 5937,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 25.75601,
+            "a_fuel": 25.75601,
+            "tele_fuel": 142.15295500000002,
+            "tower_points": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "match_key": "2026orwil_qm9",
+      "time": null,
+      "status": "qm",
+      "teams": [
+        {
+          "team": 5970,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 40.26916,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 9600,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 3.7063999999999995,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 847,
+          "alliance": "red",
+          "metrics": {
+            "a_points": 0.0,
+            "a_fuel": 0.0,
+            "tele_fuel": 41.19688,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 4513,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 2.93888,
+            "a_fuel": 2.93888,
+            "tele_fuel": 30.533929999999998,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 1595,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 2.6433,
+            "a_fuel": 2.6433,
+            "tele_fuel": 0.0,
+            "tower_points": 0.0
+          }
+        },
+        {
+          "team": 2471,
+          "alliance": "blue",
+          "metrics": {
+            "a_points": 23.26004,
+            "a_fuel": 23.26004,
+            "tele_fuel": 61.36338,
+            "tower_points": 0.0
+          }
+        }
+      ]
+    }
+  ]
+}

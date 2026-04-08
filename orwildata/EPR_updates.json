@@ -1,0 +1,3085 @@
+{
+  "matches": [
+    {
+      "match_number": 1,
+      "match_key": "2026orwil_qm1",
+      "red_net_epa": -4.959999999999999,
+      "blue_net_epa": 0.9799999999999969,
+      "margin": 0.5,
+      "teams": [
+        {
+          "team": 10444,
+          "alliance": "blue",
+          "epr_change": 0.8266666666666665
+        },
+        {
+          "team": 2374,
+          "alliance": "blue",
+          "epr_change": 0.8266666666666665
+        },
+        {
+          "team": 6831,
+          "alliance": "blue",
+          "epr_change": 0.8266666666666665
+        },
+        {
+          "team": 2635,
+          "alliance": "red",
+          "epr_change": -0.1633333333333328
+        },
+        {
+          "team": 3673,
+          "alliance": "red",
+          "epr_change": -0.1633333333333328
+        },
+        {
+          "team": 3024,
+          "alliance": "red",
+          "epr_change": -0.1633333333333328
+        }
+      ]
+    },
+    {
+      "match_number": 2,
+      "match_key": "2026orwil_qm2",
+      "red_net_epa": -9.38999999999999,
+      "blue_net_epa": 26.5,
+      "margin": 0.5,
+      "teams": [
+        {
+          "team": 4488,
+          "alliance": "blue",
+          "epr_change": 1.5649999999999984
+        },
+        {
+          "team": 1540,
+          "alliance": "blue",
+          "epr_change": 1.5649999999999984
+        },
+        {
+          "team": 2550,
+          "alliance": "blue",
+          "epr_change": 1.5649999999999984
+        },
+        {
+          "team": 847,
+          "alliance": "red",
+          "epr_change": -4.416666666666667
+        },
+        {
+          "team": 2898,
+          "alliance": "red",
+          "epr_change": -4.416666666666667
+        },
+        {
+          "team": 4043,
+          "alliance": "red",
+          "epr_change": -4.416666666666667
+        }
+      ]
+    },
+    {
+      "match_number": 3,
+      "match_key": "2026orwil_qm3",
+      "red_net_epa": -40.95000000000001,
+      "blue_net_epa": -36.44,
+      "margin": 0.5,
+      "teams": [
+        {
+          "team": 6696,
+          "alliance": "blue",
+          "epr_change": 6.825000000000002
+        },
+        {
+          "team": 3636,
+          "alliance": "blue",
+          "epr_change": 6.825000000000002
+        },
+        {
+          "team": 5975,
+          "alliance": "blue",
+          "epr_change": 6.825000000000002
+        },
+        {
+          "team": 3574,
+          "alliance": "red",
+          "epr_change": 6.073333333333333
+        },
+        {
+          "team": 3663,
+          "alliance": "red",
+          "epr_change": 6.073333333333333
+        },
+        {
+          "team": 5970,
+          "alliance": "red",
+          "epr_change": 6.073333333333333
+        }
+      ]
+    },
+    {
+      "match_number": 4,
+      "match_key": "2026orwil_qm4",
+      "red_net_epa": -12.510000000000002,
+      "blue_net_epa": 7.580000000000005,
+      "margin": 0.5,
+      "teams": [
+        {
+          "team": 1425,
+          "alliance": "blue",
+          "epr_change": 2.0850000000000004
+        },
+        {
+          "team": 4513,
+          "alliance": "blue",
+          "epr_change": 2.0850000000000004
+        },
+        {
+          "team": 5937,
+          "alliance": "blue",
+          "epr_change": 2.0850000000000004
+        },
+        {
+          "team": 9613,
+          "alliance": "red",
+          "epr_change": -1.2633333333333343
+        },
+        {
+          "team": 6343,
+          "alliance": "red",
+          "epr_change": -1.2633333333333343
+        },
+        {
+          "team": 4662,
+          "alliance": "red",
+          "epr_change": -1.2633333333333343
+        }
+      ]
+    },
+    {
+      "match_number": 5,
+      "match_key": "2026orwil_qm5",
+      "red_net_epa": -9.599999999999998,
+      "blue_net_epa": -8.980000000000006,
+      "margin": 0.5,
+      "teams": [
+        {
+          "team": 2990,
+          "alliance": "blue",
+          "epr_change": 1.5999999999999996
+        },
+        {
+          "team": 9600,
+          "alliance": "blue",
+          "epr_change": 1.5999999999999996
+        },
+        {
+          "team": 9438,
+          "alliance": "blue",
+          "epr_change": 1.5999999999999996
+        },
+        {
+          "team": 7034,
+          "alliance": "red",
+          "epr_change": 1.4966666666666677
+        },
+        {
+          "team": 2915,
+          "alliance": "red",
+          "epr_change": 1.4966666666666677
+        },
+        {
+          "team": 1595,
+          "alliance": "red",
+          "epr_change": 1.4966666666666677
+        }
+      ]
+    },
+    {
+      "match_number": 6,
+      "match_key": "2026orwil_qm6",
+      "red_net_epa": -0.7899999999999991,
+      "blue_net_epa": 34.14,
+      "margin": 0.5,
+      "teams": [
+        {
+          "team": 2898,
+          "alliance": "blue",
+          "epr_change": 0.13166666666666652
+        },
+        {
+          "team": 2374,
+          "alliance": "blue",
+          "epr_change": 0.13166666666666652
+        },
+        {
+          "team": 2471,
+          "alliance": "blue",
+          "epr_change": 0.13166666666666652
+        },
+        {
+          "team": 957,
+          "alliance": "red",
+          "epr_change": -5.69
+        },
+        {
+          "team": 4043,
+          "alliance": "red",
+          "epr_change": -5.69
+        },
+        {
+          "team": 4488,
+          "alliance": "red",
+          "epr_change": -5.69
+        }
+      ]
+    },
+    {
+      "match_number": 7,
+      "match_key": "2026orwil_qm7",
+      "red_net_epa": 5.519999999999989,
+      "blue_net_epa": 11.709999999999997,
+      "margin": 0.4666666666666667,
+      "teams": [
+        {
+          "team": 6343,
+          "alliance": "blue",
+          "epr_change": -0.8586666666666649
+        },
+        {
+          "team": 6696,
+          "alliance": "blue",
+          "epr_change": -0.8586666666666649
+        },
+        {
+          "team": 3673,
+          "alliance": "blue",
+          "epr_change": -0.8586666666666649
+        },
+        {
+          "team": 1425,
+          "alliance": "red",
+          "epr_change": -1.8215555555555552
+        },
+        {
+          "team": 6831,
+          "alliance": "red",
+          "epr_change": -1.8215555555555552
+        },
+        {
+          "team": 1540,
+          "alliance": "red",
+          "epr_change": -1.8215555555555552
+        }
+      ]
+    },
+    {
+      "match_number": 8,
+      "match_key": "2026orwil_qm8",
+      "red_net_epa": -20.089999999999996,
+      "blue_net_epa": -6.129999999999988,
+      "margin": 0.43333333333333335,
+      "teams": [
+        {
+          "team": 3663,
+          "alliance": "blue",
+          "epr_change": 2.9018888888888883
+        },
+        {
+          "team": 9613,
+          "alliance": "blue",
+          "epr_change": 2.9018888888888883
+        },
+        {
+          "team": 5937,
+          "alliance": "blue",
+          "epr_change": 2.9018888888888883
+        },
+        {
+          "team": 2550,
+          "alliance": "red",
+          "epr_change": 0.8854444444444428
+        },
+        {
+          "team": 10444,
+          "alliance": "red",
+          "epr_change": 0.8854444444444428
+        },
+        {
+          "team": 2915,
+          "alliance": "red",
+          "epr_change": 0.8854444444444428
+        }
+      ]
+    },
+    {
+      "match_number": 9,
+      "match_key": "2026orwil_qm9",
+      "red_net_epa": -17.6,
+      "blue_net_epa": -9.239999999999998,
+      "margin": 0.4,
+      "teams": [
+        {
+          "team": 4513,
+          "alliance": "blue",
+          "epr_change": 2.346666666666667
+        },
+        {
+          "team": 1595,
+          "alliance": "blue",
+          "epr_change": 2.346666666666667
+        },
+        {
+          "team": 2471,
+          "alliance": "blue",
+          "epr_change": 2.346666666666667
+        },
+        {
+          "team": 5970,
+          "alliance": "red",
+          "epr_change": 1.232
+        },
+        {
+          "team": 9600,
+          "alliance": "red",
+          "epr_change": 1.232
+        },
+        {
+          "team": 847,
+          "alliance": "red",
+          "epr_change": 1.232
+        }
+      ]
+    },
+    {
+      "match_number": 10,
+      "match_key": "2026orwil_qm10",
+      "red_net_epa": 1.1800000000000006,
+      "blue_net_epa": 2.4199999999999946,
+      "margin": 0.3666666666666667,
+      "teams": [
+        {
+          "team": 7034,
+          "alliance": "blue",
+          "epr_change": -0.1442222222222223
+        },
+        {
+          "team": 2990,
+          "alliance": "blue",
+          "epr_change": -0.1442222222222223
+        },
+        {
+          "team": 3636,
+          "alliance": "blue",
+          "epr_change": -0.1442222222222223
+        },
+        {
+          "team": 3024,
+          "alliance": "red",
+          "epr_change": -0.29577777777777714
+        },
+        {
+          "team": 9438,
+          "alliance": "red",
+          "epr_change": -0.29577777777777714
+        },
+        {
+          "team": 5975,
+          "alliance": "red",
+          "epr_change": -0.29577777777777714
+        }
+      ]
+    },
+    {
+      "match_number": 11,
+      "match_key": "2026orwil_qm11",
+      "red_net_epa": -16.299999999999997,
+      "blue_net_epa": -17.440000000000005,
+      "margin": 0.33333333333333337,
+      "teams": [
+        {
+          "team": 4662,
+          "alliance": "blue",
+          "epr_change": 1.8111111111111111
+        },
+        {
+          "team": 957,
+          "alliance": "blue",
+          "epr_change": 1.8111111111111111
+        },
+        {
+          "team": 6831,
+          "alliance": "blue",
+          "epr_change": 1.8111111111111111
+        },
+        {
+          "team": 2635,
+          "alliance": "red",
+          "epr_change": 1.9377777777777787
+        },
+        {
+          "team": 3574,
+          "alliance": "red",
+          "epr_change": 1.9377777777777787
+        },
+        {
+          "team": 6343,
+          "alliance": "red",
+          "epr_change": 1.9377777777777787
+        }
+      ]
+    },
+    {
+      "match_number": 12,
+      "match_key": "2026orwil_qm12",
+      "red_net_epa": -14.39,
+      "blue_net_epa": -12.200000000000003,
+      "margin": 0.3,
+      "teams": [
+        {
+          "team": 5937,
+          "alliance": "blue",
+          "epr_change": 1.439
+        },
+        {
+          "team": 3673,
+          "alliance": "blue",
+          "epr_change": 1.439
+        },
+        {
+          "team": 847,
+          "alliance": "blue",
+          "epr_change": 1.439
+        },
+        {
+          "team": 2471,
+          "alliance": "red",
+          "epr_change": 1.2200000000000002
+        },
+        {
+          "team": 6696,
+          "alliance": "red",
+          "epr_change": 1.2200000000000002
+        },
+        {
+          "team": 4488,
+          "alliance": "red",
+          "epr_change": 1.2200000000000002
+        }
+      ]
+    },
+    {
+      "match_number": 13,
+      "match_key": "2026orwil_qm13",
+      "red_net_epa": 34.71,
+      "blue_net_epa": -5.6600000000000055,
+      "margin": 0.3,
+      "teams": [
+        {
+          "team": 2374,
+          "alliance": "blue",
+          "epr_change": -3.471
+        },
+        {
+          "team": 5970,
+          "alliance": "blue",
+          "epr_change": -3.471
+        },
+        {
+          "team": 3024,
+          "alliance": "blue",
+          "epr_change": -3.471
+        },
+        {
+          "team": 2898,
+          "alliance": "red",
+          "epr_change": 0.5660000000000005
+        },
+        {
+          "team": 1540,
+          "alliance": "red",
+          "epr_change": 0.5660000000000005
+        },
+        {
+          "team": 3663,
+          "alliance": "red",
+          "epr_change": 0.5660000000000005
+        }
+      ]
+    },
+    {
+      "match_number": 14,
+      "match_key": "2026orwil_qm14",
+      "red_net_epa": 11.479999999999999,
+      "blue_net_epa": -10.650000000000002,
+      "margin": 0.3,
+      "teams": [
+        {
+          "team": 2915,
+          "alliance": "blue",
+          "epr_change": -1.148
+        },
+        {
+          "team": 2635,
+          "alliance": "blue",
+          "epr_change": -1.148
+        },
+        {
+          "team": 4662,
+          "alliance": "blue",
+          "epr_change": -1.148
+        },
+        {
+          "team": 9438,
+          "alliance": "red",
+          "epr_change": 1.0650000000000002
+        },
+        {
+          "team": 1595,
+          "alliance": "red",
+          "epr_change": 1.0650000000000002
+        },
+        {
+          "team": 4043,
+          "alliance": "red",
+          "epr_change": 1.0650000000000002
+        }
+      ]
+    },
+    {
+      "match_number": 15,
+      "match_key": "2026orwil_qm15",
+      "red_net_epa": 7.5,
+      "blue_net_epa": 21.630000000000003,
+      "margin": 0.3,
+      "teams": [
+        {
+          "team": 10444,
+          "alliance": "blue",
+          "epr_change": -0.75
+        },
+        {
+          "team": 5975,
+          "alliance": "blue",
+          "epr_change": -0.75
+        },
+        {
+          "team": 1425,
+          "alliance": "blue",
+          "epr_change": -0.75
+        },
+        {
+          "team": 4513,
+          "alliance": "red",
+          "epr_change": -2.1630000000000003
+        },
+        {
+          "team": 957,
+          "alliance": "red",
+          "epr_change": -2.1630000000000003
+        },
+        {
+          "team": 2990,
+          "alliance": "red",
+          "epr_change": -2.1630000000000003
+        }
+      ]
+    },
+    {
+      "match_number": 16,
+      "match_key": "2026orwil_qm16",
+      "red_net_epa": 1.720000000000006,
+      "blue_net_epa": -26.159999999999997,
+      "margin": 0.3,
+      "teams": [
+        {
+          "team": 2550,
+          "alliance": "blue",
+          "epr_change": -0.1720000000000006
+        },
+        {
+          "team": 3636,
+          "alliance": "blue",
+          "epr_change": -0.1720000000000006
+        },
+        {
+          "team": 9613,
+          "alliance": "blue",
+          "epr_change": -0.1720000000000006
+        },
+        {
+          "team": 9600,
+          "alliance": "red",
+          "epr_change": 2.6159999999999997
+        },
+        {
+          "team": 7034,
+          "alliance": "red",
+          "epr_change": 2.6159999999999997
+        },
+        {
+          "team": 3574,
+          "alliance": "red",
+          "epr_change": 2.6159999999999997
+        }
+      ]
+    },
+    {
+      "match_number": 17,
+      "match_key": "2026orwil_qm17",
+      "red_net_epa": -16.100000000000016,
+      "blue_net_epa": 7.880000000000008,
+      "margin": 0.3,
+      "teams": [
+        {
+          "team": 1540,
+          "alliance": "blue",
+          "epr_change": 1.6100000000000014
+        },
+        {
+          "team": 9438,
+          "alliance": "blue",
+          "epr_change": 1.6100000000000014
+        },
+        {
+          "team": 2635,
+          "alliance": "blue",
+          "epr_change": 1.6100000000000014
+        },
+        {
+          "team": 4043,
+          "alliance": "red",
+          "epr_change": -0.7880000000000007
+        },
+        {
+          "team": 5937,
+          "alliance": "red",
+          "epr_change": -0.7880000000000007
+        },
+        {
+          "team": 2471,
+          "alliance": "red",
+          "epr_change": -0.7880000000000007
+        }
+      ]
+    },
+    {
+      "match_number": 18,
+      "match_key": "2026orwil_qm18",
+      "red_net_epa": 3.530000000000002,
+      "blue_net_epa": 17.30999999999999,
+      "margin": 0.3,
+      "teams": [
+        {
+          "team": 1425,
+          "alliance": "blue",
+          "epr_change": -0.3530000000000002
+        },
+        {
+          "team": 3663,
+          "alliance": "blue",
+          "epr_change": -0.3530000000000002
+        },
+        {
+          "team": 4662,
+          "alliance": "blue",
+          "epr_change": -0.3530000000000002
+        },
+        {
+          "team": 4488,
+          "alliance": "red",
+          "epr_change": -1.730999999999999
+        },
+        {
+          "team": 847,
+          "alliance": "red",
+          "epr_change": -1.730999999999999
+        },
+        {
+          "team": 5975,
+          "alliance": "red",
+          "epr_change": -1.730999999999999
+        }
+      ]
+    },
+    {
+      "match_number": 19,
+      "match_key": "2026orwil_qm19",
+      "red_net_epa": -16.110000000000003,
+      "blue_net_epa": -14.849999999999996,
+      "margin": 0.3,
+      "teams": [
+        {
+          "team": 3024,
+          "alliance": "blue",
+          "epr_change": 1.6110000000000002
+        },
+        {
+          "team": 2898,
+          "alliance": "blue",
+          "epr_change": 1.6110000000000002
+        },
+        {
+          "team": 6343,
+          "alliance": "blue",
+          "epr_change": 1.6110000000000002
+        },
+        {
+          "team": 3574,
+          "alliance": "red",
+          "epr_change": 1.4849999999999994
+        },
+        {
+          "team": 4513,
+          "alliance": "red",
+          "epr_change": 1.4849999999999994
+        },
+        {
+          "team": 10444,
+          "alliance": "red",
+          "epr_change": 1.4849999999999994
+        }
+      ]
+    },
+    {
+      "match_number": 20,
+      "match_key": "2026orwil_qm20",
+      "red_net_epa": 8.430000000000003,
+      "blue_net_epa": -4.670000000000002,
+      "margin": 0.3,
+      "teams": [
+        {
+          "team": 9613,
+          "alliance": "blue",
+          "epr_change": -0.8430000000000003
+        },
+        {
+          "team": 9600,
+          "alliance": "blue",
+          "epr_change": -0.8430000000000003
+        },
+        {
+          "team": 2915,
+          "alliance": "blue",
+          "epr_change": -0.8430000000000003
+        },
+        {
+          "team": 957,
+          "alliance": "red",
+          "epr_change": 0.4670000000000002
+        },
+        {
+          "team": 3673,
+          "alliance": "red",
+          "epr_change": 0.4670000000000002
+        },
+        {
+          "team": 2374,
+          "alliance": "red",
+          "epr_change": 0.4670000000000002
+        }
+      ]
+    },
+    {
+      "match_number": 21,
+      "match_key": "2026orwil_qm21",
+      "red_net_epa": 12.79,
+      "blue_net_epa": 20.1,
+      "margin": 0.3,
+      "teams": [
+        {
+          "team": 1595,
+          "alliance": "blue",
+          "epr_change": -1.2789999999999997
+        },
+        {
+          "team": 6831,
+          "alliance": "blue",
+          "epr_change": -1.2789999999999997
+        },
+        {
+          "team": 6696,
+          "alliance": "blue",
+          "epr_change": -1.2789999999999997
+        },
+        {
+          "team": 7034,
+          "alliance": "red",
+          "epr_change": -2.01
+        },
+        {
+          "team": 2550,
+          "alliance": "red",
+          "epr_change": -2.01
+        },
+        {
+          "team": 5970,
+          "alliance": "red",
+          "epr_change": -2.01
+        }
+      ]
+    },
+    {
+      "match_number": 22,
+      "match_key": "2026orwil_qm22",
+      "red_net_epa": 28.549999999999976,
+      "blue_net_epa": -19.419999999999998,
+      "margin": 0.3,
+      "teams": [
+        {
+          "team": 3636,
+          "alliance": "blue",
+          "epr_change": -2.8549999999999973
+        },
+        {
+          "team": 4662,
+          "alliance": "blue",
+          "epr_change": -2.8549999999999973
+        },
+        {
+          "team": 3024,
+          "alliance": "blue",
+          "epr_change": -2.8549999999999973
+        },
+        {
+          "team": 2990,
+          "alliance": "red",
+          "epr_change": 1.9419999999999997
+        },
+        {
+          "team": 1540,
+          "alliance": "red",
+          "epr_change": 1.9419999999999997
+        },
+        {
+          "team": 5937,
+          "alliance": "red",
+          "epr_change": 1.9419999999999997
+        }
+      ]
+    },
+    {
+      "match_number": 23,
+      "match_key": "2026orwil_qm23",
+      "red_net_epa": -29.46999999999999,
+      "blue_net_epa": 1.3200000000000074,
+      "margin": 0.3,
+      "teams": [
+        {
+          "team": 3574,
+          "alliance": "blue",
+          "epr_change": 2.946999999999999
+        },
+        {
+          "team": 2471,
+          "alliance": "blue",
+          "epr_change": 2.946999999999999
+        },
+        {
+          "team": 9438,
+          "alliance": "blue",
+          "epr_change": 2.946999999999999
+        },
+        {
+          "team": 1425,
+          "alliance": "red",
+          "epr_change": -0.13200000000000073
+        },
+        {
+          "team": 2635,
+          "alliance": "red",
+          "epr_change": -0.13200000000000073
+        },
+        {
+          "team": 9600,
+          "alliance": "red",
+          "epr_change": -0.13200000000000073
+        }
+      ]
+    },
+    {
+      "match_number": 24,
+      "match_key": "2026orwil_qm24",
+      "red_net_epa": -16.020000000000003,
+      "blue_net_epa": -3.6299999999999955,
+      "margin": 0.3,
+      "teams": [
+        {
+          "team": 4513,
+          "alliance": "blue",
+          "epr_change": 1.602
+        },
+        {
+          "team": 4488,
+          "alliance": "blue",
+          "epr_change": 1.602
+        },
+        {
+          "team": 5970,
+          "alliance": "blue",
+          "epr_change": 1.602
+        },
+        {
+          "team": 6831,
+          "alliance": "red",
+          "epr_change": 0.3629999999999995
+        },
+        {
+          "team": 4043,
+          "alliance": "red",
+          "epr_change": 0.3629999999999995
+        },
+        {
+          "team": 2550,
+          "alliance": "red",
+          "epr_change": 0.3629999999999995
+        }
+      ]
+    },
+    {
+      "match_number": 25,
+      "match_key": "2026orwil_qm25",
+      "red_net_epa": -17.080000000000005,
+      "blue_net_epa": 27.189999999999998,
+      "margin": 0.3,
+      "teams": [
+        {
+          "team": 2915,
+          "alliance": "blue",
+          "epr_change": 1.7080000000000004
+        },
+        {
+          "team": 957,
+          "alliance": "blue",
+          "epr_change": 1.7080000000000004
+        },
+        {
+          "team": 6696,
+          "alliance": "blue",
+          "epr_change": 1.7080000000000004
+        },
+        {
+          "team": 10444,
+          "alliance": "red",
+          "epr_change": -2.719
+        },
+        {
+          "team": 3636,
+          "alliance": "red",
+          "epr_change": -2.719
+        },
+        {
+          "team": 847,
+          "alliance": "red",
+          "epr_change": -2.719
+        }
+      ]
+    },
+    {
+      "match_number": 26,
+      "match_key": "2026orwil_qm26",
+      "red_net_epa": -14.13,
+      "blue_net_epa": 1.8399999999999976,
+      "margin": 0.3,
+      "teams": [
+        {
+          "team": 5975,
+          "alliance": "blue",
+          "epr_change": 1.413
+        },
+        {
+          "team": 3673,
+          "alliance": "blue",
+          "epr_change": 1.413
+        },
+        {
+          "team": 7034,
+          "alliance": "blue",
+          "epr_change": 1.413
+        },
+        {
+          "team": 1595,
+          "alliance": "red",
+          "epr_change": -0.18399999999999975
+        },
+        {
+          "team": 9613,
+          "alliance": "red",
+          "epr_change": -0.18399999999999975
+        },
+        {
+          "team": 2898,
+          "alliance": "red",
+          "epr_change": -0.18399999999999975
+        }
+      ]
+    },
+    {
+      "match_number": 27,
+      "match_key": "2026orwil_qm27",
+      "red_net_epa": -2.620000000000001,
+      "blue_net_epa": -34.41999999999999,
+      "margin": 0.3,
+      "teams": [
+        {
+          "team": 3663,
+          "alliance": "blue",
+          "epr_change": 0.26200000000000007
+        },
+        {
+          "team": 2990,
+          "alliance": "blue",
+          "epr_change": 0.26200000000000007
+        },
+        {
+          "team": 4043,
+          "alliance": "blue",
+          "epr_change": 0.26200000000000007
+        },
+        {
+          "team": 2374,
+          "alliance": "red",
+          "epr_change": 3.441999999999999
+        },
+        {
+          "team": 6343,
+          "alliance": "red",
+          "epr_change": 3.441999999999999
+        },
+        {
+          "team": 9438,
+          "alliance": "red",
+          "epr_change": 3.441999999999999
+        }
+      ]
+    },
+    {
+      "match_number": 28,
+      "match_key": "2026orwil_qm28",
+      "red_net_epa": 6.829999999999995,
+      "blue_net_epa": -4.159999999999995,
+      "margin": 0.3,
+      "teams": [
+        {
+          "team": 3024,
+          "alliance": "blue",
+          "epr_change": -0.6829999999999995
+        },
+        {
+          "team": 2915,
+          "alliance": "blue",
+          "epr_change": -0.6829999999999995
+        },
+        {
+          "team": 4488,
+          "alliance": "blue",
+          "epr_change": -0.6829999999999995
+        },
+        {
+          "team": 2635,
+          "alliance": "red",
+          "epr_change": 0.4159999999999995
+        },
+        {
+          "team": 4513,
+          "alliance": "red",
+          "epr_change": 0.4159999999999995
+        },
+        {
+          "team": 3636,
+          "alliance": "red",
+          "epr_change": 0.4159999999999995
+        }
+      ]
+    },
+    {
+      "match_number": 29,
+      "match_key": "2026orwil_qm29",
+      "red_net_epa": -9.05,
+      "blue_net_epa": 28.820000000000007,
+      "margin": 0.3,
+      "teams": [
+        {
+          "team": 5937,
+          "alliance": "blue",
+          "epr_change": 0.905
+        },
+        {
+          "team": 957,
+          "alliance": "blue",
+          "epr_change": 0.905
+        },
+        {
+          "team": 7034,
+          "alliance": "blue",
+          "epr_change": 0.905
+        },
+        {
+          "team": 3574,
+          "alliance": "red",
+          "epr_change": -2.8820000000000006
+        },
+        {
+          "team": 2550,
+          "alliance": "red",
+          "epr_change": -2.8820000000000006
+        },
+        {
+          "team": 3673,
+          "alliance": "red",
+          "epr_change": -2.8820000000000006
+        }
+      ]
+    },
+    {
+      "match_number": 30,
+      "match_key": "2026orwil_qm30",
+      "red_net_epa": -9.779999999999998,
+      "blue_net_epa": 41.51000000000002,
+      "margin": 0.3,
+      "teams": [
+        {
+          "team": 1595,
+          "alliance": "blue",
+          "epr_change": 0.9779999999999998
+        },
+        {
+          "team": 5975,
+          "alliance": "blue",
+          "epr_change": 0.9779999999999998
+        },
+        {
+          "team": 1540,
+          "alliance": "blue",
+          "epr_change": 0.9779999999999998
+        },
+        {
+          "team": 2471,
+          "alliance": "red",
+          "epr_change": -4.151000000000002
+        },
+        {
+          "team": 10444,
+          "alliance": "red",
+          "epr_change": -4.151000000000002
+        },
+        {
+          "team": 6343,
+          "alliance": "red",
+          "epr_change": -4.151000000000002
+        }
+      ]
+    },
+    {
+      "match_number": 31,
+      "match_key": "2026orwil_qm31",
+      "red_net_epa": 55.67999999999999,
+      "blue_net_epa": 15.67,
+      "margin": 0.3,
+      "teams": [
+        {
+          "team": 5970,
+          "alliance": "blue",
+          "epr_change": -5.568
+        },
+        {
+          "team": 9613,
+          "alliance": "blue",
+          "epr_change": -5.568
+        },
+        {
+          "team": 2990,
+          "alliance": "blue",
+          "epr_change": -5.568
+        },
+        {
+          "team": 6696,
+          "alliance": "red",
+          "epr_change": -1.567
+        },
+        {
+          "team": 1425,
+          "alliance": "red",
+          "epr_change": -1.567
+        },
+        {
+          "team": 2898,
+          "alliance": "red",
+          "epr_change": -1.567
+        }
+      ]
+    },
+    {
+      "match_number": 32,
+      "match_key": "2026orwil_qm32",
+      "red_net_epa": -37.97999999999999,
+      "blue_net_epa": 3.739999999999995,
+      "margin": 0.3,
+      "teams": [
+        {
+          "team": 4662,
+          "alliance": "blue",
+          "epr_change": 3.7979999999999987
+        },
+        {
+          "team": 847,
+          "alliance": "blue",
+          "epr_change": 3.7979999999999987
+        },
+        {
+          "team": 2374,
+          "alliance": "blue",
+          "epr_change": 3.7979999999999987
+        },
+        {
+          "team": 6831,
+          "alliance": "red",
+          "epr_change": -0.3739999999999995
+        },
+        {
+          "team": 3663,
+          "alliance": "red",
+          "epr_change": -0.3739999999999995
+        },
+        {
+          "team": 9600,
+          "alliance": "red",
+          "epr_change": -0.3739999999999995
+        }
+      ]
+    },
+    {
+      "match_number": 33,
+      "match_key": "2026orwil_qm33",
+      "red_net_epa": 26.68000000000001,
+      "blue_net_epa": 7.670000000000002,
+      "margin": 0.3,
+      "teams": [
+        {
+          "team": 5975,
+          "alliance": "blue",
+          "epr_change": -2.6680000000000006
+        },
+        {
+          "team": 4043,
+          "alliance": "blue",
+          "epr_change": -2.6680000000000006
+        },
+        {
+          "team": 4513,
+          "alliance": "blue",
+          "epr_change": -2.6680000000000006
+        },
+        {
+          "team": 10444,
+          "alliance": "red",
+          "epr_change": -0.7670000000000001
+        },
+        {
+          "team": 1540,
+          "alliance": "red",
+          "epr_change": -0.7670000000000001
+        },
+        {
+          "team": 3673,
+          "alliance": "red",
+          "epr_change": -0.7670000000000001
+        }
+      ]
+    },
+    {
+      "match_number": 34,
+      "match_key": "2026orwil_qm34",
+      "red_net_epa": -5.520000000000003,
+      "blue_net_epa": 20.61,
+      "margin": 0.3,
+      "teams": [
+        {
+          "team": 6343,
+          "alliance": "blue",
+          "epr_change": 0.5520000000000003
+        },
+        {
+          "team": 1595,
+          "alliance": "blue",
+          "epr_change": 0.5520000000000003
+        },
+        {
+          "team": 3636,
+          "alliance": "blue",
+          "epr_change": 0.5520000000000003
+        },
+        {
+          "team": 5970,
+          "alliance": "red",
+          "epr_change": -2.061
+        },
+        {
+          "team": 2471,
+          "alliance": "red",
+          "epr_change": -2.061
+        },
+        {
+          "team": 2915,
+          "alliance": "red",
+          "epr_change": -2.061
+        }
+      ]
+    },
+    {
+      "match_number": 35,
+      "match_key": "2026orwil_qm35",
+      "red_net_epa": 4.400000000000006,
+      "blue_net_epa": 19.749999999999996,
+      "margin": 0.3,
+      "teams": [
+        {
+          "team": 4488,
+          "alliance": "blue",
+          "epr_change": -0.44000000000000056
+        },
+        {
+          "team": 5937,
+          "alliance": "blue",
+          "epr_change": -0.44000000000000056
+        },
+        {
+          "team": 2635,
+          "alliance": "blue",
+          "epr_change": -0.44000000000000056
+        },
+        {
+          "team": 7034,
+          "alliance": "red",
+          "epr_change": -1.9749999999999996
+        },
+        {
+          "team": 2374,
+          "alliance": "red",
+          "epr_change": -1.9749999999999996
+        },
+        {
+          "team": 9613,
+          "alliance": "red",
+          "epr_change": -1.9749999999999996
+        }
+      ]
+    },
+    {
+      "match_number": 36,
+      "match_key": "2026orwil_qm36",
+      "red_net_epa": -15.39,
+      "blue_net_epa": -4.990000000000009,
+      "margin": 0.3,
+      "teams": [
+        {
+          "team": 847,
+          "alliance": "blue",
+          "epr_change": 1.539
+        },
+        {
+          "team": 9438,
+          "alliance": "blue",
+          "epr_change": 1.539
+        },
+        {
+          "team": 3663,
+          "alliance": "blue",
+          "epr_change": 1.539
+        },
+        {
+          "team": 2898,
+          "alliance": "red",
+          "epr_change": 0.4990000000000009
+        },
+        {
+          "team": 3574,
+          "alliance": "red",
+          "epr_change": 0.4990000000000009
+        },
+        {
+          "team": 4662,
+          "alliance": "red",
+          "epr_change": 0.4990000000000009
+        }
+      ]
+    },
+    {
+      "match_number": 37,
+      "match_key": "2026orwil_qm37",
+      "red_net_epa": 31.530000000000012,
+      "blue_net_epa": 8.75999999999999,
+      "margin": 0.3,
+      "teams": [
+        {
+          "team": 9600,
+          "alliance": "blue",
+          "epr_change": -3.153000000000001
+        },
+        {
+          "team": 2550,
+          "alliance": "blue",
+          "epr_change": -3.153000000000001
+        },
+        {
+          "team": 957,
+          "alliance": "blue",
+          "epr_change": -3.153000000000001
+        },
+        {
+          "team": 2990,
+          "alliance": "red",
+          "epr_change": -0.8759999999999989
+        },
+        {
+          "team": 3024,
+          "alliance": "red",
+          "epr_change": -0.8759999999999989
+        },
+        {
+          "team": 1425,
+          "alliance": "red",
+          "epr_change": -0.8759999999999989
+        }
+      ]
+    },
+    {
+      "match_number": 38,
+      "match_key": "2026orwil_qm38",
+      "red_net_epa": -3.6900000000000053,
+      "blue_net_epa": 16.78999999999998,
+      "margin": 0.3,
+      "teams": [
+        {
+          "team": 4043,
+          "alliance": "blue",
+          "epr_change": 0.3690000000000005
+        },
+        {
+          "team": 6696,
+          "alliance": "blue",
+          "epr_change": 0.3690000000000005
+        },
+        {
+          "team": 1540,
+          "alliance": "blue",
+          "epr_change": 0.3690000000000005
+        },
+        {
+          "team": 3636,
+          "alliance": "red",
+          "epr_change": -1.678999999999998
+        },
+        {
+          "team": 6831,
+          "alliance": "red",
+          "epr_change": -1.678999999999998
+        },
+        {
+          "team": 2915,
+          "alliance": "red",
+          "epr_change": -1.678999999999998
+        }
+      ]
+    },
+    {
+      "match_number": 39,
+      "match_key": "2026orwil_qm39",
+      "red_net_epa": -10.799999999999997,
+      "blue_net_epa": -9.200000000000003,
+      "margin": 0.3,
+      "teams": [
+        {
+          "team": 2374,
+          "alliance": "blue",
+          "epr_change": 1.0799999999999996
+        },
+        {
+          "team": 5975,
+          "alliance": "blue",
+          "epr_change": 1.0799999999999996
+        },
+        {
+          "team": 3574,
+          "alliance": "blue",
+          "epr_change": 1.0799999999999996
+        },
+        {
+          "team": 4662,
+          "alliance": "red",
+          "epr_change": 0.9200000000000003
+        },
+        {
+          "team": 4488,
+          "alliance": "red",
+          "epr_change": 0.9200000000000003
+        },
+        {
+          "team": 3673,
+          "alliance": "red",
+          "epr_change": 0.9200000000000003
+        }
+      ]
+    },
+    {
+      "match_number": 40,
+      "match_key": "2026orwil_qm40",
+      "red_net_epa": 8.859999999999996,
+      "blue_net_epa": -8.380000000000004,
+      "margin": 0.3,
+      "teams": [
+        {
+          "team": 9438,
+          "alliance": "blue",
+          "epr_change": -0.8859999999999996
+        },
+        {
+          "team": 9613,
+          "alliance": "blue",
+          "epr_change": -0.8859999999999996
+        },
+        {
+          "team": 10444,
+          "alliance": "blue",
+          "epr_change": -0.8859999999999996
+        },
+        {
+          "team": 2990,
+          "alliance": "red",
+          "epr_change": 0.8380000000000004
+        },
+        {
+          "team": 1595,
+          "alliance": "red",
+          "epr_change": 0.8380000000000004
+        },
+        {
+          "team": 847,
+          "alliance": "red",
+          "epr_change": 0.8380000000000004
+        }
+      ]
+    },
+    {
+      "match_number": 41,
+      "match_key": "2026orwil_qm41",
+      "red_net_epa": 16.9,
+      "blue_net_epa": 9.299999999999999,
+      "margin": 0.3,
+      "teams": [
+        {
+          "team": 3024,
+          "alliance": "blue",
+          "epr_change": -1.6899999999999997
+        },
+        {
+          "team": 7034,
+          "alliance": "blue",
+          "epr_change": -1.6899999999999997
+        },
+        {
+          "team": 6831,
+          "alliance": "blue",
+          "epr_change": -1.6899999999999997
+        },
+        {
+          "team": 957,
+          "alliance": "red",
+          "epr_change": -0.9299999999999998
+        },
+        {
+          "team": 1425,
+          "alliance": "red",
+          "epr_change": -0.9299999999999998
+        },
+        {
+          "team": 2471,
+          "alliance": "red",
+          "epr_change": -0.9299999999999998
+        }
+      ]
+    },
+    {
+      "match_number": 42,
+      "match_key": "2026orwil_qm42",
+      "red_net_epa": 12.230000000000006,
+      "blue_net_epa": 5.1200000000000045,
+      "margin": 0.3,
+      "teams": [
+        {
+          "team": 3663,
+          "alliance": "blue",
+          "epr_change": -1.2230000000000005
+        },
+        {
+          "team": 6343,
+          "alliance": "blue",
+          "epr_change": -1.2230000000000005
+        },
+        {
+          "team": 4513,
+          "alliance": "blue",
+          "epr_change": -1.2230000000000005
+        },
+        {
+          "team": 9600,
+          "alliance": "red",
+          "epr_change": -0.5120000000000005
+        },
+        {
+          "team": 5937,
+          "alliance": "red",
+          "epr_change": -0.5120000000000005
+        },
+        {
+          "team": 6696,
+          "alliance": "red",
+          "epr_change": -0.5120000000000005
+        }
+      ]
+    },
+    {
+      "match_number": 43,
+      "match_key": "2026orwil_qm43",
+      "red_net_epa": -16.31,
+      "blue_net_epa": -12.29,
+      "margin": 0.3,
+      "teams": [
+        {
+          "team": 2635,
+          "alliance": "blue",
+          "epr_change": 1.631
+        },
+        {
+          "team": 2550,
+          "alliance": "blue",
+          "epr_change": 1.631
+        },
+        {
+          "team": 1595,
+          "alliance": "blue",
+          "epr_change": 1.631
+        },
+        {
+          "team": 3636,
+          "alliance": "red",
+          "epr_change": 1.2289999999999999
+        },
+        {
+          "team": 2898,
+          "alliance": "red",
+          "epr_change": 1.2289999999999999
+        },
+        {
+          "team": 5970,
+          "alliance": "red",
+          "epr_change": 1.2289999999999999
+        }
+      ]
+    },
+    {
+      "match_number": 44,
+      "match_key": "2026orwil_qm44",
+      "red_net_epa": 13.8,
+      "blue_net_epa": -3.2300000000000044,
+      "margin": 0.3,
+      "teams": [
+        {
+          "team": 847,
+          "alliance": "blue",
+          "epr_change": -1.3800000000000001
+        },
+        {
+          "team": 1425,
+          "alliance": "blue",
+          "epr_change": -1.3800000000000001
+        },
+        {
+          "team": 3574,
+          "alliance": "blue",
+          "epr_change": -1.3800000000000001
+        },
+        {
+          "team": 4043,
+          "alliance": "red",
+          "epr_change": 0.32300000000000045
+        },
+        {
+          "team": 2915,
+          "alliance": "red",
+          "epr_change": 0.32300000000000045
+        },
+        {
+          "team": 2374,
+          "alliance": "red",
+          "epr_change": 0.32300000000000045
+        }
+      ]
+    },
+    {
+      "match_number": 45,
+      "match_key": "2026orwil_qm45",
+      "red_net_epa": -10.310000000000015,
+      "blue_net_epa": -11.05,
+      "margin": 0.3,
+      "teams": [
+        {
+          "team": 1540,
+          "alliance": "blue",
+          "epr_change": 1.0310000000000015
+        },
+        {
+          "team": 6343,
+          "alliance": "blue",
+          "epr_change": 1.0310000000000015
+        },
+        {
+          "team": 957,
+          "alliance": "blue",
+          "epr_change": 1.0310000000000015
+        },
+        {
+          "team": 9438,
+          "alliance": "red",
+          "epr_change": 1.105
+        },
+        {
+          "team": 4488,
+          "alliance": "red",
+          "epr_change": 1.105
+        },
+        {
+          "team": 7034,
+          "alliance": "red",
+          "epr_change": 1.105
+        }
+      ]
+    },
+    {
+      "match_number": 46,
+      "match_key": "2026orwil_qm46",
+      "red_net_epa": -7.400000000000002,
+      "blue_net_epa": -6.390000000000004,
+      "margin": 0.3,
+      "teams": [
+        {
+          "team": 5937,
+          "alliance": "blue",
+          "epr_change": 0.7400000000000001
+        },
+        {
+          "team": 3024,
+          "alliance": "blue",
+          "epr_change": 0.7400000000000001
+        },
+        {
+          "team": 10444,
+          "alliance": "blue",
+          "epr_change": 0.7400000000000001
+        },
+        {
+          "team": 3673,
+          "alliance": "red",
+          "epr_change": 0.6390000000000003
+        },
+        {
+          "team": 5970,
+          "alliance": "red",
+          "epr_change": 0.6390000000000003
+        },
+        {
+          "team": 6831,
+          "alliance": "red",
+          "epr_change": 0.6390000000000003
+        }
+      ]
+    },
+    {
+      "match_number": 47,
+      "match_key": "2026orwil_qm47",
+      "red_net_epa": 1.1399999999999988,
+      "blue_net_epa": 25.250000000000007,
+      "margin": 0.3,
+      "teams": [
+        {
+          "team": 2471,
+          "alliance": "blue",
+          "epr_change": -0.11399999999999988
+        },
+        {
+          "team": 3663,
+          "alliance": "blue",
+          "epr_change": -0.11399999999999988
+        },
+        {
+          "team": 2550,
+          "alliance": "blue",
+          "epr_change": -0.11399999999999988
+        },
+        {
+          "team": 5975,
+          "alliance": "red",
+          "epr_change": -2.525000000000001
+        },
+        {
+          "team": 2635,
+          "alliance": "red",
+          "epr_change": -2.525000000000001
+        },
+        {
+          "team": 9613,
+          "alliance": "red",
+          "epr_change": -2.525000000000001
+        }
+      ]
+    },
+    {
+      "match_number": 48,
+      "match_key": "2026orwil_qm48",
+      "red_net_epa": -24.060000000000006,
+      "blue_net_epa": -2.069999999999995,
+      "margin": 0.3,
+      "teams": [
+        {
+          "team": 9600,
+          "alliance": "blue",
+          "epr_change": 2.406
+        },
+        {
+          "team": 4513,
+          "alliance": "blue",
+          "epr_change": 2.406
+        },
+        {
+          "team": 2898,
+          "alliance": "blue",
+          "epr_change": 2.406
+        },
+        {
+          "team": 4662,
+          "alliance": "red",
+          "epr_change": 0.2069999999999995
+        },
+        {
+          "team": 6696,
+          "alliance": "red",
+          "epr_change": 0.2069999999999995
+        },
+        {
+          "team": 2990,
+          "alliance": "red",
+          "epr_change": 0.2069999999999995
+        }
+      ]
+    },
+    {
+      "match_number": 49,
+      "match_key": "2026orwil_qm49",
+      "red_net_epa": -8.84999999999999,
+      "blue_net_epa": 18.86,
+      "margin": 0.3,
+      "teams": [
+        {
+          "team": 2915,
+          "alliance": "blue",
+          "epr_change": 0.8849999999999991
+        },
+        {
+          "team": 5937,
+          "alliance": "blue",
+          "epr_change": 0.8849999999999991
+        },
+        {
+          "team": 3574,
+          "alliance": "blue",
+          "epr_change": 0.8849999999999991
+        },
+        {
+          "team": 1540,
+          "alliance": "red",
+          "epr_change": -1.8859999999999997
+        },
+        {
+          "team": 847,
+          "alliance": "red",
+          "epr_change": -1.8859999999999997
+        },
+        {
+          "team": 7034,
+          "alliance": "red",
+          "epr_change": -1.8859999999999997
+        }
+      ]
+    },
+    {
+      "match_number": 50,
+      "match_key": "2026orwil_qm50",
+      "red_net_epa": -3.7399999999999993,
+      "blue_net_epa": 6.649999999999995,
+      "margin": 0.3,
+      "teams": [
+        {
+          "team": 6343,
+          "alliance": "blue",
+          "epr_change": 0.3739999999999999
+        },
+        {
+          "team": 5970,
+          "alliance": "blue",
+          "epr_change": 0.3739999999999999
+        },
+        {
+          "team": 4043,
+          "alliance": "blue",
+          "epr_change": 0.3739999999999999
+        },
+        {
+          "team": 9613,
+          "alliance": "red",
+          "epr_change": -0.6649999999999995
+        },
+        {
+          "team": 3024,
+          "alliance": "red",
+          "epr_change": -0.6649999999999995
+        },
+        {
+          "team": 957,
+          "alliance": "red",
+          "epr_change": -0.6649999999999995
+        }
+      ]
+    },
+    {
+      "match_number": 51,
+      "match_key": "2026orwil_qm51",
+      "red_net_epa": -0.7600000000000051,
+      "blue_net_epa": -2.879999999999999,
+      "margin": 0.3,
+      "teams": [
+        {
+          "team": 6831,
+          "alliance": "blue",
+          "epr_change": 0.0760000000000005
+        },
+        {
+          "team": 2898,
+          "alliance": "blue",
+          "epr_change": 0.0760000000000005
+        },
+        {
+          "team": 2990,
+          "alliance": "blue",
+          "epr_change": 0.0760000000000005
+        },
+        {
+          "team": 2374,
+          "alliance": "red",
+          "epr_change": 0.28799999999999987
+        },
+        {
+          "team": 2635,
+          "alliance": "red",
+          "epr_change": 0.28799999999999987
+        },
+        {
+          "team": 3663,
+          "alliance": "red",
+          "epr_change": 0.28799999999999987
+        }
+      ]
+    },
+    {
+      "match_number": 52,
+      "match_key": "2026orwil_qm52",
+      "red_net_epa": -0.3999999999999915,
+      "blue_net_epa": 4.050000000000001,
+      "margin": 0.3,
+      "teams": [
+        {
+          "team": 1595,
+          "alliance": "blue",
+          "epr_change": 0.03999999999999915
+        },
+        {
+          "team": 10444,
+          "alliance": "blue",
+          "epr_change": 0.03999999999999915
+        },
+        {
+          "team": 9600,
+          "alliance": "blue",
+          "epr_change": 0.03999999999999915
+        },
+        {
+          "team": 3636,
+          "alliance": "red",
+          "epr_change": -0.4050000000000001
+        },
+        {
+          "team": 4488,
+          "alliance": "red",
+          "epr_change": -0.4050000000000001
+        },
+        {
+          "team": 1425,
+          "alliance": "red",
+          "epr_change": -0.4050000000000001
+        }
+      ]
+    },
+    {
+      "match_number": 53,
+      "match_key": "2026orwil_qm53",
+      "red_net_epa": -2.5799999999999987,
+      "blue_net_epa": 4.370000000000003,
+      "margin": 0.3,
+      "teams": [
+        {
+          "team": 3673,
+          "alliance": "blue",
+          "epr_change": 0.25799999999999984
+        },
+        {
+          "team": 2471,
+          "alliance": "blue",
+          "epr_change": 0.25799999999999984
+        },
+        {
+          "team": 9438,
+          "alliance": "blue",
+          "epr_change": 0.25799999999999984
+        },
+        {
+          "team": 4513,
+          "alliance": "red",
+          "epr_change": -0.4370000000000003
+        },
+        {
+          "team": 4662,
+          "alliance": "red",
+          "epr_change": -0.4370000000000003
+        },
+        {
+          "team": 2550,
+          "alliance": "red",
+          "epr_change": -0.4370000000000003
+        }
+      ]
+    },
+    {
+      "match_number": 54,
+      "match_key": "2026orwil_qm54",
+      "red_net_epa": -8.530000000000001,
+      "blue_net_epa": 5.720000000000011,
+      "margin": 0.3,
+      "teams": [
+        {
+          "team": 6696,
+          "alliance": "blue",
+          "epr_change": 0.8530000000000001
+        },
+        {
+          "team": 5970,
+          "alliance": "blue",
+          "epr_change": 0.8530000000000001
+        },
+        {
+          "team": 2635,
+          "alliance": "blue",
+          "epr_change": 0.8530000000000001
+        },
+        {
+          "team": 5975,
+          "alliance": "red",
+          "epr_change": -0.5720000000000012
+        },
+        {
+          "team": 2990,
+          "alliance": "red",
+          "epr_change": -0.5720000000000012
+        },
+        {
+          "team": 6343,
+          "alliance": "red",
+          "epr_change": -0.5720000000000012
+        }
+      ]
+    },
+    {
+      "match_number": 55,
+      "match_key": "2026orwil_qm55",
+      "red_net_epa": -17.799999999999983,
+      "blue_net_epa": -5.600000000000004,
+      "margin": 0.3,
+      "teams": [
+        {
+          "team": 957,
+          "alliance": "blue",
+          "epr_change": 1.7799999999999983
+        },
+        {
+          "team": 3574,
+          "alliance": "blue",
+          "epr_change": 1.7799999999999983
+        },
+        {
+          "team": 3636,
+          "alliance": "blue",
+          "epr_change": 1.7799999999999983
+        },
+        {
+          "team": 5937,
+          "alliance": "red",
+          "epr_change": 0.5600000000000004
+        },
+        {
+          "team": 2374,
+          "alliance": "red",
+          "epr_change": 0.5600000000000004
+        },
+        {
+          "team": 1595,
+          "alliance": "red",
+          "epr_change": 0.5600000000000004
+        }
+      ]
+    },
+    {
+      "match_number": 56,
+      "match_key": "2026orwil_qm56",
+      "red_net_epa": 5.539999999999997,
+      "blue_net_epa": 0.08999999999999186,
+      "margin": 0.3,
+      "teams": [
+        {
+          "team": 9613,
+          "alliance": "blue",
+          "epr_change": -0.5539999999999997
+        },
+        {
+          "team": 6831,
+          "alliance": "blue",
+          "epr_change": -0.5539999999999997
+        },
+        {
+          "team": 4488,
+          "alliance": "blue",
+          "epr_change": -0.5539999999999997
+        },
+        {
+          "team": 9438,
+          "alliance": "red",
+          "epr_change": -0.008999999999999186
+        },
+        {
+          "team": 2915,
+          "alliance": "red",
+          "epr_change": -0.008999999999999186
+        },
+        {
+          "team": 4513,
+          "alliance": "red",
+          "epr_change": -0.008999999999999186
+        }
+      ]
+    },
+    {
+      "match_number": 57,
+      "match_key": "2026orwil_qm57",
+      "red_net_epa": 0.7199999999999989,
+      "blue_net_epa": -1.1600000000000001,
+      "margin": 0.3,
+      "teams": [
+        {
+          "team": 2550,
+          "alliance": "blue",
+          "epr_change": -0.07199999999999988
+        },
+        {
+          "team": 847,
+          "alliance": "blue",
+          "epr_change": -0.07199999999999988
+        },
+        {
+          "team": 6696,
+          "alliance": "blue",
+          "epr_change": -0.07199999999999988
+        },
+        {
+          "team": 1540,
+          "alliance": "red",
+          "epr_change": 0.116
+        },
+        {
+          "team": 9600,
+          "alliance": "red",
+          "epr_change": 0.116
+        },
+        {
+          "team": 3024,
+          "alliance": "red",
+          "epr_change": 0.116
+        }
+      ]
+    },
+    {
+      "match_number": 58,
+      "match_key": "2026orwil_qm58",
+      "red_net_epa": 25.629999999999992,
+      "blue_net_epa": -9.59999999999999,
+      "margin": 0.3,
+      "teams": [
+        {
+          "team": 2898,
+          "alliance": "blue",
+          "epr_change": -2.5629999999999993
+        },
+        {
+          "team": 7034,
+          "alliance": "blue",
+          "epr_change": -2.5629999999999993
+        },
+        {
+          "team": 10444,
+          "alliance": "blue",
+          "epr_change": -2.5629999999999993
+        },
+        {
+          "team": 2471,
+          "alliance": "red",
+          "epr_change": 0.9599999999999991
+        },
+        {
+          "team": 4662,
+          "alliance": "red",
+          "epr_change": 0.9599999999999991
+        },
+        {
+          "team": 5975,
+          "alliance": "red",
+          "epr_change": 0.9599999999999991
+        }
+      ]
+    },
+    {
+      "match_number": 59,
+      "match_key": "2026orwil_qm59",
+      "red_net_epa": -16.0,
+      "blue_net_epa": -10.869999999999992,
+      "margin": 0.3,
+      "teams": [
+        {
+          "team": 4043,
+          "alliance": "blue",
+          "epr_change": 1.5999999999999999
+        },
+        {
+          "team": 1425,
+          "alliance": "blue",
+          "epr_change": 1.5999999999999999
+        },
+        {
+          "team": 9613,
+          "alliance": "blue",
+          "epr_change": 1.5999999999999999
+        },
+        {
+          "team": 3673,
+          "alliance": "red",
+          "epr_change": 1.0869999999999993
+        },
+        {
+          "team": 3636,
+          "alliance": "red",
+          "epr_change": 1.0869999999999993
+        },
+        {
+          "team": 3663,
+          "alliance": "red",
+          "epr_change": 1.0869999999999993
+        }
+      ]
+    },
+    {
+      "match_number": 60,
+      "match_key": "2026orwil_qm60",
+      "red_net_epa": 3.4799999999999915,
+      "blue_net_epa": -8.349999999999994,
+      "margin": 0.3,
+      "teams": [
+        {
+          "team": 4488,
+          "alliance": "blue",
+          "epr_change": -0.34799999999999914
+        },
+        {
+          "team": 3574,
+          "alliance": "blue",
+          "epr_change": -0.34799999999999914
+        },
+        {
+          "team": 1595,
+          "alliance": "blue",
+          "epr_change": -0.34799999999999914
+        },
+        {
+          "team": 6696,
+          "alliance": "red",
+          "epr_change": 0.8349999999999994
+        },
+        {
+          "team": 3024,
+          "alliance": "red",
+          "epr_change": 0.8349999999999994
+        },
+        {
+          "team": 4513,
+          "alliance": "red",
+          "epr_change": 0.8349999999999994
+        }
+      ]
+    },
+    {
+      "match_number": 61,
+      "match_key": "2026orwil_qm61",
+      "red_net_epa": -8.680000000000003,
+      "blue_net_epa": 8.549999999999995,
+      "margin": 0.3,
+      "teams": [
+        {
+          "team": 5970,
+          "alliance": "blue",
+          "epr_change": 0.8680000000000003
+        },
+        {
+          "team": 4662,
+          "alliance": "blue",
+          "epr_change": 0.8680000000000003
+        },
+        {
+          "team": 1540,
+          "alliance": "blue",
+          "epr_change": 0.8680000000000003
+        },
+        {
+          "team": 2550,
+          "alliance": "red",
+          "epr_change": -0.8549999999999994
+        },
+        {
+          "team": 2990,
+          "alliance": "red",
+          "epr_change": -0.8549999999999994
+        },
+        {
+          "team": 2374,
+          "alliance": "red",
+          "epr_change": -0.8549999999999994
+        }
+      ]
+    },
+    {
+      "match_number": 62,
+      "match_key": "2026orwil_qm62",
+      "red_net_epa": 4.829999999999988,
+      "blue_net_epa": -1.6799999999999962,
+      "margin": 0.3,
+      "teams": [
+        {
+          "team": 847,
+          "alliance": "blue",
+          "epr_change": -0.48299999999999876
+        },
+        {
+          "team": 2471,
+          "alliance": "blue",
+          "epr_change": -0.48299999999999876
+        },
+        {
+          "team": 2635,
+          "alliance": "blue",
+          "epr_change": -0.48299999999999876
+        },
+        {
+          "team": 6343,
+          "alliance": "red",
+          "epr_change": 0.16799999999999962
+        },
+        {
+          "team": 7034,
+          "alliance": "red",
+          "epr_change": 0.16799999999999962
+        },
+        {
+          "team": 1425,
+          "alliance": "red",
+          "epr_change": 0.16799999999999962
+        }
+      ]
+    },
+    {
+      "match_number": 63,
+      "match_key": "2026orwil_qm63",
+      "red_net_epa": 3.8500000000000014,
+      "blue_net_epa": -5.849999999999998,
+      "margin": 0.3,
+      "teams": [
+        {
+          "team": 2915,
+          "alliance": "blue",
+          "epr_change": -0.3850000000000002
+        },
+        {
+          "team": 5975,
+          "alliance": "blue",
+          "epr_change": -0.3850000000000002
+        },
+        {
+          "team": 2898,
+          "alliance": "blue",
+          "epr_change": -0.3850000000000002
+        },
+        {
+          "team": 6831,
+          "alliance": "red",
+          "epr_change": 0.5849999999999997
+        },
+        {
+          "team": 9438,
+          "alliance": "red",
+          "epr_change": 0.5849999999999997
+        },
+        {
+          "team": 5937,
+          "alliance": "red",
+          "epr_change": 0.5849999999999997
+        }
+      ]
+    },
+    {
+      "match_number": 64,
+      "match_key": "2026orwil_qm64",
+      "red_net_epa": -30.090000000000003,
+      "blue_net_epa": -1.8899999999999988,
+      "margin": 0.3,
+      "teams": [
+        {
+          "team": 3673,
+          "alliance": "blue",
+          "epr_change": 3.0090000000000003
+        },
+        {
+          "team": 4043,
+          "alliance": "blue",
+          "epr_change": 3.0090000000000003
+        },
+        {
+          "team": 9600,
+          "alliance": "blue",
+          "epr_change": 3.0090000000000003
+        },
+        {
+          "team": 3663,
+          "alliance": "red",
+          "epr_change": 0.18899999999999986
+        },
+        {
+          "team": 10444,
+          "alliance": "red",
+          "epr_change": 0.18899999999999986
+        },
+        {
+          "team": 957,
+          "alliance": "red",
+          "epr_change": 0.18899999999999986
+        }
+      ]
+    },
+    {
+      "match_number": 65,
+      "match_key": "2026orwil_sf1m1",
+      "red_net_epa": 4.870000000000008,
+      "blue_net_epa": -3.230000000000004,
+      "margin": 0.3,
+      "teams": [
+        {
+          "team": 4043,
+          "alliance": "blue",
+          "epr_change": -0.48700000000000077
+        },
+        {
+          "team": 4488,
+          "alliance": "blue",
+          "epr_change": -0.48700000000000077
+        },
+        {
+          "team": 3636,
+          "alliance": "blue",
+          "epr_change": -0.48700000000000077
+        },
+        {
+          "team": 6696,
+          "alliance": "red",
+          "epr_change": 0.3230000000000004
+        },
+        {
+          "team": 3673,
+          "alliance": "red",
+          "epr_change": 0.3230000000000004
+        },
+        {
+          "team": 1540,
+          "alliance": "red",
+          "epr_change": 0.3230000000000004
+        }
+      ]
+    },
+    {
+      "match_number": 66,
+      "match_key": "2026orwil_sf2m1",
+      "red_net_epa": 0.1500000000000128,
+      "blue_net_epa": 2.129999999999999,
+      "margin": 0.3,
+      "teams": [
+        {
+          "team": 847,
+          "alliance": "blue",
+          "epr_change": -0.015000000000001278
+        },
+        {
+          "team": 2471,
+          "alliance": "blue",
+          "epr_change": -0.015000000000001278
+        },
+        {
+          "team": 3663,
+          "alliance": "blue",
+          "epr_change": -0.015000000000001278
+        },
+        {
+          "team": 957,
+          "alliance": "red",
+          "epr_change": -0.21299999999999988
+        },
+        {
+          "team": 2550,
+          "alliance": "red",
+          "epr_change": -0.21299999999999988
+        },
+        {
+          "team": 2374,
+          "alliance": "red",
+          "epr_change": -0.21299999999999988
+        }
+      ]
+    },
+    {
+      "match_number": 67,
+      "match_key": "2026orwil_sf3m1",
+      "red_net_epa": 2.369999999999999,
+      "blue_net_epa": -1.9000000000000057,
+      "margin": 0.3,
+      "teams": [
+        {
+          "team": 6343,
+          "alliance": "blue",
+          "epr_change": -0.2369999999999999
+        },
+        {
+          "team": 2990,
+          "alliance": "blue",
+          "epr_change": -0.2369999999999999
+        },
+        {
+          "team": 7034,
+          "alliance": "blue",
+          "epr_change": -0.2369999999999999
+        },
+        {
+          "team": 5970,
+          "alliance": "red",
+          "epr_change": 0.19000000000000056
+        },
+        {
+          "team": 1425,
+          "alliance": "red",
+          "epr_change": 0.19000000000000056
+        },
+        {
+          "team": 5937,
+          "alliance": "red",
+          "epr_change": 0.19000000000000056
+        }
+      ]
+    },
+    {
+      "match_number": 68,
+      "match_key": "2026orwil_sf4m1",
+      "red_net_epa": -1.8299999999999992,
+      "blue_net_epa": 2.039999999999999,
+      "margin": 0.3,
+      "teams": [
+        {
+          "team": 9438,
+          "alliance": "blue",
+          "epr_change": 0.1829999999999999
+        },
+        {
+          "team": 2635,
+          "alliance": "blue",
+          "epr_change": 0.1829999999999999
+        },
+        {
+          "team": 9600,
+          "alliance": "blue",
+          "epr_change": 0.1829999999999999
+        },
+        {
+          "team": 10444,
+          "alliance": "red",
+          "epr_change": -0.2039999999999999
+        },
+        {
+          "team": 1595,
+          "alliance": "red",
+          "epr_change": -0.2039999999999999
+        },
+        {
+          "team": 4513,
+          "alliance": "red",
+          "epr_change": -0.2039999999999999
+        }
+      ]
+    },
+    {
+      "match_number": 69,
+      "match_key": "2026orwil_sf5m1",
+      "red_net_epa": 3.520000000000003,
+      "blue_net_epa": -3.0,
+      "margin": 0.3,
+      "teams": [
+        {
+          "team": 2550,
+          "alliance": "blue",
+          "epr_change": -0.3520000000000003
+        },
+        {
+          "team": 957,
+          "alliance": "blue",
+          "epr_change": -0.3520000000000003
+        },
+        {
+          "team": 2374,
+          "alliance": "blue",
+          "epr_change": -0.3520000000000003
+        },
+        {
+          "team": 3636,
+          "alliance": "red",
+          "epr_change": 0.3
+        },
+        {
+          "team": 4488,
+          "alliance": "red",
+          "epr_change": 0.3
+        },
+        {
+          "team": 4043,
+          "alliance": "red",
+          "epr_change": 0.3
+        }
+      ]
+    },
+    {
+      "match_number": 70,
+      "match_key": "2026orwil_sf6m1",
+      "red_net_epa": 7.690000000000012,
+      "blue_net_epa": -2.9100000000000046,
+      "margin": 0.3,
+      "teams": [
+        {
+          "team": 10444,
+          "alliance": "blue",
+          "epr_change": -0.7690000000000012
+        },
+        {
+          "team": 1595,
+          "alliance": "blue",
+          "epr_change": -0.7690000000000012
+        },
+        {
+          "team": 4513,
+          "alliance": "blue",
+          "epr_change": -0.7690000000000012
+        },
+        {
+          "team": 6343,
+          "alliance": "red",
+          "epr_change": 0.2910000000000004
+        },
+        {
+          "team": 2990,
+          "alliance": "red",
+          "epr_change": 0.2910000000000004
+        },
+        {
+          "team": 7034,
+          "alliance": "red",
+          "epr_change": 0.2910000000000004
+        }
+      ]
+    },
+    {
+      "match_number": 71,
+      "match_key": "2026orwil_sf7m1",
+      "red_net_epa": 6.469999999999992,
+      "blue_net_epa": 1.4600000000000044,
+      "margin": 0.3,
+      "teams": [
+        {
+          "team": 847,
+          "alliance": "blue",
+          "epr_change": -0.6469999999999992
+        },
+        {
+          "team": 2471,
+          "alliance": "blue",
+          "epr_change": -0.6469999999999992
+        },
+        {
+          "team": 3663,
+          "alliance": "blue",
+          "epr_change": -0.6469999999999992
+        },
+        {
+          "team": 6696,
+          "alliance": "red",
+          "epr_change": -0.14600000000000043
+        },
+        {
+          "team": 3673,
+          "alliance": "red",
+          "epr_change": -0.14600000000000043
+        },
+        {
+          "team": 1540,
+          "alliance": "red",
+          "epr_change": -0.14600000000000043
+        }
+      ]
+    },
+    {
+      "match_number": 72,
+      "match_key": "2026orwil_sf8m1",
+      "red_net_epa": 2.3400000000000016,
+      "blue_net_epa": -0.030000000000001137,
+      "margin": 0.3,
+      "teams": [
+        {
+          "team": 9438,
+          "alliance": "blue",
+          "epr_change": -0.23400000000000015
+        },
+        {
+          "team": 2635,
+          "alliance": "blue",
+          "epr_change": -0.23400000000000015
+        },
+        {
+          "team": 9600,
+          "alliance": "blue",
+          "epr_change": -0.23400000000000015
+        },
+        {
+          "team": 5970,
+          "alliance": "red",
+          "epr_change": 0.0030000000000001133
+        },
+        {
+          "team": 1425,
+          "alliance": "red",
+          "epr_change": 0.0030000000000001133
+        },
+        {
+          "team": 5937,
+          "alliance": "red",
+          "epr_change": 0.0030000000000001133
+        }
+      ]
+    },
+    {
+      "match_number": 73,
+      "match_key": "2026orwil_sf9m1",
+      "red_net_epa": 0.30000000000000426,
+      "blue_net_epa": 3.3200000000000003,
+      "margin": 0.3,
+      "teams": [
+        {
+          "team": 6343,
+          "alliance": "blue",
+          "epr_change": -0.030000000000000426
+        },
+        {
+          "team": 2990,
+          "alliance": "blue",
+          "epr_change": -0.030000000000000426
+        },
+        {
+          "team": 7034,
+          "alliance": "blue",
+          "epr_change": -0.030000000000000426
+        },
+        {
+          "team": 847,
+          "alliance": "red",
+          "epr_change": -0.332
+        },
+        {
+          "team": 2471,
+          "alliance": "red",
+          "epr_change": -0.332
+        },
+        {
+          "team": 3663,
+          "alliance": "red",
+          "epr_change": -0.332
+        }
+      ]
+    },
+    {
+      "match_number": 74,
+      "match_key": "2026orwil_sf10m1",
+      "red_net_epa": 0.5100000000000016,
+      "blue_net_epa": 2.129999999999999,
+      "margin": 0.3,
+      "teams": [
+        {
+          "team": 3636,
+          "alliance": "blue",
+          "epr_change": -0.05100000000000015
+        },
+        {
+          "team": 4488,
+          "alliance": "blue",
+          "epr_change": -0.05100000000000015
+        },
+        {
+          "team": 4043,
+          "alliance": "blue",
+          "epr_change": -0.05100000000000015
+        },
+        {
+          "team": 9438,
+          "alliance": "red",
+          "epr_change": -0.21299999999999988
+        },
+        {
+          "team": 2635,
+          "alliance": "red",
+          "epr_change": -0.21299999999999988
+        },
+        {
+          "team": 9600,
+          "alliance": "red",
+          "epr_change": -0.21299999999999988
+        }
+      ]
+    },
+    {
+      "match_number": 75,
+      "match_key": "2026orwil_sf11m1",
+      "red_net_epa": -2.88999999999999,
+      "blue_net_epa": 1.239999999999993,
+      "margin": 0.3,
+      "teams": [
+        {
+          "team": 5970,
+          "alliance": "blue",
+          "epr_change": 0.288999999999999
+        },
+        {
+          "team": 1425,
+          "alliance": "blue",
+          "epr_change": 0.288999999999999
+        },
+        {
+          "team": 5937,
+          "alliance": "blue",
+          "epr_change": 0.288999999999999
+        },
+        {
+          "team": 6696,
+          "alliance": "red",
+          "epr_change": -0.1239999999999993
+        },
+        {
+          "team": 3673,
+          "alliance": "red",
+          "epr_change": -0.1239999999999993
+        },
+        {
+          "team": 1540,
+          "alliance": "red",
+          "epr_change": -0.1239999999999993
+        }
+      ]
+    },
+    {
+      "match_number": 76,
+      "match_key": "2026orwil_sf12m1",
+      "red_net_epa": 2.0699999999999967,
+      "blue_net_epa": -2.1900000000000084,
+      "margin": 0.3,
+      "teams": [
+        {
+          "team": 847,
+          "alliance": "blue",
+          "epr_change": -0.20699999999999968
+        },
+        {
+          "team": 2471,
+          "alliance": "blue",
+          "epr_change": -0.20699999999999968
+        },
+        {
+          "team": 3663,
+          "alliance": "blue",
+          "epr_change": -0.20699999999999968
+        },
+        {
+          "team": 3636,
+          "alliance": "red",
+          "epr_change": 0.21900000000000083
+        },
+        {
+          "team": 4488,
+          "alliance": "red",
+          "epr_change": 0.21900000000000083
+        },
+        {
+          "team": 4043,
+          "alliance": "red",
+          "epr_change": 0.21900000000000083
+        }
+      ]
+    },
+    {
+      "match_number": 77,
+      "match_key": "2026orwil_sf13m1",
+      "red_net_epa": 2.7600000000000033,
+      "blue_net_epa": 2.9500000000000064,
+      "margin": 0.3,
+      "teams": [
+        {
+          "team": 847,
+          "alliance": "blue",
+          "epr_change": -0.27600000000000036
+        },
+        {
+          "team": 2471,
+          "alliance": "blue",
+          "epr_change": -0.27600000000000036
+        },
+        {
+          "team": 3663,
+          "alliance": "blue",
+          "epr_change": -0.27600000000000036
+        },
+        {
+          "team": 5970,
+          "alliance": "red",
+          "epr_change": -0.29500000000000065
+        },
+        {
+          "team": 1425,
+          "alliance": "red",
+          "epr_change": -0.29500000000000065
+        },
+        {
+          "team": 5937,
+          "alliance": "red",
+          "epr_change": -0.29500000000000065
+        }
+      ]
+    },
+    {
+      "match_number": 78,
+      "match_key": "2026orwil_f1m1",
+      "red_net_epa": 0.4300000000000068,
+      "blue_net_epa": 1.3199999999999967,
+      "margin": 0.3,
+      "teams": [
+        {
+          "team": 5970,
+          "alliance": "blue",
+          "epr_change": -0.043000000000000684
+        },
+        {
+          "team": 1425,
+          "alliance": "blue",
+          "epr_change": -0.043000000000000684
+        },
+        {
+          "team": 5937,
+          "alliance": "blue",
+          "epr_change": -0.043000000000000684
+        },
+        {
+          "team": 6696,
+          "alliance": "red",
+          "epr_change": -0.13199999999999967
+        },
+        {
+          "team": 3673,
+          "alliance": "red",
+          "epr_change": -0.13199999999999967
+        },
+        {
+          "team": 1540,
+          "alliance": "red",
+          "epr_change": -0.13199999999999967
+        }
+      ]
+    },
+    {
+      "match_number": 79,
+      "match_key": "2026orwil_f1m2",
+      "red_net_epa": 4.480000000000004,
+      "blue_net_epa": 2.899999999999997,
+      "margin": 0.3,
+      "teams": [
+        {
+          "team": 5970,
+          "alliance": "blue",
+          "epr_change": -0.4480000000000004
+        },
+        {
+          "team": 1425,
+          "alliance": "blue",
+          "epr_change": -0.4480000000000004
+        },
+        {
+          "team": 5937,
+          "alliance": "blue",
+          "epr_change": -0.4480000000000004
+        },
+        {
+          "team": 6696,
+          "alliance": "red",
+          "epr_change": -0.28999999999999965
+        },
+        {
+          "team": 3673,
+          "alliance": "red",
+          "epr_change": -0.28999999999999965
+        },
+        {
+          "team": 1540,
+          "alliance": "red",
+          "epr_change": -0.28999999999999965
+        }
+      ]
+    }
+  ]
+}
