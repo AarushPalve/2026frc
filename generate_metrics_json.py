@@ -3,15 +3,23 @@
 
 import csv
 import json
+import sys
 from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any, Dict, List, Optional
 
 BASE_DIR = Path(__file__).resolve().parent
-MATCH_CSV = BASE_DIR / "caismatch.csv"
-PICKLIST_CSV = BASE_DIR / "caisTeam.csv"
-OUTPUT_FILE = BASE_DIR / "betterSB" / "2026orore_scouting_data.json"
+MATCH_CSV = BASE_DIR / "pncmpMatch.csv"
+PICKLIST_CSV = BASE_DIR / "pncmpTeam.csv"
+OUTPUT_FILE = BASE_DIR / "betterSB" / "2026pncmp_scouting_data.json"
 METRIC_NAMES = ["a_points", "a_fuel", "tele_fuel", "tower_points", "total_points"]
+print(MATCH_CSV)
+print(PICKLIST_CSV)
+CSV_FIELD_LIMIT = 1 << 24
+try:
+    csv.field_size_limit(CSV_FIELD_LIMIT)
+except OverflowError:
+    csv.field_size_limit(sys.maxsize)
 
 
 def to_float(value: Any) -> float:
@@ -72,7 +80,7 @@ def build_matches(picklist: Dict[int, Dict[str, float]]) -> List[Dict[str, Any]]
                 for key, value in row.items()
                 if isinstance(key, str)
             }
-            scout_init = norm.get("scout_init")
+            scout_init = norm.get("scout_init") or norm.get("scoutername")
             if not scout_init or not str(scout_init).strip():
                 continue
             match_key = norm.get("key")
